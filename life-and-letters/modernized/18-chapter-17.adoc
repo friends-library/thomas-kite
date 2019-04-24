@@ -1,12 +1,19 @@
 == Chapter XVII.
 
-1842.
+[.chapter-synopsis]
+* 1842.
+* Letters
+* Visit to Nottingham Quarterly Meeting
+* Thomas Kite, Jr.`'s long absence from home
+* Visits Bucks Quarterly Meeting.
 
-Letters--Visit to Nottingham Quarterly Meeting--Thomas Kite,
-Jr.`'s long absence from home--Visits Bucks Quarterly Meeting.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Second month 7th, 1842.
 
 Though I have been fatigued with a long Quarterly Meeting,
@@ -37,8 +44,15 @@ sitting in his chair.
 Both Elizabeth and her daughter Hannah have been unwell,
 and this unexpected stroke is a close trial.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Same to Same.
 
+[.signed-section-context-open]
 Second month 11th.
 
 From the tenor of a part of your letter, which we received by yesterday`'s stage,
@@ -48,14 +62,21 @@ which took place on Fourth-day morning, a few minutes after six o`'clock.
 After being laid out, in order for interment, the corpse looked very sweet,
 and like one asleep; a smile seemed settled on the countenance,
 as if he had a pleasant dream.
-The funeral took place yesterday afternoon '`in the Arch street ground.
-'`Your brother and sister seem affected with the loss of their little darling;
+The funeral took place yesterday afternoon in the Arch street ground.
+Your brother and sister seem affected with the loss of their little darling;
 but there are so many considerations to alleviate
 sorrow in the case of a child dying in infancy,
 that I have no doubt they will become reconciled to the stroke.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Rebecca Walton.
 
+[.signed-section-context-open]
 Mount Pleasant, Ohio, last of 2nd month, 1842.
 
 I hope when you are joined in outward membership to the Monthly Meeting of Short Creek,
@@ -68,6 +89,12 @@ may evince you to belong to the dear Saviour, that thus,
 whether a long or short life should be allotted you, in our Heavenly Father`'s providence,
 you may be prepared for the everlasting inheritance.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
 About going to the wadding;
@@ -96,8 +123,15 @@ yet it is not so to plead our consciousness thereof as an excuse for disobedienc
 To sum up all in a few words, remember the promise, "`Be faithful unto death,
 and I will give you a crown of life.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Same to Same.
 
+[.signed-section-context-open]
 Third month 23rd, 1842.
 
 I went on Seventh-day, in company with Mary R. Carpenter and her daughter Rachel,
@@ -125,8 +159,15 @@ faithful to the discoveries of the blessed Truth,
 and that all things may work together for your good, through the Divine blessing,
 I conclude.
 
-About this date, Thomas Kite received a letter from his daughter Susanna,
-containing the following passages:--"`Although contented in our allotment,
+--
+
++++[+++About this date, Thomas Kite received a letter from his daughter Susanna,
+containing the following passages:]
+
+[.embedded-content-document.letter]
+--
+
+Although contented in our allotment,
 we cannot but feel anxiety in regard to the disturbed state of public affairs;
 and many thoughts are sent towards my dear friends in the city,
 whom I fear may be involved in difficulty; particularly you, my dear parents,
@@ -134,10 +175,17 @@ whose days for active exertion seem to be drawing to a close.
 It will seem very trying, if your means for a comfortable subsistence should fail.
 It is a day of perplexity and trouble, but perhaps for the salt`'s sake,
 a preserving Hand may be outstretched still;
-may He overrule these troublesome times for good!`"
+may He overrule these troublesome times for good!
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Third month 25th.
 
 We received your letter by David Garrett last evening.
@@ -170,9 +218,13 @@ and take away all their tin,`" and prepare them as successors in the Church mili
 to those who have finished their work,
 and are safely landed in the realms of light and everlasting peace.
 
-Extracts from Thomas Kite`'s Diary, Fifth month, 1842.
+--
 
-"`I obtained a minute in the Fourth month to visit the
+[.offset]
++++[+++Extracts from Thomas Kite`'s Diary]
+
+Fifth month, 1842.
+I obtained a minute in the Fourth month to visit the
 meetings composing Nottingham Quarterly Meeting.
 I set off on Third-day, Fifth month 10th, and went to the house of my son-in-law,
 Aaron Sharpless, where I lodged.
@@ -185,6 +237,7 @@ I was told after meeting,
 that a person was present who had joined in membership with the Roman Catholics.
 In the afternoon I went to London Britain, where my brother-in-law, Joshua Sharpless,
 readily agreed to accompany me to the meetings I had in prospect.
+
 On Fifth-day the 12th, we rode to the house of Joseph Balance, Little Britain.
 That afternoon we attended the Select Quarterly Meeting, which began at three o`'clock.
 I went home with a friend, who is a widow,
@@ -210,6 +263,7 @@ state of true poverty of spirit which is pronounced blessed by our Lord.
 After an opportunity at J. B.`'s, where we had lodged, we set off for Deer Creek,
 crossing the river Susquehanna at Connewingo bridge.
 At Darlington we found Elisha Cook, waiting to conduct us to his house, where we lodged.
+
 On First-day +++[+++the 15th], we attended Deer Creek Meeting,
 where the doctrines of the Christian religion as held by us,
 were opened to a mixed auditory.
@@ -264,13 +318,18 @@ reached home, thankful for the preservations and help extended to me during this
 Elizabeth C. Mason, Edith Kite, Thomas Evans and William Hodgson, Jr.,
 under appointment of the Quarterly Meeting, paid a visit in this month +++[+++Fifth]
 to the meetings of Muncy Monthly Meeting, and many of the families composing it.
-While the committee was absent on this labour of love,
-Thomas Kite thus wrote to his wife:
 
+[.offset]
++++[+++While the committee was absent on this labour of love,
+Thomas Kite thus wrote to his wife:]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Fifth month 24th, 1842.
-'`
 
-"`Elizabeth Hodgson kindly called on me yesterday with a message from you,
+Elizabeth Hodgson kindly called on me yesterday with a message from you,
 received in her husband`'s letter,
 which also gave information of the committee`'s attending Muncy Monthly Meeting.
 I was glad to hear of your proceedings, and of your health.
@@ -285,10 +344,17 @@ and hope this journey may prove strengthening to her, mentally and bodily;
 and that henceforth she may do, as Paul says he was enabled to do,
 '`forgetting those things which are behind,
 and reaching forth unto those things which are before,
-I press toward the mark for the prize of the high calling of God in Christ Jesus.`'`"
+I press toward the mark for the prize of the high calling of God in Christ Jesus.`'
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Same to Same.
 
+[.signed-section-context-open]
 Fifth month 27th.
 
 I received your acceptable letter.
@@ -324,8 +390,15 @@ I have seen a copy of the charge exhibited against our friend John Wilbur,
 and am surprised, not only at the course taken,
 but at the grounds upon which the charge rests.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Same to Same.
 
+[.signed-section-context-open]
 Sixth month 3rd.
 
 On Second-day I went to the Select Quarterly Meeting at Burlington.
@@ -340,7 +413,7 @@ I lodged at Elizabeth Coleman`'s, and came home on Fourth-day.
 Having drawings to be at Gwynned Monthly Meeting, I went there yesterday,
 accompanied by Jeremiah Hacker.
 Ezra Comfort was engaged in the ministry, and I had something to communicate.
-We dined at Hannah Williams`'s; visited E. Comfort`'s in the afternoon,
+We dined at Hannah Williams`'s; visited Ezra Comfort`'s in the afternoon,
 and came to Jeremiah Hacker`'s place to lodge.
 On returning home this morning,
 I found an invitation to the funeral of Dr. Joshua Whitall`'s wife.
@@ -350,10 +423,15 @@ She died of inflammation of the lungs, as I understand, with only three clays`' 
 Another solemn warning is thus communicated,
 that we be found endeavouring to be prepared for our final summons.
 
-In a letter to his daughter R., of Sixth month 7th, Thomas Kite,
-speaking of his visit to Burlington Quarterly Meeting, says:
+--
 
-"`I walked out in company with my relation, Robert Thomas, to Hickory Grove,
++++[+++In a letter to his daughter R., of Sixth month 7th, Thomas Kite,
+speaking of his visit to Burlington Quarterly Meeting, says:]
+
+[.embedded-content-document.letter]
+--
+
+I walked out in company with my relation, Robert Thomas, to Hickory Grove,
 the late residence of the poet Samuel Smith, but now occupied by his sister, Hannah Mott,
 whose only son, Richard, being designed for a farmer,
 is there engaged in learning that business.
@@ -373,7 +451,6 @@ The trials of life had been sanctified to her, and she found her merciful Saviou
 in whom she was early taught to believe,
 was able to keep that she had committed unto Him against that day.
 She died triumphing in the faith.
-'`
 
 I have been reading a pleasant memoir of a young Friend, Mary Ann Gilpin,
 who died at about twenty-five years of age.
@@ -385,18 +462,25 @@ with copious extracts from his diary and from his letters.
 He was a lovely character; and appears to have ripened fast in religious experience.
 He was a minister fifteen years,
 and closed his earthly course at forty-one--having been a bright example of
-Christian simplicity and devotedness--a burning and a shining light.`"
+Christian simplicity and devotedness--a burning and a shining light.
 
-The anxiety of Thomas Kite and family respecting his son Thomas,
+--
+
++++[+++The anxiety of Thomas Kite and family respecting his son Thomas,
 continued to increase during the Sixth month.
 No information was received from him,
 and his friends at Cincinnati had almost lost all expectation of ever seeing him again,
 fearing he had fallen a victim to the unhealthiness of the climate about New Orleans,
 or to some of the casualties so common on the Mississippi river.
-The uneasiness of his friends was, however, happily dispelled.
+The uneasiness of his friends was, however, happily dispelled.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Seventh month 4th, 1842.
 
 We were comforted this morning by receiving a letter from your brother Thomas,
@@ -410,8 +494,15 @@ I have written in order to relieve your anxiety.
 With affectionate desires for your preservation from evil,
 and for your growth and establishment in the everlasting Truth, I remain your father, etc.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to son Thomas.
 
+[.signed-section-context-open]
 Seventh month 10th, 1842.
 
 We have cause gratefully to acknowledge our Heavenly Father`'s care over you,
@@ -428,8 +519,15 @@ but more especially for your growth in religious experience,
 through obedience to the manifestations of Divine Light in your heart,
 I remain your affectionate father.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Seventh month 19th.
 
 A member of the Hicksite Meeting at Salem,
@@ -447,11 +545,18 @@ his intention to condemn his joining with the Hicksites,
 the child-like simplicity of his mind,
 and the quiet he was favoured to feel near the solemn winding up,
 I feel a comfortable hope that all is well with his immortal spirit.
-'`
 
-Of the Quarterly Meeting, held Eighth mo.
+--
+
+[.offset]
++++[+++Of the Quarterly Meeting, held Eighth mo.
 1st, 1842,
-one of the family thus writes:--"`Our Quarterly Meeting
+one of the family thus writes:]
+
+[.embedded-content-document.letter]
+--
+
+Our Quarterly Meeting
 was rather remarkably comfortable for these times.
 Elizabeth Evans was soon on her feet with the language,
 '`Let not the mighty man glory in his might, let not the rich man,
@@ -480,10 +585,17 @@ Thomas Kite addressed the aged, exhorted to faithfulness and perseverance to the
 mentioning the cases of Simeon and Anna, who having waited for the Lord Jesus,
 were permitted in old age to speak of Him to all that looked for Him in Jerusalem.
 H+++.+++ L. S. united with the last communication,
-and Mercy Ellis closed the opportunity with supplication.`"
+and Mercy Ellis closed the opportunity with supplication.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Eighth month 9th, 1842.
 
 I got home comfortably on Fourth-day evening.
@@ -494,7 +606,7 @@ Your mother and I, and A. N., attended Merion Meeting on First-day,
 where I saw our relation Ann Wetherill, who said she had been at Westtown,
 and that you were in bed with an inflamed eye.
 Please get some one to write us by Fifth-day`'s stage, and let us know how you are.
-T+++.+++ and E. Robson are in the vicinity of the city,
+Thomas and Elizabeth Robson are in the vicinity of the city,
 paying leave-taking visits to their particular friends.
 I believe they were on First-day at Woodbury.
 S+++.+++ Grellet continues very ill, although his symptoms are perhaps somewhat less alarming.
@@ -504,8 +616,12 @@ and to become prepared by the purifying operations of the Holy Spirit,
 for a blessed and happy immortality.
 That this may be your experience, is the earnest desire of your truly affectionate father.
 
-Extract from Thomas Kite`'s Diary:
-"`Having for some time felt a concern to visit the meetings of Bucks Quarterly Meeting,
+--
+
+[.offset]
++++[+++Extract from Thomas Kite`'s Diary:]
+
+Having for some time felt a concern to visit the meetings of Bucks Quarterly Meeting,
 I acquainted our Monthly Meeting therewith, in the Seventh month,
 and obtained a minute of its unity.
 Benjamin Albertson also had a minute to accompany me.
@@ -628,7 +744,7 @@ The eldest daughter seems to be a very promising young woman.
 In the first meeting I was prostrated before the Lord in vocal supplication.
 Although some valuable Friends belong to this meeting,
 there seems to be a lack of depth and experience in managing its concerns,
-and too much backwardness amongst some of the middleaged, and a few younger Friends,
+and too much backwardness amongst some of the middle-aged, and a few younger Friends,
 on whom a concern rests for the welfare of the Church.
 I was concerned to into the women`'s meeting,
 and laboured to encourage them in the work of reformation, so much needed in our Society;
@@ -657,8 +773,13 @@ and desiring that I may be strengthened to abide
 under the purifying baptisms of the Holy Spirit,
 which can alone prepare for future usefulness in the Church.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Ninth month 16th.
 
 Your sister Susanna has a daughter about three weeks old, called after her own mother,
@@ -674,6 +795,7 @@ very remarkable changes have been effected by a submission to the Gospel,
 which is the power of God unto salvation to every one that believes.
 I feel solicitous that our youth may become devoted followers of the Lord Jesus,
 and be prepared to take the place of faithful labourers gone to their everlasting reward.
+
 May you, my dear son, bow to the appearance of that Divine Grace,
 which manifests what is evil, and reproves for it, and as it is heeded,
 strengthens to come out of everything that the Lord`'s controversy is
@@ -703,6 +825,7 @@ It matters little what station may be assigned you in the Church.
 If faithful in the lowest, it will insure the Divine approbation.
 "`I had rather said the Psalmist, "`be a door-keeper in the house of my God,
 than to dwell in the tents of wickedness.`"
+
 In one of your late letters you intimate that you have
 no present prospect of changing your condition.
 I believe you are aware that marriage is one of
@@ -718,8 +841,15 @@ of great price.
 Such a one, instead of being a snare and a hindrance,
 would be a helper to you in your way to the kingdom of rest and peace.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Ninth month 30th.
 
 I have been to Greenwich, and had a pleasant visit.
@@ -752,3 +882,5 @@ and would gladly avail myself of the opportunity of being so near my dear childr
 to pay them a visit, and yet circumstances at this time, seem to forbid it;
 but whether I come frequently to see you, or other duties prevent, I am at all times,
 your truly affectionate father.
+
+--

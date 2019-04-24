@@ -1,11 +1,14 @@
 == Chapter I.
 
-1785-1806.
+[.chapter-synopsis]
+* 1785-1806.
+* Early Religious Impressions
+* Commenced A Diary
+* Yellow Fever of 1803
+* Letter to his Brother Joseph
+* Diary Letter from a Friend.
 
-Early Religious Impressions--Commenced A Diary--Yellow Fever of 1803--
-Letter to his Brother Joseph--Diary Letter from a Friend.
-
-Thomas Kite, the eldest son of Benjamin and Rebecca Kite, was born in Frankford,
++++[+++Thomas Kite, the eldest son of Benjamin and Rebecca Kite, was born in Frankford,
 Philadelphia, on the 16th of the Seventh month, 1785.
 When he was about two years of age a cap of strong lye
 being left upon a chair within his reach,
@@ -33,8 +36,12 @@ His strength gradually increased,
 and in 1800 he was placed apprentice with
 Benjamin Johnson to learn the printing business.
 
-Respecting the early part of his life Thomas Kite thus writes:
-"`Though favoured with religious parents, my early years were marked with many follies;
+Respecting the early part of his life Thomas Kite thus writes:]
+
+[.small-break]
+'''
+
+Though favoured with religious parents, my early years were marked with many follies;
 yet the Lord followed me with the convictions of his Holy Spirit,
 which were too often slighted.
 In my fifteenth year, being placed apprentice,
@@ -64,16 +71,19 @@ and was sometimes livingly favoured of Him, both immediately and instrumentally.
 
 For lack of greater watchfulness, I too often missed my way,
 but met with merciful chastisements, and being thereby humbled,
-I was again admitted to favour.`"
+I was again admitted to favour.
 
-Being, through Divine mercy,
+[.small-break]
+'''
+
++++[+++Being, through Divine mercy,
 thus thoroughly aroused from the state of carnal security in which he had been living,
 Thomas Kite endeavoured to be faithful to the requirings of his Heavenly Father.
 He became earnestly concerned to attend religious meetings,
 and was conscientiously scrupulous that his master should be no sufferer by it.
 Having a daily task allotted, he was enabled by diligence, and working in the evenings,
 to make up his full quota,
-though he not unfrequently attended other meetings than his own.
+though he not infrequently attended other meetings than his own.
 He endeavoured to be circumspect in life and conduct,
 yet he had much to contend against in his natural inclinations and dispositions,
 and was often brought into deep humiliation in
@@ -86,16 +96,25 @@ he delighted to visit.
 Mary Harper, a valuable elder of Frankford Meeting,
 was also one with whom he could enjoy sweet fellowship,
 and from whose counsel and religious advice he derived benefit.
-One of her communications, under date of Eighth month 4th, 1802, contains this passage:
-"`I am informed you are often conversant with dear uncle John Letchworth, who, I hope,
+One of her communications, under date of Eighth month 4th, 1802, contains this passage:]
+
+[.embedded-content-document.letter]
+--
+
+I am informed you are often conversant with dear uncle John Letchworth, who, I hope,
 is in the road to that glorious place where there it neither sorrow nor crying.
 I have often thought it would be well if the youth more generally were to spend
-their leisure hours with those advanced in age and religious experience.`"
+their leisure hours with those advanced in age and religious experience.
 
-After wading along through many spiritual depths in the summer and fall,
+--
+
++++[+++After wading along through many spiritual depths in the summer and fall,
 without attaining that stability his soul longed for, Thomas Kite concluded,
 in the Twelfth month, as one means of improvement, to commence keeping a diary.
-He thus explains at the opening his motives in the undertaking.
+He thus explains at the opening his motives in the undertaking.]
+
+[.small-break]
+'''
 
 Convinced of the necessity of watchfulness and circumspection,
 I have resolved daily to pen down such events as impress my mind, that,
@@ -119,7 +138,6 @@ A day of weakness.
 10th. At meeting: desirous of being inwardly gathered, yet too unwatchful.
 
 16th. Preserve me, O Lord, from every taint of envy.
-
 Evil thoughts.
 How desirable is a well regulated mind,
 even that state in which every thought is brought into captivity to Christ.
@@ -146,8 +164,9 @@ Be careful, oh, my soul!
 Oh, how noble the simplicity of truth!
 How consistent throughout is the character of the humble-minded Christian!
 
-A few of the succeeding pages of his diary have been destroyed or lost.
-The next entry found is about the close of the Third month, 1803.
+[.offset]
++++[+++A few of the succeeding pages of his diary have been destroyed or lost.
+The next entry found is about the close of the Third month, 1803.]
 
 At an evening meeting light and truth prevailed
 and the gospel trumpet was powerfully blown.
@@ -243,7 +262,10 @@ and be near you,
 be admitted through the only true door into the sheepfold of everlasting rest and peace.
 Amen.
 
-About the time the last memorandum was written,
+[.small-break]
+'''
+
++++[+++About the time the last memorandum was written,
 the yellow fever appeared in Philadelphia,
 and although not attended with such mortality as in former years,
 it was sufficiently alarming to cause many of the
@@ -257,11 +279,21 @@ who was then living in East Fallowfield, Chester County, Pennsylvania.
 
 While he was at Reading, he addressed the following letter to his uncle John Letchworth,
 then in the neighbourhood of Muncy, as companion to Annie Mifflin and Mary Gilbert,
-who were engaged in a religious visit to Friends in those parts.
+who were engaged in a religious visit to Friends in those parts.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Thomas Kite to John Letchworth
+
+[.signed-section-context-open]
 Reading, Ninth month 23rd, 1803.
 
-Beloved Uncle:--I am here on business for my master,
+[.salutation]
+Beloved Uncle,
+
+I am here on business for my master,
 and supposing a letter may reach you previous to your return,
 I can inform you that your family were well the day before yesterday.
 Your two apprentices, through fear of the fever, had left the city,
@@ -281,12 +313,20 @@ Wishing you Light and Life in your toilsome journey,
 and the reward of that peace which the world can neither give nor take away,
 I subscribe myself your affectionate nephew,
 
+[.signed-section-signature]
 Thomas Kite.
 
-During this visit in Chester County he had an opportunity, for a short time,
-of accompanying his old friend Peter Andrews, who was visiting the meetings there.
-Under date of Ninth month 30th, his mother thus wrote to him.
+--
 
+[.offset]
++++[+++During this visit in Chester County he had an opportunity, for a short time,
+of accompanying his old friend Peter Andrews, who was visiting the meetings there.
+Under date of Ninth month 30th, his mother thus wrote to him.]
+
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Thomas,
 
 We had a small meeting this day, but to me it was a good one.
@@ -295,12 +335,17 @@ which added strength to some,--at least to my mind.
 Dear Sarah Harrison asked for and received a
 certificate to attend Baltimore Yearly Meeting.
 The loss of her company at this time seems trying, the galleries are so stripped.
-I may say the whole house, for there is but here and there a solitary person sitting.`"
-'`
+I may say the whole house, for there is but here and there a solitary person sitting.
 
-Benjamin Kite added this postscript:
+--
 
-"`As your mother refers to me for an account of your uncle`'s letters,
+[.offset]
++++[+++Benjamin Kite added this postscript:]
+
+[.embedded-content-document.letter]
+--
+
+As your mother refers to me for an account of your uncle`'s letters,
 I shall briefly inform you, that he seemed nearly worn out riding on horseback.
 He mended as he went on, and seems to be preserved in faith and patience,
 and in measure experiences, as he expresses it, the mountains to skip like rams,
@@ -316,9 +361,12 @@ Mary Budd has been twice reported to be dead, but was alive at noon.
 Whether she continues alive is doubtful.
 If she has gone, I trust it is in innocency.
 
-The first entry made by Thomas Kite in his diary, after his return from the country,
+--
+
+[.offset]
++++[+++The first entry made by Thomas Kite in his diary, after his return from the country,
 is under date of Twelfth month 23rd. Reminded two Friends of the necessity of silence.
-Teacher teach yourself.
+Teacher teach yourself.]
 
 30th. Of late I am much given to lightness.
 Beware of vain jesting.
@@ -397,9 +445,13 @@ to experience the gracious condescension of the Great Head of the Church,
 enabling the members present to transact the weighty
 affairs of Society in harmony and love of each other.
 
-Having written to his esteemed friend Mary Harper complaining
-of the malady of sin`' which still clave to him,
-he received a reply, from which the following is extracted:
+[.offset]
++++[+++Having written to his esteemed friend Mary Harper complaining
+of the malady of sin which still clave to him,
+he received a reply, from which the following is extracted:]
+
+[.embedded-content-document.letter]
+--
 
 Through favour I have nearly recovered.
 Although pretty well, as to bodily health,
@@ -409,11 +461,15 @@ I have often thought of you since I last saw you;
 and notwithstanding there are many snares to entangle the feet of the youth,
 I trust you will be preserved while you keep up the watch.
 Remember, the Christian life is a continual warfare.
-'`
 
+[.signed-section-signature]
 Mary Harper.
 
-Diary continued.
+--
+
+[.offset]
++++[+++Diary continued.]
+
 1805+++.+++ First month 5th. I have lately been betrayed into
 something very much resembling slander.
 May the disagreeable feelings which this has occasioned, be a caution to me,
@@ -587,7 +643,10 @@ circumstance injurious to the character of another,
 which it would have been better to have buried in oblivion.
 Oh that I may never again be guilty of this vice!
 
-In the latter end of the Third month, 1805,
+[.small-break]
+'''
+
++++[+++In the latter end of the Third month, 1805,
 John Letchworth removed from the city of Philadelphia,
 and settled on a farm in East Fallowfield, Chester County, Pennsylvania.
 Thomas Kite could not help feeling the loss he sustained by being so
@@ -595,9 +654,15 @@ far separated from his sympathizing friend and relative.
 As the best substitute for personal conversation he frequently wrote to his uncle,
 and many pleasant tokens of friendly remembrance passed between them.
 
-On the 30th of Fifth month, 1805, he wrote to his uncle.
+On the 30th of Fifth month, 1805, he wrote to his uncle:]
 
-Dear Uncle:--At our Preparative Meeting today, six or seven new cases were introduced,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear Uncle:
+
+At our Preparative Meeting today, six or seven new cases were introduced,
 and all but one sent forward.
 James Pemberton mentioned on the occasion the words of our Saviour,
 "`The harvest truly is great,
@@ -610,9 +675,10 @@ should almost wholly neglect those for discipline.
 It certainly indicates that something is lacking on their part.
 I believe that all those whose minds have been mercifully quickened, have work to do,
 according to their different capacities and measures.
-'`
 
-Immediately after Quarterly Meeting in the Eighth month,
+--
+
++++[+++Immediately after Quarterly Meeting in the Eighth month,
 Thomas Kite having a vacation allowed him by his master,
 accompanied his father on a visit to their relatives in Chester County.
 During their absence from home they attended the Quarterly Meeting held at London-grove,
@@ -620,13 +686,21 @@ and that at Concord.
 Soon after their return the yellow fever again made its appearance in Philadelphia,
 but it was of a less malignant type than that of some former years,
 and its victims were comparatively few; still some of the cases were quickly fatal,
-and much alarm, both in the city and county, prevailed for a time.
+and much alarm, both in the city and county, prevailed for a time.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his uncle John Letchworth.
 
+[.signed-section-context-open]
 Philadelphia, Tenth month 21st, 1805.
 
-Dear Uncle:--Your letter of yesterday, which I received today, was very acceptable.
+[.salutation]
+Dear Uncle:
+
+Your letter of yesterday, which I received today, was very acceptable.
 The city now wears a more cheerful aspect; our friends have, many of them, returned,
 and others are still returning.
 Although a few cases of malignant fever occur almost daily,
@@ -671,12 +745,22 @@ I think country Friends ought to sympathize with the poor citizens in their many
 especially you, who have so lately made your escape from amongst us; but trials,
 I suppose, you meet with, even in Fallowfield.
 
-His brother Joseph, a little boy of ten years of age,
-being on a visit to his relatives in Fallowfield, Thomas addressed this letter to him.
+--
 
+[.offset]
++++[+++His brother Joseph, a little boy of ten years of age,
+being on a visit to his relatives in Fallowfield, Thomas addressed this letter to him.]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Tenth month 21st, 1805.
 
-Dear Brother:--I thought I might write you a few
+[.salutation]
+Dear Brother:
+
+I thought I might write you a few
 lines to convince you I have not forgotten you.
 I remember you, and desire that while absent from under your parents`' notice,
 you may behave with a watchful care and circumspection,`' endeavouring to be modest,
@@ -684,13 +768,13 @@ quiet and obliging, industrious in doing what your friends may have for you to d
 and attentive to meetings whenever way is made for you to go.
 Don`'t you remember the words of one of the divine songs:
 
+[verse]
+____
 What blest example do I find
-
 Writ in the Word of Truth,
-
 Of children that began to mind
-
 Religion in their youth.
+____
 
 Young as you are, dear brother, you are not too young to be sensible of your duty,
 and that when you do well you feel more composed
@@ -702,10 +786,18 @@ and pleasing and comfortable to our dear parents,
 who have no greater joy than to see their children good and virtuous.
 Think on these things when you go to bed.
 
-From your loving brother.
+[.signed-section-closing]
+From your loving brother,
+
+[.signed-section-signature]
 Thomas Kite
 
-Diary: Third month`', 1806.
+--
+
+[.offset]
++++[+++Diary continued:]
+
+Third month, 1806.
 Although my mind during several of the preceding
 months has been much in a state of dryness,
 and to myself I seem to make but little progress on my heavenly journey,
@@ -720,8 +812,13 @@ be preserved in a humble dependence on that Almighty Arm of power which
 alone can lift the mind above the propensities of our fallen nature,
 and enable us to persevere in the Christian life.
 
-Having written to this Friend, he received the following answer:
+[.offset]
++++[+++Having written to this Friend, he received the following answer:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Wilmington, Third month 25th, 1806.
 
 Now my dear friend, Thomas Kite, I can inform you +++[+++that]
@@ -735,7 +832,9 @@ angel of your Heavenly Father`'s presence.
 Be comforted, and put on strength in his blessed name.
 He will fight all your battles for you if you are but really resigned to his divine will.
 
-Diary: Fourth month 1st. Great is the necessity of silence and self-recollection.
+--
+
++++[+++Diary:] Fourth month 1st. Great is the necessity of silence and self-recollection.
 Oh, may I become increasingly conversant therewith,
 and humbly endeavour in retiredness of mind to distinguish the voice
 of the true Shepherd from every presentation and imagination which
@@ -778,10 +877,13 @@ May he be preserved.
 Oh, this unsubjected will!
 How it hinders my access to the Fountain of Good.
 
-On the 16th day of the Seventh month, this year, he became of age.
+[.small-break]
+'''
+
++++[+++On the 16th day of the Seventh month, this year, he became of age.
 In writing in aftertime of his early life, lie says:
 "`During my minority I twice had the privilege of accompanying, for a short time,
 Friends who were travelling in the work of the ministry,
 which afforded me some seasons of profit.
 From the time of the memorable visitation until the close of my apprenticeship,
-I endeavoured conscientiously to discharge my duty to my employer.`"
+I endeavoured conscientiously to discharge my duty to my employer.`"]

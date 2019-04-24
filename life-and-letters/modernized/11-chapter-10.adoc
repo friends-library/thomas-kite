@@ -1,18 +1,24 @@
 == Chapter X.
 
-1835.
+[.chapter-synopsis]
+* 1835.
+* Edith Jefferis`' appearance in the ministry
+* Death of Thomas Kite`'s son Joshua
+* Marriage of Aaron Sharpless to Susanna Kite.
 
-Edith Jefferis`' appearance in the ministry--Death of Thomas
-Kite`'s son Joshua--Marriage of Aaron Sharpless to Susanna Kite.
-
-In the First month, 1835, with the unity of his Monthly Meeting,
++++[+++In the First month, 1835, with the unity of his Monthly Meeting,
 Thomas Kite visited the meetings constituting
 Burlington and Haddonfield Quarterly Meetings,
 except the few on the sea coast which he had so recently attended.
-The journey was performed during the continuance of a very remarkably severe frost.
+The journey was performed during the continuance of a very remarkably severe frost.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Philadelphia, Second month 20th, 1835.
 
 You will see in tomorrow`'s "`Friend`" an obituary notice of Lydia S. Rogers;
@@ -22,7 +28,7 @@ but perhaps what is given will suffice to give evidence
 that she is added to the "`cloud of witnesses`" of the
 effect of the Gospel in preparing for the close of life.
 Her last expressions I think peculiarly striking.^
-footnote:[See Youthful Piety, p. 197, 1st ed+++.+++; 229, 2nd ed+++.+++,
+footnote:[See [.book-title]#Youthful Piety#, p. 197, 1st ed+++.+++; 229, 2nd ed+++.+++,
 for an account of her by Thomas Kite.]
 
 Since your absence I have thought of you with earnest desires,
@@ -42,17 +48,26 @@ Love to dear aunt Martha and the girls.
 I hear cousin Ann is coming with you; she will be welcome to us.
 Don`'t forget to mention me in affectionate terms to cousin T. +++[+++Tamasine Morris]
 and her companion.
-I hope they will set out right, by giving religiorl the first place.
+I hope they will set out right, by giving religion the first place.
 The things of the world will prosper better by this means with them, I am well assured.
 
-Having received from his sister-in-law, Martha Jefferis,
+--
+
++++[+++Having received from his sister-in-law, Martha Jefferis,
 information that her daughter Edith had appeared
 in a public meeting in the line of the ministry,
-Thomas Kite thus wrote to her.
+Thomas Kite thus wrote to her.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Third month 7th, 1835.
 
-Dear Sister:--Your letter of the 22nd of last month was very acceptable to us,
+[.salutation]
+Dear Sister:
+
+Your letter of the 22nd of last month was very acceptable to us,
 and was the means of renewedly quickening in our minds that sympathy which those,
 who are in measure baptized by one spirit into one body,
 are at times favoured to experience,
@@ -107,12 +122,26 @@ Though nature may be reluctant to yield, when once willingly submitted to, she w
 as many have found to their humble admiration,
 that "`his yoke is easy and his burden light.`"
 
-In the Sixth month, 1835, Thomas Kite attended New England Yearly Meeting.
+--
+
++++[+++In the Sixth month, 1835, Thomas Kite attended New England Yearly Meeting.
 It was a deeply proving prospect, for his son Joshua was very ill,
 yet believing that his Master called him there,
 and having the consent and unity of his Meeting in the concern, he gave up in submission.
 It was a trying meeting;
-some of the principles of Isaac Crewdson had found
+some of the principles of Isaac Crewdson^
+footnote:[Isaac Crewdson was the author of __The Beacon__,
+a booklet published at this time by a member of the society,
+which strongly criticized and attempted to undermine
+several of the fundamental principles and practices
+of the Society of Friends.
+In a supposed attempt to avoid the errors promulgated
+by Elias Hicks and his followers, Crewdson took aim at the
+long held belief in the light of Christ inwardly revealed,
+calling it a "`delusive notion,`" and denying any true
+knowledge of God, or of His salvation, except through
+the Scriptures.--F.L.P.]
+had found
 advocates within the borders of that Yearly Meeting,
 and their spirits were to be felt.
 
@@ -125,16 +154,29 @@ confuting one after another in the order in which they had been made.
 Elisha Bates was present,
 and active in endeavouring by his ministry to uphold
 the unsound sentiments he had imbibed in England,
-or which having been imbibed before, received there nourishment and strength.
+or which having been imbibed before, received there nourishment and strength.^
+footnote:[Elisha Bates had formerly been a minister
+in unity with Friends, but, through unwatchfulness,
+joined with some who openly repudiated many of the
+fundamental principles of the society, and was
+eventually disowned.--F.L.P.]
 Hearing more unfavourable accounts respecting the health of his son,
 Thomas Kite hurried home as fast as was practicable.
-The poor sufferer was still living when his father returned.
+The poor sufferer was still living when his father returned.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Nathan Sharpless and Wife.
 
+[.signed-section-context-open]
 Philadelphia, Sixth month 24th, 1835.
 
-Dear Brother and Sister:--Our poor sufferer has been released, and rather unexpectedly,
+[.salutation]
+Dear Brother and Sister:
+
+Our poor sufferer has been released, and rather unexpectedly,
 at last.
 He ceased to breathe seventeen minutes past 12 +++[+++this day]. It
 is cause of thankfulness that I was permitted to see him,
@@ -142,8 +184,15 @@ and be present at his departure.
 I reached home on Seventh-day afternoon.
 The Yearly Meeting closed with one sitting on Sixth-day.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 J+++.+++ W. to Thomas Kite.
 
+[.signed-section-context-open]
 Hopkinton, Seventh month 20th, 1835.
 
 You are not without some in New England, my dear friend,
@@ -170,9 +219,15 @@ successful attempts--to take this living bread out of the children`'s mouths,
 and to proffer a fair show of that which is not bread, and I fear contained poison.
 Please accept my tender love, my dear friend, for yourself, your wife and children.
 
+--
+
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 Thomas Kite`'s testimony concerning his son Joshua.
 
-"`In the Sixth month, 1835, my second son, Joshua, departed this life,
+In the Sixth month, 1835, my second son, Joshua, departed this life,
 being in the 19th year of his age.
 He had for a number of years endured much bodily suffering,
 which I humbly trust was sanctified to him,
@@ -183,14 +238,20 @@ and I have a consoling hope,
 that his spirit has been permitted to join the
 company seen by John in the opening of light,
 who had come out of much tribulation,
-and washed their robes and made them white in the blood of the Lamb.`"
+and washed their robes and made them white in the blood of the Lamb.
 
-In the Ninth month, 1835, Susanna Kite, with the approbation of her parents,
+--
+
++++[+++In the Ninth month, 1835, Susanna Kite, with the approbation of her parents,
 was united in marriage to Aaron Sharpless.
 Her home was thenceforward in East Bradford, Chester Co.,
 and there the day after the wedding she accompanied her husband,
-taking her sister Rebecca with her.
+taking her sister Rebecca with her.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
 I have seen nothing of Jane, but we all had a piece of wedding cake.
@@ -226,11 +287,21 @@ bring forth fruits to his praise.
 Married or single, I greatly desire for my children, that whether they eat or drink,
 or whatever they do, they may do all to the glory of God.
 
-After visiting Susanna at her new home, her father wrote to her:
+--
 
+[.offset]
++++[+++After visiting Susanna at her new home, her father wrote to her:]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Tenth month 3rd, 1835.
 
-Dear Susanna: You may remember I mentioned on Second-day,
+[.salutation]
+Dear Susanna:
+
+You may remember I mentioned on Second-day,
 that I heard a noise which I apprehended was the blowing up of a powder mill.
 It turns out that Dupont`'s powder mill exploded, by which event two men lost their lives.
 
@@ -268,13 +339,22 @@ conspicuously to evince your devotion to the cause of Christ,
 when the few faithful standard-bearers who yet remain in your
 neighbourhood shall have entered their everlasting rest.
 
-With the approbation of his Monthly Meeting,
-Thomas Kite attended Baltimore Yearly Meeting.
-On his return he thus wrote to his daughter Susanna:
+--
 
++++[+++With the approbation of his Monthly Meeting,
+Thomas Kite attended Baltimore Yearly Meeting.
+On his return he thus wrote to his daughter Susanna:]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Eleventh month 7th, 1835.
 
-My Dear Daughter:--Before I set out for Baltimore I
+[.salutation]
+My Dear Daughter:
+
+Before I set out for Baltimore I
 could not make it suit to write to you,
 and since my return I have been at a meeting of
 one description or another every day until today.
@@ -293,7 +373,7 @@ and sometimes our meetings were in degree favoured.
 Though the state of things is low, in the general,
 yet there are individual cases of dedication to the best of causes,
 and a few young people seem under the preparing hand of
-the Lord for future usefulness io the Church.
+the Lord for future usefulness to the Church.
 May they be kept humble and teachable,
 and thus escape being taken in the snare of the enemy who will
 seek to entangle them with the friendship of the world,
@@ -308,8 +388,15 @@ They attended Abington Quarter this week, and have gone homeward.
 Do you know that Elizabeth Fell, sister to Edith,
 who is now a teacher in our Select School, is making her home with us?
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Edith Jefferis.
 
+[.signed-section-context-open]
 Philadelphia, Eleventh month 21st, 1835.
 
 Understanding that an opportunity will occur this afternoon, my dear Edith,
@@ -366,8 +453,15 @@ your own soul at times will be as a watered garden,
 for "`He that waters shall be watered himself;
 and the praise be ascribed where it is due.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Philadelphia, Eleventh month 29th, 1835.
 
 Your certificate was sent to Pennock Passmore by the Westtown stage, yesterday.
@@ -401,13 +495,23 @@ of my belief that she is a solidly concerned Friend.
 You can easily imagine my feelings are deeply interested in desire
 for her preservation and encouragement in the path of dedication;
 and also, that, seeing the harvest is great, and the labourers few,
-the Lord of the harvest may be pleased to send forth more labourers..
+the Lord of the harvest may be pleased to send forth more labourers.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Philadelphia, Twelfth month 11th, 1835.
 
-Dear Daughter:--I have been lately reading the life of James Macintosh,
+[.salutation]
+Dear Daughter:
+
+I have been lately reading the life of James Macintosh,
 written by his son.
 I am partial to biography, where the character is fairly laid open;
 and I think in this instance the author has succeeded well, neither wholly concealing,
@@ -451,7 +555,7 @@ the most important of all concerns may continue
 to hold the chief place in your affections;
 and that everything else, however proper in its place, may be subordinate.
 When the current of our earthly concerns flows smoothly,
-and everything is smiling around ns, it is difficult to realize the truth,
+and everything is smiling around us, it is difficult to realize the truth,
 that days of trial are in reserve for us,
 notwithstanding all human experience proclaims it.
 No language can set forth adequately the necessity and
@@ -467,3 +571,5 @@ so submit to the sanctifying operations of his Holy Spirit,
 that she may always experience his protection, and the language be applicable to her,
 "`He shall cover you with his feathers, and under his wings shall you trust;
 his truth shall be your shield and buckler.`"
+
+--

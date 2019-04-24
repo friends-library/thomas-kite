@@ -1,15 +1,27 @@
 == Chapter XII.
 
-1838
+[.chapter-synopsis]
+* 1838
+* Letters
+* Death of John Justice
+* Death of Benjamin Kite
+* Marriage of William Kite and Mary F. Clement
+* Visit to Concord Quarterly Meeting
+* Memoranda
 
-Letters--Death of John Justice--Death of Benjamin Kite--Marriage of William
-Kite and Mary F. Clement--Visit to Concord Quarterly Meeting--Memoranda.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Philadelphia, Second month 11th, 1838.
 
-Dear Daughter:--The poet Cowper, somewhere in the "`Task`" has this reflection:
+[.salutation]
+Dear Daughter:
+
+The poet Cowper, somewhere in the "`Task`" has this reflection:
 "`How various his employments,
 whom the world deems idle`" and lest that portion of the world
 which occupies a certain farm in East Bradford,
@@ -61,7 +73,9 @@ I should take him to be six feet high, and well proportioned.
 He looks like John Bullock; his age is about forty-eight,
 and he is very gray for his time of life.
 
-Thomas Kite, in the early part of the Third Month, this year,
+--
+
++++[+++Thomas Kite, in the early part of the Third Month, this year,
 paid a religious visit to the meetings composing Salem Quarterly Meeting.
 
 In the Fifth Month he was again appointed by the Quarterly Meeting of Philadelphia,
@@ -69,13 +83,21 @@ one of a committee to visit Muncy Monthly Meeting.
 Pretty soon after the Quarterly Meeting, the committee, filling two carriages,
 started to fulfill their appointment; they consisted of George Williams, Thomas Kite,
 William Evans, Joseph Snowden, Sarah Hillman, H. Regina Shober,
-Elizabeth C. Mason and Jane Clark.
+Elizabeth C. Mason and Jane Clark.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his Wife.
 
+[.signed-section-context-open]
 Muncy, Fifth month 20th, 1838.
 
-My Dear Wife:--I am comfortably seated in Mercy Ellis`' back parlor, pen in hand,
+[.salutation]
+My Dear Wife:
+
+I am comfortably seated in Mercy Ellis`' back parlor, pen in hand,
 prepared to communicate a brief account of our proceedings.
 We started,
 as you may remember on Seventh-day week +++[+++12th]. That night we reached Pottstown.
@@ -123,11 +145,21 @@ who seems green and lively at the advanced age of ninety-five,
 going up and down stairs without assistance.
 With love to my dear parents, to yourself and children, I am your truly attached husband.
 
-Rebecca Kite, Jr., having gone to Westtown as teacher, her father thus writes to her:
+--
 
+[.offset]
++++[+++Rebecca Kite, Jr., having gone to Westtown as teacher, her father thus writes to her:]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Sixth month 22nd, 1838.
 
-Dear Daughter:--Your letter, which came by the stage on Fifth-day, was very acceptable.
+[.salutation]
+Dear Daughter:
+
+Your letter, which came by the stage on Fifth-day, was very acceptable.
 It would seem by the information contained in it,
 very doubtful whether our friend Sarah Ann Dillon,
 will be raised from her bed of sickness.
@@ -159,24 +191,41 @@ and, that having served the Lord in their generation,
 their portion may be forever with the ransomed and redeemed.
 So wishes, so prays, for you, my dear Rebecca, your affectionate father.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Sixth month 19th.
 
-"`I trust that you will not only be usefully employed in the school,
+I trust that you will not only be usefully employed in the school,
 but that the consciousness of being for the present in your proper place,
 will produce heartfelt contentment.
 Your advancement in the way everlasting is the dearest wish I have for you;
 and I feel a secret hope that even this all-important object may be
 promoted in some degree by this little surrender of your own will,
 through the tender mercy of Him who can cause all
-things to work together for good to them that love Him.`
+things to work together for good to them that love Him.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to E. S. F.
 
+[.signed-section-context-open]
 Philadelphia, Sixth month 23rd; 1838.
 
-Dear Friend:--My Rebecca has gone to Westtown to fill
+[.salutation]
+Dear Friend:
+
+My Rebecca has gone to Westtown to fill
 for a short time the place of Sarah Ann Dillon,
 as writing teacher.
 Sarah Ann is very ill, and her recovery doubtful.
@@ -211,8 +260,15 @@ yet we know the Lord remains the foundation of the righteous generations.
 With sincere desires for your preservation from evil,
 and for your growth in sincere heartfelt, vital religion, I remain your friend.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Seventh month 20th, 1838.
 
 Last First-day morning I found my mind drawn to attend, the North Meeting.
@@ -225,8 +281,15 @@ the ancient testimony of the everlasting Truth.
 I think he will not continue in this mutable state long.^
 footnote:[See "`The Last Days of John Justice`" in "`The Friend,`" 1838.]
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Seventh month 31st, 1838.
 
 The funeral of our relative, Mary Phipps, took place yesterday.
@@ -247,16 +310,23 @@ We hear he got home; was at his own meeting on the following First-day,
 and last Sixth or Seventh-day departed this life, rather suddenly at last,
 though he had been for some time unwell.
 
-From Thomas Kite`'s Diary: "`On the 16th of the Ninth month, 1838, my father died,
+--
+
++++[+++From Thomas Kite`'s Diary:] On the 16th of the Ninth month, 1838, my father died,
 having attained the age of eighty-four years and eight months.
 He resided in my family for several years previous to his death.
 He was confined to the house for a few weeks,
 in consequence of a fall received in his chamber; prostration of strength ensued,
 and he departed this life with little apparent bodily suffering.
-His love to the Truth continued unabated to the last, and his end was peace.`"
+His love to the Truth continued unabated to the last, and his end was peace.
 
-Amongst Thomas Kite`'s papers the following was found.
+[.offset]
++++[+++Amongst Thomas Kite`'s papers the following was found.]
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 Last illness of Benjamin Kite.
 
 Our father deceased Ninth month 16th, 1838, in the eighty-fifth year of his age.
@@ -319,30 +389,46 @@ On Ninth month 11th, he said to one of his sons,
 '`Though I enter the valley of the shadow of death with awe, yet it is not with fear.`'
 Thus, preserved in humble, patient waiting, he gradually declined, until the 16th,
 when he gently passed away, without apparent suffering, we trust,
-to the everlasting inheritance.`"^
+to the everlasting inheritance.^
 footnote:[See obituary in "`The Friend`' of this date.]
 
-William Kite, with the approbation of his parents,
+--
+
++++[+++William Kite, with the approbation of his parents,
 was married on the 8th of Eleventh month, 1838, to Mary F. Clement.
 
 In the Eleventh month, Thomas Kite attended the meetings of Concord Quarterly Meeting.
 In a letter to his wife, dated East Bradford, Eleventh month 17th,
 after giving information of meetings at Darby, Goshen, Willistown and Birmingham,
-he thus concludes:
-"`I have found occasion in these several meetings to
+he thus concludes:]
+
+[.embedded-content-document.letter]
+--
+
+I have found occasion in these several meetings to
 endeavour to advocate the cause of Truth,
 and in some more private opportunities to labour as ability has been afforded.
 Yet, on the whole I have been in a rather low condition; but am content,
 if I may but be preserved in my proper allotment, doing no harm,
 and receiving the answer of peace.
 I feel the need of watching unto prayer,
-and desire that with me patience may have its perfect work.`"
+and desire that with me patience may have its perfect work.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Philadelphia, Twelfth month 28th, 1838.
 
-Dear Daughter:--I thought I must write a few hasty lines,
+[.salutation]
+Dear Daughter:
+
+I thought I must write a few hasty lines,
 to express our sympathy with you in your anxious cares about your suffering babe.
 We know something of parental feelings in such a case.
 May you be preserved in a state of resignation to Divine disposal,
@@ -355,8 +441,15 @@ They were yesterday at our Monthly Meeting;
 and were to set off this morning for the sea shore,
 in pursuance of a prospect of visiting the meetings in New Jersey.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Martha Jefferis
 
+[.signed-section-context-open]
 Philadelphia, Twelfth month 28th, 1838.
 
 Please give my love to cousin Ann.
@@ -377,11 +470,16 @@ harmless, undefiled, and separate from sinners;
 that so through his power strengthening her, she may stand in her allotment,
 clothed with the whole armor of light.
 
-About the close of 1838, Thomas Kite,
-having made a brief recital of the various religious engagements he had fulfilled,
-with minutes of his meeting, adds:
+--
 
-"`In addition to these, I have several times been under appointment from the Quarterly,
++++[+++About the close of 1838, Thomas Kite,
+having made a brief recital of the various religious engagements he had fulfilled,
+with minutes of his meeting, adds:]
+
+[.embedded-content-document.letter]
+--
+
+In addition to these, I have several times been under appointment from the Quarterly,
 and once from the Yearly Meeting, to visit Monthly and Particular Meetings;
 besides which, I have often attended neighbouring Quarterly, Monthly and other Meetings,
 as way has opened for it.
@@ -399,4 +497,6 @@ to testify the Gospel of the grace of God.
 In the year 1835 I was appointed clerk of the Quarterly Meeting of Philadelphia,
 in which service I yet continue.
 I have endeavoured, with Divine assistance, to fulfill the duties of this station,
-under a sense of their weight and importance.`"
+under a sense of their weight and importance.
+
+--

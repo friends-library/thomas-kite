@@ -1,16 +1,27 @@
 == Chapter XIII.
 
-1839.
+[.chapter-synopsis]
+* 1839.
+* Letters
+* Jonathan Evan`'s death
+* Thomas Evans appears as a minister
+* Diary
+* Thomas Kite Jr. Removes to Cincinnati
+* Letters
 
-Letters--Jonathan Evan`'s death--Thomas Evans
-appears as a minister--Diary Thomas Kite--Jr.,
-Removes to Cincinnati--Letters.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Philadelphia, Second month 8th, 1839.
 
-Dear Rebecca:--'`A prince and a great man has fallen this day in Israel.
+[.salutation]
+Dear Rebecca:
+
+A prince and a great man has fallen this day in Israel.
 Jonathan Evans departed this life this morning, in great tranquillity,
 in apparently the full possession of his mental powers,
 and without giving evidence of bodily suffering.
@@ -20,15 +31,25 @@ he underwent some conflict of mind, but it was soon over, and he felt quiet and 
 and the Everlasting Arm seemed underneath to the last.
 The funeral is to be on Second-day morning.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Aaron Sharpless
 
+[.signed-section-context-open]
 Second month 8th.
 
-Dear Son:--We have had quite a pleasant visit from Daniel Wheeler;
+[.salutation]
+Dear Son:
+
+We have had quite a pleasant visit from Daniel Wheeler;
 he seemed quite at liberty for social converse,
 and his extensive travels and remarkable life furnished abundant topics of interest.
 He has had a cold which has confined him to the house for a few days past.
-It is likely Rebecca mentioned that T. and E. Robson, as well as D. Wheeler,
+It is likely Rebecca mentioned that Thomas and Elizabeth Robson, as well as Daniel Wheeler,
 were at our Quarterly Meeting.
 It was large and interesting.
 Thy mother and I hope to make you a visit after our +++[+++next]
@@ -36,9 +57,18 @@ Monthly Meeting; perhaps we may take Chichester and Concord in our way.
 We quite wish to be with you,
 but circumstances have induced us to postpone it for the present.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
-Second month 16th. I was at the funeral of our Friend Jonathan Evans,
+[.signed-section-context-open]
+Second month 16th.
+
+I was at the funeral of our Friend Jonathan Evans,
 and was invited into the room where the family were assembled, where also Ezra Comfort,
 Christopher Healy, Elizabeth Pitfield and Sarah Hillman were.
 A very precious solemnity prevailed,
@@ -54,7 +84,7 @@ Daniel Wheeler has taken tea and spent an evening at our Friend`'s late residenc
 in company with a number of his children.
 Our Friend Abigail Nicholson deceased on Third-day night, and the funeral is this day.
 On Fourth-day morning I went to Woodbury, to attend Salem Quarterly Meeting.
-I found T. and E. Robson at Joseph Whitall`'s.
+I found Thomas and Elizabeth Robson at Joseph Whitall`'s.
 
 It was a comfortable meeting.
 In the meeting preceding that for business on Fifth-day,
@@ -71,7 +101,12 @@ She appeared in the morning +++[+++in the ministry]
 amongst us, which satisfied me with my detention for the night.
 I had a passage to Camden with T. Warrington, who had been at the Quarterly Meeting.
 
-From Thomas Kite`'s Diary: "`Third month 5th. Calling on Anne S., wife of Robert Pearsall,
+--
+
+[.offset]
++++[+++From Thomas Kite`'s Diary:]
+
+Third month 5th. Calling on Anne S., wife of Robert Pearsall,
 who appears to be afflicted with pulmonary consumption,
 I was drawn into sympathy with her, and a short testimony to Christ Jesus,
 the Light of the World, and the life of men, was delivered.
@@ -208,9 +243,15 @@ yet the Lord was near his dependent children; his power at times was felt to be 
 and the meeting separated under a feeling sense impressed on many minds,
 that God is good to Israel.
 
+[.small-break]
+'''
+
 +++[+++At this Yearly Meeting the following public Friends were present--Daniel Wheeler,
 Elizabeth Robson, Joseph John Gurney, Anne Thornburgh, Joseph Edgerton,
 Richard H. Thomas, Elizabeth Peckham, Anne A. Jenkins, Phebe Haines, late Cobb.]
+
+[.small-break]
+'''
 
 30th. Attended Frankford Monthly Meeting.
 Silence was my portion in the meeting for worship,
@@ -228,7 +269,10 @@ His daughter Rebecca being in New England, visiting some of his friends,
 Thomas Kite wrote to her frequently.
 Under date of Sixth month 22nd, after family information, etc, he concludes:
 
-"`In conclusion, I desire, as perhaps I have written before, thy preservation,
+[.embedded-content-document.letter]
+--
+
+In conclusion, I desire, as perhaps I have written before, thy preservation,
 not only from evil, but from its appearance,
 that thy light may so shine through thy watchful
 attention to the intimations of the Divine Will,
@@ -249,8 +293,15 @@ both towards God and towards man.`'
 With a heart full of tender greetings, and affectionate desires for thy welfare,
 every way, I remain thy father and friend.`"
 
-On the 17th of the preceding month he wrote to her:
-"`I have nothing remaining but to express the desire which often accompanies my mind,
+--
+
+[.offset]
++++[+++On the 17th of the preceding month he wrote to her:]
+
+[.embedded-content-document.letter]
+--
+
+I have nothing remaining but to express the desire which often accompanies my mind,
 that thou may experience preservation from evil; cultivate retirement of mind,
 and spiritual fellowship with the '`Friend who sticketh
 closer than a brother`' that thus the present journey,
@@ -262,16 +313,23 @@ that the resolution may be written in thy heart by the finger of divine love and
 to perfect holiness in the fear of the Lord,
 being enabled to breathe the language of adoption, '`Abba,
 Father!`' to take the exhortation of the Lord by his prophet,
-'`Wilt thou not from this time say unto me, my Father, thou art the guide of my youth?`"
+'`Wilt thou not from this time say unto me, my Father, thou art the guide of my youth?`'
 
-Thomas Kite, Jr., in the Seventh month of this year,
+--
+
++++[+++Thomas Kite, Jr., in the Seventh month of this year,
 went to the West to establish himself in business.
 He had served his apprenticeship as a machinist;
 and that trade being under temporary depression in Philadelphia,
-he sought an opening where the prospect seemed more encouraging.
+he sought an opening where the prospect seemed more encouraging.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca, then again at Westtown as a teacher.
 
+[.signed-section-context-open]
 Eighth month 19th, 1839.
 
 I can scarcely lay down my pen without expressing some desires
@@ -283,10 +341,16 @@ mayest thou be restored to us in peace,
 established in the holy resolution not to live henceforth unto thyself,
 but unto Him who died for thee and rose again.
 
-Ninth month 9th.
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
-'`
+
+[.signed-section-context-open]
+Ninth month 9th.
 
 Thy sister had a letter from her husband, dated at Mount Pleasant, on First-day evening,
 the first inst., after attending two meetings there.
@@ -312,6 +376,12 @@ him were convinced they should not find it,
 Accept these few remarks in the love in which they are written
 by him who feels himself thy affectionate father.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
 Religious parents can have no greater consolation in regard to
@@ -325,8 +395,15 @@ Should this be thy happy experience, I shall not regret our temporary separation
 May the Lord bless thee, and keep thee from evil, and if it be his blessed will,
 restore thee to us in peace.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Tenth month 5th.
 
 I suppose thou art now at Richmond, attending the Yearly Meeting,
@@ -358,7 +435,9 @@ and keeping the most allowable of worldly comforts in their proper places.
 Thus wilt thou become increasingly, if our lives be spared, a comfort to thy parents,
 and to other affectionate friends.
 
-John L. Kite had been for some time practising as a physician in Susquehanna County,
+--
+
++++[+++John L. Kite had been for some time practising as a physician in Susquehanna County,
 where his children could not have the benefits of mingling in
 social intercourse with the members of the Society of Friends.
 This became a subject of much concern to Thomas Kite,
@@ -367,7 +446,12 @@ Shortly after his arrival, several of his children were taken ill with scarlet f
 and his third son, Alban, a lovely youth of seventeen years of age,
 sunk beneath the attack.
 In a letter written to an absent member of the family, by one of his cousins,
-this passage occurs: "`I think I never saw a more beautiful corpse than his was.
+this passage occurs:]
+
+[.embedded-content-document.letter]
+--
+
+I think I never saw a more beautiful corpse than his was.
 His fine high forehead, his sweet and placid countenance looked so lovely,
 we could scarce resign him to the cold earth.
 William and Elizabeth Evans sat with the family.
@@ -384,11 +468,21 @@ So it was through faith that the ornament of a meek and
 quiet spirit was so conspicuously set upon him;
 desiring that we might follow him as he followed Christ.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Martha Jefferis
 
+[.signed-section-context-open]
 Philadelphia, Eleventh month 25th, 1839.
 
-Dear Sister:--I thought I might as well inform thee,
+[.salutation]
+Dear Sister:
+
+I thought I might as well inform thee,
 although probably thou hast heard it already,
 that our banks generally do not consider themselves at liberty
 to declare dividends during the suspension of specie payments.
@@ -421,8 +515,15 @@ was to sail on Sixth-day for the West Indies.
 I understand he expects to be at our Yearly Meeting in the Spring,
 and also at those of New York and Rhode Island.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Twelfth month 25th, 1839.
 
 Thou art very near to my best feelings,
@@ -445,3 +546,5 @@ and to visit some Indians west of the Mississippi.
 He is to be felt for, being lame, and having but one horse and a dearborn,
 the season trying to travel,
 and the mountains being often covered to a considerable depth with snow.
+
+--

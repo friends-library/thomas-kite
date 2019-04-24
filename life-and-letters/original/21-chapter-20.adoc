@@ -1,13 +1,17 @@
 == CHAPTER XX.
 
-1843.
+[.chapter-synopsis]
+* 1843.
+* Attends New York Yearly Meeting
+* Diary and Letters
 
-Attends New York Yearly Meeting--Diary and Letters.
++++[+++Thomas Kite was liberated by his Monthly Meeting, held Fifth month 25th, 1843,
+to attend the Yearly Meeting of New York.]
 
-Thomas Kite was liberated by his Monthly Meeting, held Fifth month 25th, 1843,
-to attend the Yearly Meeting of New York.
+[.small-break]
+'''
 
-Diary: "`Fifth month 26th. Sixth-day.
++++[+++Diary:] Fifth month 26th. Sixth-day.
 Having had drawings to attend the Yearly Meeting of New York, I set out,
 and had the company of my beloved friend, William Evans, who, as well as myself,
 had obtained a minute for that purpose.
@@ -19,15 +23,19 @@ Our friend Samuel Cope, from our Yearly Meeting, was well engaged in testimony.
 28th. First-day.
 Attended the morning meeting in the upper room.
 It appeared to me to be an open, favoured time.
-
 After I had spoken on the parable of the husbandman who went
 out at successive periods to hire labourers into his vineyard,
 and had been enlarged to various states,
 William Evans followed in a lively and powerful testimony.
-The afternoon meeting in the basement proved a heavy time.`"
+The afternoon meeting in the basement proved a heavy time.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his Wife.
 
+[.signed-section-context-open]
 New York, Fifth month 28th.
 
 We arrived at this place towards evening on Sixth-day,
@@ -57,8 +65,15 @@ I think no less than sixteen representatives to the Select Meeting were absent;
 for very few of whom any reasons were offered.
 I met with many Friends of my acquaintance, and inquiries for thee are often made.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 New York, Fifth month 29th.
 
 William Evans and I are pleasantly accommodated at the house of John Wood;
@@ -87,7 +102,9 @@ The trials of time will be sanctified to thee, and conduce,
 through the mercy of the Lord, and the accompanying baptism of his Holy Spirit,
 to thy preparation for the state of endless happiness in the kingdom of our Father.
 
-Diary: "`Sixth month 3rd. Seventh-day.
+--
+
++++[+++Diary:] Sixth month 3rd. Seventh-day.
 Returned home.
 The Yearly Meeting closed yesterday.
 It was a season of suffering to the upright in heart.
@@ -110,8 +127,13 @@ I was engaged in vocal labour in our morning meeting on the passage,
 '`These are they which came out of great tribulation,
 and have washed their robes and made them white in the blood of the Lamb.`'
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Philadelphia, Sixth month 5th.
 
 We met with many interesting Friends, +++[+++at New York,]
@@ -127,8 +149,15 @@ and some other ardent juvenile personages, who seem to have plenty of zeal,
 which is not always according to true knowledge.
 A strong anti-slavery feeling prevails in many sections of New York Yearly Meeting.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Nathan Kite to Thomas Kite, received by the latter in New York.
 
+[.signed-section-context-open]
 Philadelphia, Fifth month 31st.
 
 The committee from Virginia arrived on Seventh-day afternoon.
@@ -154,7 +183,7 @@ David was much interested in the proceedings of the Meeting for Sufferings,
 and its care over the rights of the colored people.
 Some remarkable instances of this care he related.
 Micajah Bates was clerk of the Men`'s Yearly Meeting,
-and the wife of Micaj ah Crew of the women`'s.
+and the wife of Micajah Crew of the women`'s.
 
 N+++.+++ Crenshaw was acknowledged a minister by the
 Quarterly Meeting preceding the Yearly Meeting.
@@ -164,7 +193,7 @@ of which there were only eighty adult persons.
 Sarah Hillman mentions one plain little girl of
 about sixteen who was appointed on the Epistles,
 and on the committee of conference.
-'`At parting after the close of the meeting much affectionate
+At parting after the close of the meeting much affectionate
 feeling was manifested towards the committee;
 and many children clung round them in tears.
 By information from Indiana it appears that Charles Osborne is
@@ -187,8 +216,15 @@ that thyself and William Evans will have principally fulfilled the service assig
 but Samuel Cope, with New England before him,
 will have great need of a large supply of faith and patience.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to R. W. at Blockley, +++[+++afterwards R. W. Kite].
 
+[.signed-section-context-open]
 Sixth month 6th.
 
 I feel a word of encouragement arise for thee.
@@ -202,7 +238,9 @@ and patience experience, and experience hope; and hope maketh not ashamed,
 because the love of God is shed abroad in our hearts,
 by the Holy Ghost which is given unto us.`"
 
-Diary: "`Sixth month 8th. Fifth-day.
+--
+
++++[+++Diary:] Sixth month 8th. Fifth-day.
 I attended Radnor Monthly Meeting, and stood up in the first meeting in much weakness.
 I was unexpectedly enlarged, particularly towards the scholars of Haverford School,
 who were, I believe, mostly in attendance.
@@ -240,14 +278,19 @@ after which Elizabeth Evans was drawn out in supplication.
 Towards the close of our week-day meeting I was strengthened
 to approach the Throne of Grace in vocal prayer.
 Petitions were offered for various states; for our religious Society,
-for the professors of the Christian name at large, and also for the heathen.`"
+for the professors of the Christian name at large, and also for the heathen.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Sixth month 16th.
 
 +++[+++After mentioning a visit of his wife to New Jersey,
-and her attending Haddonfield Quarter, he continues]:
+and her attending Haddonfield Quarter, he continues:]
 They had a good time at the Quarterly Meeting.
 Christopher Healy, Elizabeth Pitfield, and Sarah Emlen, I believe,
 ministered respectively.
@@ -260,7 +303,9 @@ excluded those of greater respectability.
 This is the day of our Meeting for Sufferings,
 and many valuable Friends have been in the city.
 
-Diary: "`Sixth month 18th. First-day.
+--
+
++++[+++Diary:] Sixth month 18th. First-day.
 A day of exercise and labour.
 In the morning meeting I was enlarged in testimony to
 the Lord`'s goodness and power in all ages,
@@ -290,7 +335,6 @@ I was dipped into sympathy with her,
 and had to counsel her to keep faithful to Divine manifestations.
 Afterwards I visited my long-acquainted friend, E. C. Mason,
 and was led renewedly to feel for her, and to offer her the word of encouragement.
-
 May she be kept in the line of simple, unreserved obedience to her Lord`'s commands.
 
 21st. At the Monthly Meeting for the Western District.
@@ -320,10 +364,15 @@ and may I never relax in the concern that this may be my own happy experience.
 We had at our meeting, both in the morning and afternoon,
 the company of our friend Benjamin Hoyle, of Ohio, who ministered acceptably.
 In the evening, after our usual family reading, I had a communication to make,
-addressed to a tried state.`"
+addressed to a tried state.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Sixth month 27th.
 
 I have several times turned my attention towards continuing my advices,
@@ -341,7 +390,9 @@ Zion is redeemed through judgment, and all her converts by righteousness.
 I find it of little use to form plans;
 but I wish to see thee whenever I can feel at liberty to come to the school.
 
-Diary: "`Sixth month 29th. Fifth-day.
+--
+
++++[+++Diary:] Sixth month 29th. Fifth-day.
 At our Monthly Meeting I felt poor and depressed.
 In the afternoon I attended the funeral of Elizabeth Mason,
 eldest daughter of the late Samuel Mason, at Germantown.
@@ -423,8 +474,13 @@ Near the close I had a short communication, commencing with the passage,
 '`Ye are not your own, for ye are bought with a price; therefore glorify God in your body,
 and in your spirit, which are God`'s.`'
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Philadelphia, Seventh month 21st.
 
 We do not hear when the English Friends are coming.
@@ -432,7 +488,8 @@ I was told yesterday that two of them,
 John Pease and Isabel Carson were at York
 Quarterly Meeting the latter part of last month,
 and took leave of the Friends present; so it seems likely they may be here before long.
-'`I do earnestly desire thy encouragement steadily to
+
+I do earnestly desire thy encouragement steadily to
 persevere in the straight and narrow way.
 Very hard it is to submit to the baptisms which reduce
 our own wills into subjection to the Divine Will;
@@ -451,7 +508,9 @@ that in those places they confirmed the souls of the disciples,
 "`exhorting them to continue in the faith,
 and that we must through much tribulation enter into the kingdom of God.`"
 
-Diary: "`Seventh month 25th. Third-day.
+--
+
++++[+++Diary:] Seventh month 25th. Third-day.
 At the Northern District Monthly Meeting.
 In the meeting for worship I had to offer solemn
 warning and encouragement to different states,
@@ -467,8 +526,13 @@ my dear friend Sarah Hillman obtained a certificate to attend Ohio Yearly Meetin
 some meetings belonging to it,
 and a few within the compass of Baltimore Yearly Meeting.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Seventh month 27th.
 
 I often feel desirous, and perhaps I often express it,
@@ -482,7 +546,9 @@ and waiting for the qualification which He gives,
 all may be done to the glory of the Great Head of the Church,
 the edification of the members, and the promotion of the cause of Truth in the earth.
 
-Diary: "`Seventh month 30th. First-day.
+--
+
++++[+++Diary:] Seventh month 30th. First-day.
 At Westtown Boarding School.
 In the morning meeting I was exercised on behalf of the children, the teachers,
 and other caretakers; and addressed the various classes at some length.
@@ -490,14 +556,20 @@ In the afternoon meeting I was drawn out in vocal supplication.
 Way opened for an opportunity with the three female assistants, who appeared tender.
 May they be faithful to the Heavenly Guide.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his Wife.
 
+[.signed-section-context-open]
 Upper Darby, Seventh month 31st.
 
 I had quite a comfortable ride to the Paoli tavern, on Seventh-day morning.
 A bright little school-girl sat near me, with whom I had some interesting conversation.
 She was but nine years old, yet seemed sensible, well informed, and religiously disposed.
-'`I had felt my mind turned towards the Monthly Meeting of Darby, which occurs tomorrow.
+
+I had felt my mind turned towards the Monthly Meeting of Darby, which occurs tomorrow.
 On mentioning it to brother N. Sharpless, he seemed quite willing to accompany me;
 so about four o`'clock, or a little before, we set off.
 The rain had laid the dust, and the road by Bishop`'s mill was not much muddy,
@@ -510,7 +582,9 @@ so that when the end of thy race here shall arrive,
 it may be the commencement of that state of never-ending felicity,
 reserved for the faithful followers of the Lamb in his everlasting kingdom.
 
-Diary: "`Eighth month 1st. Third-day.
+--
+
++++[+++Diary:] Eighth month 1st. Third-day.
 At the +++[+++Darby]
 Monthly Meeting.
 I was opened in the first meeting on the nature of the Church of Christ,
@@ -526,15 +600,21 @@ Under an impression of duty I had an opportunity with the female teachers;
 then went to Birmingham Monthly Meeting.
 In the first meeting I had a short communication.
 Went after the meeting to my son-in-law`'s,
-where I had the agreeable company of my two daughters and other relatives and friends.`"
+where I had the agreeable company of my two daughters and other relatives and friends.
 
-Of this meeting, one who was present wrote: "`His Gospel labour was acceptable this day,
+[.small-break]
+'''
+
++++[+++Of this meeting, one who was present wrote:] "`His Gospel labour was acceptable this day,
 to many of us.
 He had a word of encouragement to hand forth to those who were
 willing to become disciples of their dear Lord and Master.
 I think it was a comfortable meeting.`"
 
-Diary: "`Eighth month 3rd. Fifth-day.
+[.small-break]
+'''
+
++++[+++Diary:] Eighth month 3rd. Fifth-day.
 I went to Concord.
 In the afternoon visited Rebecca, widow of Samuel Trimble,
 and had a religious opportunity in the family,
@@ -560,8 +640,13 @@ and with whom thou didst strive at the waters of Meribah.`'
 I offered encouragement to some who had been called to the work of the Lord,
 who had proved him as at Massah, and had striven with him as at the waters of Meribah.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Eighth month 11th.
 
 It is probable that B. H. Warder and his sister-in-law, Margaret Sheppard,
@@ -572,7 +657,9 @@ which will be looked for from the 16th to the 20th of this month.
 With fresh desires for thy preservation in the narrow path,
 the end whereof is everlasting life, I bid thee affectionately farewell.
 
-Diary: "`Eighth month 13th. First-day.
+--
+
++++[+++Diary:] Eighth month 13th. First-day.
 I was engaged publicly to speak of the sufferings and death of the Lord Jesus Christ;
 and being dipped into sympathy with those who are
 endeavouring to follow Him in the regeneration,
@@ -580,8 +667,13 @@ I had to offer such encouragement.
 Afterwards I ventured to bow the knee in vocal supplication and thanksgiving.
 Our afternoon meeting was silent.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Eighth month 19th.
 
 I do not wish to weary thee on the subject which is nearest my heart in relation to thee;
@@ -604,7 +696,9 @@ and unite the hearts of some amongst us to labour for a thorough reformation,
 and to endeavour in the ability received to promote family discipline,
 and the discipline of the Church.
 
-Diary: "`Eighth month 20th. First-day.
+--
+
++++[+++Diary:] Eighth month 20th. First-day.
 After several days of tossing and conflict,
 wherein I felt oppressed under the prevalence of the earthly nature,
 in our morning meeting I felt somewhat relieved; and an opening for service presenting,
@@ -625,10 +719,15 @@ After feeling in a good degree resigned thereto, it seemed to be very much withd
 within a few days, however, it has revived; and under some feeling, as I believe,
 of that Power which subjects the creaturely will, I opened it to my friends,
 and obtained their concurrence.
-I now feel a state of peaceful poverty.`"
+I now feel a state of peaceful poverty.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Philadelphia, Eighth month 25th.
 
 The English women Friends arrived in this city yesterday.
@@ -639,7 +738,9 @@ They seemed affable;
 and hardly able to realize that in a few days they had made so great a change.
 They met Jacob Green in Liverpool on his way to Scotland.
 
-Diary: "`Eighth month 27th.. First-day.
+--
+
++++[+++Diary:] Eighth month 27th.. First-day.
 At our morning meeting I was concerned to revive the Psalmist`'s declaration:
 '`The fear of the Lord is the beginning of wisdom;
 a good understanding have all they that do his commandments;`' on
@@ -658,8 +759,13 @@ At morning meeting, the command given to Moses when he was about to make the tab
 was revived:
 '`See that thou make all things according to the pattern showed to thee in the mount.`'
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Philadelphia, Ninth month 4th.
 
 My prospect is to attend the Meeting for Sufferings next Sixth-day week,
@@ -673,7 +779,9 @@ If I fail, it will not be for want of inclination.
 How long the journey will occupy me, I do not know;
 but suppose it may take about four weeks.
 
-Diary: "`Ninth month 5th. Third-day.
+--
+
++++[+++Diary:] Ninth month 5th. Third-day.
 At the North Meeting I bent my knees in vocal supplication to the Most High.
 At this meeting my young friends Clarkson Sheppard and
 Anne Garrett took each other in marriage.
@@ -696,19 +804,29 @@ In the afternoon meeting a testimony was delivered on the declaration of the apo
 justified in the Spirit, seen of angels, preached unto the Gentiles,
 believed on in the world, received up into glory.`'
 
-Isabel Casson and Rachel Priestman had appointed a meeting,
+[.small-break]
+'''
+
++++[+++Isabel Casson and Rachel Priestman had appointed a meeting,
 to be held in the Mulberry Street house,
 on Ninth month 10th. Thomas Kite in a letter to his daughter Rebecca, dated the 11th,
-thus speaks of it: "`The meeting for the market people, butchers, hucksters, etc,
+thus speaks of it:]
+
+[.embedded-content-document.letter]
+--
+
+The meeting for the market people, butchers, hucksters, etc,
 was held on First-day evening.
 It was not very large.
 The people behaved well.
 Rachel Priestman had all the public service.
 She spoke twice by way of testimony, and appeared in supplication.
 She and Isabel have gone to Jersey to attend Haddonfield Quarterly Meeting,
-and some meetings within its limits.`"
+and some meetings within its limits.
 
-Diary: "`Ninth month 12th. Third-day.
+--
+
++++[+++Diary:] Ninth month 12th. Third-day.
 At the North Meeting,
 I was opened on the subject of the prophet Jeremiah`'s visit to the potter`'s house,
 when he saw, '`and behold, he wrought a work on the wheels:
@@ -721,4 +839,4 @@ and also to caution others upon whom the Lord`'s hand is
 turned to form them into vessels for his use.
 I likewise had comfort to offer to those who love the Lord, but are walking in darkness.
 Afterwards William Evans ministered to the afflicted
-children of our Heavenly Father`'s family.`"
+children of our Heavenly Father`'s family.

@@ -1,15 +1,19 @@
 == Chapter VII.
 
-1819-1824.
+[.chapter-synopsis]
+* 1819-1824.
+* Separation in the Society of Friends
+* Letters to members of his family.
 
-Separation in the Society of Friends--Letters to members of his family.
-
-It will now be necessary to allude to the defection from the original
++++[+++It will now be necessary to allude to the defection from the original
 doctrines and principles of the religious Society of Friends,
 which finally resulted in the separation of 1827.
-Thomas Kite thus wrote on the subject:
+Thomas Kite thus wrote on the subject:]
 
-"`About the year 1819, the trial of Friends in this country commenced,
+[.small-break]
+'''
+
+About the year 1819, the trial of Friends in this country commenced,
 from the dissemination of the unsound sentiments of Elias Hicks and his adherents.
 In the sufferings and afflictions of my brethren from this cause I had a large share.
 Believing it required of me by my Divine Master openly to oppose the spirit of unbelief,
@@ -18,9 +22,12 @@ my conduct herein drew upon me much censure and reproach.
 For a time it seemed as if I must have sunk under these trials;
 but the tender sympathy of my dear companion, and other precious Christian friends,
 proved a stay to my mind, and I was enabled to persevere until the separation,
-which took place in 1827, opened a way in some degree for my relief.`"
+which took place in 1827, opened a way in some degree for my relief.
 
-Although the defection commenced or became apparent, as the above quotation specifies,
+[.small-break]
+'''
+
++++[+++Although the defection commenced or became apparent, as the above quotation specifies,
 about the year 1819,
 but little disturbance was created in Philadelphia
 Yearly Meeting until towards the close of 1822.
@@ -42,16 +49,24 @@ Philadelphia were opposed to the Unitarian views of Elias Hicks.
 
 We shall now return to Thomas Kite--giving no further
 particulars of the disturbances amongst Friends,
-except as they may incidentally arise, connected with his biography.
+except as they may incidentally arise, connected with his biography.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna
 
+[.signed-section-context-open]
 Second month 15th, 1823.
+
 It is very cold.
 The Delaware closed yesterday; today the boys are skating,
 and by tomorrow we expect it will bear horses, etc.
 
-Some sound and valuable Friends were uneasy at the open opposition
+--
+
++++[+++Some sound and valuable Friends were uneasy at the open opposition
 manifested by the faithful in Philadelphia to the doctrines of Elias Hicks,
 and Thomas Kite received several letters from those he loved,
 containing sentiments like the following, which is extracted from one of them:--"`I wish,
@@ -71,10 +86,15 @@ He declared his belief,
 that the testimonies of the religious Society of
 Friends would never be permitted to fall,
 and concluded with urging the vital importance of knowing, each one for himself,
-a preparation through faithfulness here, for the after scene.
+a preparation through faithfulness here, for the after scene.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Philadelphia, Third month 14th, 1823.
 
 My omission of writing to thee has not proceeded from
@@ -92,8 +112,13 @@ Take up the cross to the wild propensities of nature, and great will be thy own 
 and great the comfort of thy parents,
 who can have no greater joy than to behold their children walking in the truth.
 
-On the 30th of Fifth month, after returning from a journey of business to New York,
-Thomas Kite wrote to his daughter Susanna at West-town:
+--
+
++++[+++On the 30th of Fifth month, after returning from a journey of business to New York,
+Thomas Kite wrote to his daughter Susanna at West-town:]
+
+[.embedded-content-document.letter]
+--
 
 It gives us satisfaction to administer to thy comfort;
 let us in return have the satisfaction of beholding with thy increasing years,
@@ -112,10 +137,17 @@ and some instances have been known wherein children once amiable and lovely,
 have brought down by their conduct, the grey hairs of parents with sorrow to the grave.
 I write not thus to cause thee unnecessary uneasiness,
 but to relieve a mind full of parental anxiety and tenderness,
-which greatly desires thy present and eternal welfare.`"
+which greatly desires thy present and eternal welfare.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same
 
+[.signed-section-context-open]
 Eighth month 18th.
 
 Thy letter of last Third-day was agreeable to us.
@@ -148,10 +180,17 @@ always an affectionate child;
 but from the sense I have that it is necessary all
 should experience what the Scriptures term regeneration,
 without which we cannot enter the everlasting
-kingdom of our Lord and Saviour Jesus Christ.`"
+kingdom of our Lord and Saviour Jesus Christ.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same
 
+[.signed-section-context-open]
 Eleventh month 4th.
 
 Thy grandmother and aunt Mary continue their attention to the poor and distressed.
@@ -187,15 +226,22 @@ would not interfere with the cheerfulness natural to youth.
 Surely they have the best right to be cheerful whose minds are kept in innocency,
 and who have the Lord for their friend.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same
 
+[.signed-section-context-open]
 Twelfth month 12th.
 
 Thy grandmother continues improving, and thy aunt Mary is about again.
 We had last evening information from thy uncle in
 Susquehanna County by one of their neighbours.
 
-He brought a letter from thy uncle John written '`very cheerfully.
+He brought a letter from thy uncle John written very cheerfully.
 He keeps school this winter and is paid so many bushels of corn a quarter.
 To fill up time profitably he makes shoes of an evening, his wife sitting by at her work,
 and thy uncle Nathan reading aloud.
@@ -242,11 +288,21 @@ No wanderer lost,
 A family in heaven!
 ____
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Joshua Sharpless
 
+[.signed-section-context-open]
 Philadelphia, Third month 6th, 1824.
 
-Dear Father:--William Poster has lately been in the
+[.salutation]
+Dear Father:
+
+William Poster has lately been in the
 city holding public meetings with Friends and others.
 He has since gone to Bucks Quarterly Meeting, and is now, I expect,
 attending meetings within its limits.
@@ -293,36 +349,59 @@ Again, "`Thy eye shall see Jerusalem, a quiet habitation,
 a tabernacle that shall not be taken down;
 not one of the stakes thereof shall ever be removed, nor one of her cords broken.`"
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To His Daughter Susanna.
+
+[.signed-section-context-open]
 Fourth month 22nd.
 
-To his daughter Susanna:--"`We have had thy uncle Cheyney,
+We have had thy uncle Cheyney,
 aunt Martha and Ann Rogan as lodgers this Yearly Meeting,
 though a number of our friends have called to see us.
 Amongst the strangers attending are Anna Braithwaite and Isaac Stevenson from England.
-The latter, we understand, proposes taking tea with us tomorrow evening.`"
+The latter, we understand, proposes taking tea with us tomorrow evening.
 
-To the Same:
+--
 
-30th.
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To the Same.
+
+[.signed-section-context-open]
+Fourth Month 30th.
 
 Shouldst thou return in my absence I have one request to make, which is,
 that thou wilt not visit much until I see thee;
 perhaps not beyond thy grandfather`'s and uncle Joseph +++[+++Walton`'s],
 unless some peculiar circumstances seem to require it.
 I wish some conversation with thee on the subject of visiting generally,
-as well as other subjects relative to thy comfort and future prospects.`"
+as well as other subjects relative to thy comfort and future prospects.
 
-Susanna returned from Westtown, Fifth month 12th, 1824,
-and for sometime devoted herself to domestic duties.
+--
 
++++[+++Susanna returned from Westtown, Fifth month 12th, 1824,
+and for sometime devoted herself to domestic duties.]
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Stephen Pike to Thomas Kite
 
+[.signed-section-context-open]
 Burlington, Fourth month 30th, 1824.
 
-Esteemed Friend:--I received thy acceptable communication of the 27th.
+[.salutation]
+Esteemed Friend:
+
+I received thy acceptable communication of the 27th.
 It may be said to have come in anticipation of my wish,
 for, having missed of the advantage I have annually enjoyed,
 of attending our Yearly Meeting, and feeling, in my measure, as a member,
@@ -357,13 +436,24 @@ with others, against the encroachments of a disorganizing spirit;
 and have felt towards them an additional kindness on that account,
 though sensible that the praise is due elsewhere.
 
-The following letter was written to a young female who had lost a brother.
+--
 
+[.offset]
++++[+++The following letter was written to a young female who had lost a brother.]
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to M. B. U
 
+[.signed-section-context-open]
 Philadelphia, Seventh month 12th, 1824.
 
-Dear Mary:--I returned home from New York on Fifth-day,
+[.salutation]
+Dear Mary:
+
+I returned home from New York on Fifth-day,
 having the interesting company of William Jackson and his wife.
 It has long been to me a source of peculiar satisfaction to
 associate with such veterans in the Great Master`'s cause,
@@ -402,7 +492,10 @@ that flood of light which was shed upon his departing spirit.
 Remember, dear Mary, with reference to this lamented brother,
 the sentiment of a pious writer:
 
+[verse]
+____
 "`He mourns the dead who lives as they desire.`"
+____
 
 May it be the future steady engagement of thy soul to
 follow in that path which leads to blessedness,
@@ -411,15 +504,23 @@ Then, when thy day of probation shall be over,
 thou mayest rejoin him in that state of being where "`adieus and
 farewells are a sound unknown,`" and surviving friends may say,
 "`Lovely in life, and in death not divided.`"
-'`
 
-The following letter is supposed to have been written about this time.
+--
+
++++[+++The following letter is supposed to have been written about this time.
 A rough copy, or the original, was found among Thomas Kite`'s papers, endorsed by him,
-"`Sketch of letter on H. G. F.`'s decease.`"
+"`Sketch of letter on H. G. F.`'s decease.`"]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Phebe
 
-Dear Friend:--It so fell out that I did not hear of your late
+[.salutation]
+Dear Friend:
+
+It so fell out that I did not hear of your late
 affecting bereavement until some time after its occurrence.
 
 When communicated, it naturally introduced my mind into feeling with you,
@@ -460,3 +561,5 @@ The God of all consolation can alone heal the broken in heart,
 and bind up all their wounds.
 May it be his experience to realize the fulfilment of the promise,
 "`Call upon me in the day of trouble, I will deliver thee, and thou shalt glorify me.`"
+
+--

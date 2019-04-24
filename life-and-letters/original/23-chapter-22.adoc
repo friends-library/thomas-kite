@@ -1,11 +1,19 @@
 == Chapter XXII.
 
-1844-1845.
+[.chapter-synopsis]
+* 1844-1845.
+* Letters
+* Thomas Kite`'s last journey
+* Deborah Welsh
+* Thomas Kite`'s illness and death.
 
-Letters--Thomas Kite`'s last journey--Deborah Welsh--Thomas Kite`'s illness and death.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Twelfth month 3rd.
 
 Last Seventh-day my mind seemed to be turned towards Frankford,
@@ -21,7 +29,9 @@ commented on that I had spoken of in the morning,
 viz., that wherein we are told that Paul before Felix reasoned concerning righteousness,
 temperance, and judgment to come.
 
-Thomas Kite attended Haddonfield Monthly Meeting,
+--
+
++++[+++Thomas Kite attended Haddonfield Monthly Meeting,
 Chester Monthly and Haddonfield Quarterly Meetings, held on the 9th, 10th,
 11th and 12th of the month.
 The Quarterly Meeting was held at Moorestown.
@@ -30,10 +40,15 @@ In the meeting for worship, on Fifth-day, he was favoured in solemn supplication
 In this little town he had an opportunity of visiting some of his relations,
 and many friends in the neighbourhood of Haddonfield, Moorestown and Westfield,
 who little thought that this was the last time they should see their
-much loved brother in the faith and patience of Jesus Christ.
+much loved brother in the faith and patience of Jesus Christ.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Twelfth month 16th.
 
 We hear that thy young friend, Mary Moore, has terminated her course on earth;
@@ -53,7 +68,9 @@ This last can only be experienced by watching unto prayer,
 and yielding obedience to the restraining influence of Divine grace,
 as well as the clear presentations of duty.
 
-At the evening meeting on First-day, Twelfth month 22nd,
+--
+
++++[+++At the evening meeting on First-day, Twelfth month 22nd,
 Thomas Kite was opened in the ministry with living authority,
 and in an impressive manner.
 His text was: "`There was silence in heaven for the space of half an hour.`"
@@ -267,7 +284,7 @@ which was leading her in a way she had not fully known,
 she in time felt a freedom to inquire concerning the doctrines
 and Christian practices of Friends.
 {footnote-paragraph-split}
-She read "`Barclay`'s Apology,`" and found that,
+She read [.book-title]#Barclay`'s Apology#, and found that,
 with two or three exceptions,
 she had herself been brought into the same views which she found there so ably advocated.
 Those points in which she did not as vet see with Friends,
@@ -521,4 +538,4 @@ the immortal spirit was released from its corruptible companion.
 Many bereaved ones were there; yet in the holy quiet which covered those assembled,
 and in the inward assurance of the holy translation which the husband, the brother,
 the father, the uncle had experienced, a degree of resignation was felt,
-and a desire to acquiesce in the Divine will, was experienced.
+and a desire to acquiesce in the Divine will, was experienced.]

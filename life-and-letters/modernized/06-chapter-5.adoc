@@ -1,11 +1,12 @@
 == Chapter V.
 
-1814-1815.
+[.chapter-synopsis]
+* 1814-1815.
+* Close of the war with England
+* Death of Anne Mifflin and Sarah Matthews
+* Letters from Stephen Pike.
 
-Close of the war with England--Death of Anne Mifflin
-and Sarah Matthews--Letters from Stephen Pike.
-
-Business calling Thomas Kite to the East in the early part of the summer of 1814,
++++[+++Business calling Thomas Kite to the East in the early part of the summer of 1814,
 from New York, he addressed a letter to his wife, under date of Sixth month 4th,
 from which the following is extracted: "`We had a very agreeable company in the stage;
 one Presbyterian and one Episcopalian clergyman,
@@ -21,22 +22,32 @@ consequent on the launch of a new frigate.
 People gathered in from all the neighbouring places;
 sheds were erected and crowded with spectators, as were also housetops chimney-tops,
 and all sorts of river craft.
-After stating that it was estimated that 50,000 persons were gathered, he adds:
-"`I am sorry to hear some Friends were led away
+After stating that it was estimated that 50,000 persons were gathered, he adds:]
+
+[.embedded-content-document.letter]
+--
+
+I am sorry to hear some Friends were led away
 by curiosity to join this great multitude,
 evidently for lack of attention to that which preserves, not only from evil,
 but from the appearance of evil.
 Doubtless it is an evil thing for those who profess to have a testimony against war,
 to give their company on such occasions.
 I have not yet heard whether many casualties occurred.
-One man is stated to have been killed; and if no more, it will be cause of wonder.`"
+One man is stated to have been killed; and if no more, it will be cause of wonder.
 
-1815+++.+++ The war, with its depressing effects on trade, and '`its illuminations for victory,
+--
+
++++[+++1815. The war, with its depressing effects on trade, and its illuminations for victory,
 passed away; and all classes of the community seemed to rejoice at the return of peace.
 Stephen Pike, writing to Thomas Kite,
 gives a lively picture of the sensation produced in the quiet city of Burlington,
 by the announcement of the treaty of peace.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Burlington, Second month 15th, 1815.
 
 Among the circumstances which have latterly excited a powerful
@@ -83,13 +94,22 @@ But we have one consolation under every circumstance, prosperous or adverse,
 we have it in our power to become associated with the righteous, that band of alchymists,
 possessed of a stone which transmutes all into good.
 
-Thomas Kite having written a letter to his uncle, John Letchworth,
-in which he spoke of quickness of temper as being one of his besetting sins,
-he received the following reply:
+--
 
++++[+++Thomas Kite having written a letter to his uncle, John Letchworth,
+in which he spoke of quickness of temper as being one of his besetting sins,
+he received the following reply:]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 East Fallowfield, Third month 12th, 1815.
 
-Dear Nephew:--Iron sharpens iron.
+[.salutation]
+Dear Nephew:
+
+Iron sharpens iron.
 So a man sharpens the countenance of his friend.
 This seems, in some measure, the case with a letter.
 I received yours of the 5th instant, and was gratified thereby.
@@ -121,9 +141,18 @@ In seasons like the one described,
 it is not always easy to wash the face and anoint the hair;
 yet I have endeavoured to be in the disposition of not appearing unto men to fast.
 
-Thomas Kite replied Third month 30th, 1815.
+--
 
-Dear Uncle:--Your last revived feelings of sympathy towards you,
+[.offset]
++++[+++Thomas Kite replied Third month 30th, 1815.]
+
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear Uncle:
+
+Your last revived feelings of sympathy towards you,
 which have often secretly prevailed in my mind
 under a consideration of your various exercises;
 and the desire that arose was,
@@ -154,11 +183,17 @@ Samuel Bettle obtained a minute to visit the meetings about Muncy, Roaring Creek
 but does not expect to set out till after Yearly Meeting.
 I suppose you knew his gift had been acknowledged by the Monthly Meeting,
 and he recommended to the last Quarterly Meeting.
-
 Caleb Pierce expects to accompany him.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Stephen Pike to Thomas Kite.
 
+[.signed-section-context-open]
 Burlington, Third month 19th, 1815.
 
 Our Morning Meeting this day was an unusually solemn one.
@@ -216,10 +251,16 @@ endued with power to baptize.
 I was lately witness to a special instance of the exercise of her gift,
 in a private sitting, in which she, George Dillwyn and Margaret Allinson spoke.
 
-Lydia Jefferis, a young child of Cheyney and Martha Jefferis,
-having deceased about the 1st of Ninth month, this year, Thomas Kite wrote to his wife,
-who was with them, the following:
+--
 
++++[+++Lydia Jefferis, a young child of Cheyney and Martha Jefferis,
+having deceased about the 1st of Ninth month, this year, Thomas Kite wrote to his wife,
+who was with them, the following:]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Ninth month 5th, 1815.
 
 Your letter came to hand on Second-day,
@@ -228,7 +269,6 @@ Though both reason and religion in such a case suggest topics of consolation,
 yet still to parents such a bereavement must be affecting.
 Our dear sister no doubt feels it so; yet I trust she, as well as brother Cheyney,
 have been favoured with resignation.
-'`
 
 Henry Hull was, and perhaps still is in the city, journeying southward.
 I spent last evening at Samuel Bettle`'s. Jane was quite lively and pleasant,
@@ -267,12 +307,19 @@ and therefore permitted to reign with him.
 It is very unexpected to touch upon these solemn subjects in this way,
 but as they presented, I drop them in love and tenderness, being truly your affectionate,
 
+[.signed-section-signature]
 Thomas Kite
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Stephen Pike to Thomas Kite.
 
-Burlington, Tenth month.
-25th, 1815.
+[.signed-section-context-open]
+Burlington, Tenth month 25th, 1815.
 
 I had considerable conversation with Joseph +++[+++Scattergood, son of Thomas],
 though on indifferent subjects.
@@ -325,3 +372,5 @@ and had the mortification to be told by him that the attentions of a hundred
 children could not suffice to fill the blank occasioned by the absence of a wife.
 Elizabeth and Margaret are expected home in the course of a few days,
 and A. Barker and company about the same time.
+
+--
