@@ -1,12 +1,15 @@
 == Chapter XXI.
 
-1843-1844.
+[.chapter-synopsis]
+* 1843-1844.
+* Attends Indiana Yearly Meeting
+* Letters
+* Illness of daughter,Susanna Sharpless
+* Sarah Emlen to Thomas Kite
+* Death of Susanna Sharpless
+* Sarah Emlen to Thomas Kite
 
-Attends Indiana Yearly Meeting--Letters--Illness of daughter,
-Susanna Sharpless--Sarah Emlen to Thomas Kite--Death of
-Susanna Sharpless--Sarah Emlen to Thomas Kite.
-
-On Sixth-day afternoon, the 15th of the Ninth month,
++++[+++On Sixth-day afternoon, the 15th of the Ninth month,
 Thomas Kite left Philadelphia in the four o`'clock boat
 for Baltimore on his way to Indiana Yearly Meeting,
 having a minute from his Monthly and a certificate from his Quarterly Meeting.
@@ -19,6 +22,7 @@ People were passing about in boats or flats in the street,
 and we had to pass over a temporary scaffold to get to the house where we dined.`"
 Owing to fogs in the Ohio river,
 the travellers did not reach Cincinnati until Fifth-day morning.
+
 They were in season to attend the usual week-day meeting there,
 which was a labourious time.
 Thomas Kite says: "`William Evans had very close and suitable service; and after him,
@@ -38,7 +42,10 @@ She has been recently recommended.
 We had a religious opportunity with her, I believe, to her comfort,
 in which William was opened instructively to speak to her situation.`"
 
-Extract from Diary: "`We arrived at Richmond, Indiana, on Seventh-day evening,
+[.small-break]
+'''
+
++++[+++Extract from Diary:] We arrived at Richmond, Indiana, on Seventh-day evening,
 and the next morning went sixteen miles to Milton to meeting.
 It proved a low, heavy time,
 yet William was enabled to labour amongst Friends with pertinency.
@@ -53,7 +60,7 @@ the meeting for business opened, and was continued on Sixth and Seventh-days.
 On First-day, Tenth month 1st, two large meetings for worship were held.
 I had the principal service in the morning, and William in the afternoon;
 and I trust we were favoured to preach the everlasting
-Gospel in a degree of its owm demonstration.
+Gospel in a degree of its own demonstration.
 The business was continued on Second and Third-days, on the last of which it concluded,
 a season of precious solemnity being vouchsafed.
 
@@ -67,16 +74,19 @@ that we were in our proper places in being with our Friends,
 who have been brought under great exercise in
 consequence of the secession of some of their members,
 who have set up and held what they call '`The Indiana Yearly Meeting
-of Anti-Slavery Friends an event deeply to be regretted,
+of Anti-Slavery Friends,`' an event deeply to be regretted,
 and which calls for patience and forbearance, as well as Christian firmness,
 on the part of those who remain.
 On Fourth-day William and Henry set off from Richmond
 to attend a few meetings not far distant,
 and I, accompanied by my son, went into Ohio to visit my kinswoman, Rebecca,
 the wife of Abel Thomas.
-We passed through Springboro`' and Waynesville to Lebanon, where she resides.`"
+We passed through Springboro`' and Waynesville to Lebanon, where she resides.
 
-On Fifth-day evening on their way to Lebanon,
+[.small-break]
+'''
+
++++[+++On Fifth-day evening on their way to Lebanon,
 Thomas Kite and son reached the house of Thomas Evans, of Waynesville, where they lodged.
 Of this Friend`'s house Thomas Kite in a letter says:
 "`He occupies the brow of a lofty hill, overlooking the Little Miami River,
@@ -86,7 +96,12 @@ strips of bottom land between it and the hills.`"
 
 Thomas Kite reached Cincinnati early on Seventh-day morning,
 where in the evening he was joined by his friends William Evans and Henry Cope.
-His Diary continues: "`On First-day, the 8th of the present month,
+His Diary continues:]
+
+[.small-break]
+'''
+
+On First-day, the 8th of the present month,
 we attended the meeting in that city.
 The public labour in the ministry devolved on William Evans,
 yet I was engaged in supplication.
@@ -102,10 +117,15 @@ and returned homeward by the same route we took in going out,
 and were favoured to arrive in safety, at three o`'clock in the morning of Seventh-day,
 the 14th of Tenth month, having been absent about twenty-eight and a-half days.
 I travelled in this journey 1778 miles,
-and was permitted to feel much tranquillity of mind in the retrospect.`"
-In a letter written whilst in Cincinnati, he thus speaks:
+and was permitted to feel much tranquillity of mind in the retrospect.
 
-"`I have been unwell ever since I arrived in Ohio,
+[.offset]
++++[+++In a letter written whilst in Cincinnati, he thus speaks:]
+
+[.embedded-content-document.letter]
+--
+
+I have been unwell ever since I arrived in Ohio,
 during the time of the Yearly Meeting,--ever since,
 and suppose I shall be so until I leave this region.
 It is probably in part owing to the water, which out of this city is limestone.
@@ -137,11 +157,18 @@ and sister of Thomas Kite`'s mother.
 Her death occurred Ninth month 16th, 1843.]
 But I trust her end was peace.`"
 
-Diary: "`Tenth month 18th. First-day.
-In the afternoon meeting a testimony was delivered concerning the faith of Abraham.`"
+--
 
-Extract of a letter to his daughter Susanna, dated Tenth month 27th:
-"`After the Yearly Meeting was over, thy brother Thomas accompanied me into Ohio,
++++[+++Diary:] Tenth month 18th. First-day.
+In the afternoon meeting a testimony was delivered concerning the faith of Abraham.
+
+[.offset]
++++[+++Extract of a letter to his daughter Susanna, dated Tenth month 27th:]
+
+[.embedded-content-document.letter]
+--
+
+After the Yearly Meeting was over, thy brother Thomas accompanied me into Ohio,
 to seek for our m cousin, Rebecca Thomas, whom we found at Lebanon.
 Her children were with her, but her husband was absent.
 Neither she nor I were at that time aware of her mother`'s decease.
@@ -156,9 +183,10 @@ and appears to disagree with me.
 The fruits in general were fine, apples and pears particularly so, free from blemishes,
 of a large size and finely flavored.
 The peaches are not superior to our own.
+
 The Yearly Meeting was very large,
 and much unanimity prevailed on all subjects excepting the boarding school.
-Qn education some diversity of opinion exists.
+On education some diversity of opinion exists.
 Those who have separated are not much missed out of the meeting;
 yet it is a source of deep regret, that such a movement has taken place,
 and that Charles Osborne, a man once so favoured, should be a leader in it.
@@ -168,14 +196,21 @@ and few substantial Friends,
 the younger part are under many difficulties with respect to a
 firm and upright support of our testimonies.
 I do earnestly desire thy brother may become one of a band,
-who may stand in that place for the cause and testimony of Truth.`"
+who may stand in that place for the cause and testimony of Truth.
 
-During the Tenth month,
+--
+
++++[+++During the Tenth month,
 Rebecca Kite spent a short time during her Westtown vacation at her father`'s house.
-Almost immediately after her return to the school, her father thus addressed her:
+Almost immediately after her return to the school, her father thus addressed her:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Tenth month 28th, 1843.
 
+[.salutation]
 My Dear Rebecca,
 
 Thou wilt probably feel some surprise at seeing my
@@ -223,9 +258,12 @@ In the warmth of natural affection,
 as well as of religious desire for thy growth in the Truth, I bid thee farewell,
 and am thy sympathizing father,
 
+[.signed-section-signature]
 Thomas Kite.
 
-Diary: "`Tenth Month 29th. First-day.
+--
+
++++[+++Diary:] Tenth Month 29th. First-day.
 In the morning meeting, Uzzah`'s attempt to steady the ark was brought before me,
 and a testimony delivered on that and other subjects.
 A good degree of solemnity seemed to attend.
@@ -262,10 +300,15 @@ The deportment of my young friends, and their manner of speaking, were satisfact
 We had a religious opportunity in the evening, in which something was communicated.
 The glorious condition of the redeemed,
 who have been prepared to stand before the Throne, and to sing the new song,
-was the principal theme.`"
+was the principal theme.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Eleventh month 6th.
 
 This has been the day of our Quarterly Meeting;
@@ -279,8 +322,15 @@ it will assuredly be sanctified to us,
 and tend to our advancement towards that kingdom where
 sorrow and suffering are no more experienced.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Eleventh month 18th.
 
 The occurrences at Westtown strikingly illustrate the uncertainty of temporal things;
@@ -295,12 +345,14 @@ as He is rightly sought unto.
 That this may be the effect of my dear daughter`'s share of the present affliction,
 and of all others, is the desire of her affectionate father.
 
-Diary: "`Eleventh month 21st. I attended the North Meeting from a secret impulse.
+--
+
++++[+++Diary:] Eleventh month 21st. I attended the North Meeting from a secret impulse.
 It proved through Divine favour a comfortable time.
 I stood up and recited the Apostle Peter`'s petition for the believers,
 as contained in his first general epistle, '`The God of all grace,
 who hath called us unto his eternal glory by Christ Jesus,
-after that ye have suffered awhile, make you perfect, stablish, strengthen, settle you;
+after that ye have suffered awhile, make you perfect, establish, strengthen, settle you;
 to Him be glory and dominion forever and ever.
 Amen.`'
 I had an open and relieving time in testimony,
@@ -337,11 +389,18 @@ did ever any trust in the Lord and was confounded?
 or did any abide in his fear and was forsaken?
 or whom did He ever despise that called upon Him?`'
 In the evening our friend, John Pease, ministered to a very large and, apparently,
-a very attentive auditory.`"
+a very attentive auditory.
 
-In writing to his son in Cincinnati, a few days previous to the last date,
-Thomas Kite thus unfolds the earnest concern that dwelt upon his mind:
-"`If anything interesting should occur in your Monthly Meeting, please let me know of it.
+[.small-break]
+'''
+
++++[+++In writing to his son in Cincinnati, a few days previous to the last date,
+Thomas Kite thus unfolds the earnest concern that dwelt upon his mind:]
+
+[.embedded-content-document.letter]
+--
+
+If anything interesting should occur in your Monthly Meeting, please let me know of it.
 I feel much solicitude for Friends of your city, that they may be sound in principle,
 consistent in practice, and witness a growth in vital religion.
 For none of them am I '`more concerned than for thee, my beloved son.
@@ -357,7 +416,9 @@ righteousness thereof,`' said our Holy Redeemer,
 for the comfort and support of our bodies,
 '`shall be added unto you.`'
 
-Diary: "`Twelfth month 6th. Fourth-day.
+--
+
++++[+++Diary:] Twelfth month 6th. Fourth-day.
 Much depressed under a sense of my unworthiness;
 nevertheless feeling a gentle drawing to attend the meeting for the Southern District,
 I went to it, and was somewhat refreshed.
@@ -381,13 +442,21 @@ and a conviction of the need of experiencing the
 further operation of the baptism which cleanses.
 This day, however, I appeared in testimony in our morning meeting,
 commencing with the words of the apostle, '`There remaineth, therefore,
-a rest to the people of God.`'`"
+a rest to the people of God.`'
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Twelfth month 22nd, 1843.
 
-My Dear Daughter:--By a letter from thy sister to her aunt Mary,
+[.salutation]
+My Dear Daughter:
+
+By a letter from thy sister to her aunt Mary,
 we have heard today of the sickness of thy little Elizabeth.
 We sympathize with thee in this renewed call upon thy maternal solicitude,
 but hope thou wilt be strengthened to confide in the
@@ -409,7 +478,9 @@ the labour of the olive shall fail, and the fields shall yield no meat;
 the flock shall be cut off from the fold, and there shall be no herd in the stall;
 yet I will rejoice in the Lord, I will joy in the God of my salvation.`"
 
-Diary: "`Twelfth month 27th. Fourth-day.
+--
+
++++[+++Diary:] Twelfth month 27th. Fourth-day.
 At the Western Meeting I was enabled to approach
 the Throne of Grace in vocal supplication.
 
@@ -440,10 +511,15 @@ Peace be unto you; and when He had so said, He showed them his hands and his sid
 At the North Meeting, where was a marriage.
 I had to speak of the calling of Nathanael.
 Afterwards our friend, Samuel Bettle, appeared in testimony.
-It seemed a favoured meeting.`"
+It seemed a favoured meeting.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 First month 5th, 1844.
 
 There are many cases of scarlet fever in the city, I believe, as well as in the country.
@@ -470,8 +546,15 @@ to distribute to necessitous individuals.
 I obtained some for thy aunt Mary`'s friend, A. D., for Susan K., E. H.,
 thy grandmother`'s acquaintance, R. Y., and divers others.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 First month 13th.
 
 I take a small piece of paper because I have little to say,
@@ -483,8 +566,10 @@ and become qualified by experience to say, with a devoted follower of the Lord J
 and the life which I now live in the flesh, is by faith in the Son of man, who loved me,
 and gave himself for me.`"
 
-Diary: Same date.
-"`Seventh-day.
+--
+
++++[+++Diary:] Same date.
+Seventh-day.
 For many days past, I have felt, to my humiliation, the prevalence of the carnal mind;
 but this day I have, through mercy, been renewed with some sensations of the Divine life,
 so that I was enabled in some degree, to enter into sympathy with, and minister to,
@@ -541,10 +626,15 @@ The states were respectively addressed of such as such
 as think themselves rich whilst they are poor,
 being destitute of the true riches; and of such as feel themselves poor,
 yet being the Lord`'s poor, and trusting in Him, may be considered to be rich in faith,
-and heirs of the kingdom which He hath promised to them that love Him.`"
+and heirs of the kingdom which He hath promised to them that love Him.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Second month 3rd.
 
 In conclusion,
@@ -555,7 +645,9 @@ Salute in my name dear Abby Williams;
 tell her that "`all things shall work together for good to them that love
 God;`" and "`He that keepeth Israel shall neither slumber nor sleep.`"
 
-Diary: Second month 15th. Fifth-day.
+--
+
++++[+++Diary:] Second month 15th. Fifth-day.
 During the interval since the last record,
 I have passed through some seasons of deep depression.
 In our mid-week meeting on the 8th inst., I was raised up to minister,
@@ -571,7 +663,10 @@ but be ye transformed in the spirit of your mind,
 that ye may prove what is that good and acceptable and
 perfect will of God concerning you.`'
 
-Second month.
+[.small-break]
+'''
+
++++[+++Second month.
 On the morning of one of the First-days of the week this month,
 (probably the 11th,) Thomas Kite was led sweetly to address his family.
 He said he remembered that the Saviour said to his disciples,
@@ -580,17 +675,23 @@ He then expressed his earnest desire that those present
 might so partake of the Light of the Saviour,
 as to shine in their respective places, and be as lights in the world.
 
-On the 18th he wrote to a young friend;
-"`The work of the soul`'s redemption is a great work;
+On the 18th he wrote to a young friend:]
+
+[.embedded-content-document.letter]
+--
+
+The work of the soul`'s redemption is a great work;
 and many conflicts of spirit we must all pass through in whom this work is going on.
 If the Great Master has any special service for thee in his Church,
 beyond being a preacher of righteousness in life and conversation,
 which every follower of Christ is called to, He will not fail to manifest it to thee,
 and in his own time endue with strength and clearness for his own work.
-Be thou faithful in a little, and He will make thee ruler over more.`"
+Be thou faithful in a little, and He will make thee ruler over more.
 
-Diary: Second month 22nd. Fifth-day.
-"`Having for a considerable time felt drawings to visit
+--
+
++++[+++Diary:] Second month 22nd. Fifth-day.
+Having for a considerable time felt drawings to visit
 Friends of Salem Quarterly Meeting in their different meetings,
 I obtained a minute for that purpose from our Monthly Meeting held this day.
 Dougan and Asenath Clark were with us,
@@ -653,12 +754,18 @@ I had an open time in communication,
 commencing with the language of the Most High by the Psalmist,
 '`Gather my saints together unto me,
 those that have made a covenant with me by sacrifice.`'
-In the afternoon returned home in a state of peaceful poverty.`"
+In the afternoon returned home in a state of peaceful poverty.
 
-In reference to this visit, he writes to his daughter Rebecca: "`On the whole,
-I feel glad I have been out, and that this debt of Gospel love has been paid.`"
+[.small-break]
+'''
 
-Diary: "`Third month 10th. First-day.
++++[+++In reference to this visit, he writes to his daughter Rebecca: "`On the whole,
+I feel glad I have been out, and that this debt of Gospel love has been paid.`"]
+
+[.small-break]
+'''
+
++++[+++Diary:] Third month 10th. First-day.
 Our morning meeting seemed favoured.
 It was mostly held in silence, yet towards the close,
 I was engaged in the solemn service of supplication.
@@ -726,7 +833,7 @@ At Westtown.
 In the morning meeting Sarah Emlen commenced the vocal service,
 followed by William Scattergood and William Evans,
 after which I had a communication from the Scripture passage,
-£ He that being often reproved hardeneth his neck, shall suddenly be destroyed,
+'`He that being often reproved hardeneth his neck, shall suddenly be destroyed,
 and that without remedy.`'
 Some who had often been reproved, both immediately and instrumentally,
 were reasoned with; and others who had entered into covenant with the Lord,
@@ -752,11 +859,19 @@ The subject was illustrated by bringing into view the case of the prophet Elisha
 when the King of Syria sent an army to apprehend him.
 The meeting seemed to be in a good degree favoured.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 B+++.+++ Hoyle to Thomas Kite
 
+[.signed-section-context-open]
 Mount Pleasant, Fourth month 20th, 1844.
 
-Dear Friend:--Feeling under obligation for thy two last acceptable communications,
+[.salutation]
+Dear Friend:
+
+Feeling under obligation for thy two last acceptable communications,
 and also, I trust, an inclination to salute thee under feelings of brotherly love,
 I cannot easily let the present opportunity of
 conveyance pass without dropping thee a few lines.
@@ -783,10 +898,10 @@ for hereby are we kept in our proper allotments.
 
 Your annual assembly is perhaps by this time over.
 Has the ministry been of that description which tends to bring '`under
-the cross of Christ '`? The accounts from your side latterly have been,
+the cross of Christ'`? The accounts from your side latterly have been,
 so far as I have seen them, favourable, and heartily do I wish it may prove so.
 I am not without fears that there may be that among us,
-which may be likened to £ wine mixed with water.`'
+which may be likened to '`wine mixed with water.`'
 Unless the Blessed Head of the Church interposes
 for his cause`' sake and for his honour`'s sake,
 there may be those liberated by some of the Yearly Meetings, even to cross the sea,
@@ -796,6 +911,8 @@ but must add affliction to the true burden-bearers where they may travel.
 These remarks do not apply to any such cases
 that may have been before your Yearly Meeting;
 but surely there is a want of true discerning in some directions.
+
+--
 
 Fifth month 13th. Sixth-day.
 Our Yearly Meeting has been held, which was upon the whole a favoured season;
@@ -808,11 +925,20 @@ Yesterday in our Monthly Meeting I was drawn forth in vocal supplication,
 and had afterwards a short communication.
 Isabel Casson and Rachel Priestman appeared in testimony.`"
 
-During the spring of this year symptoms of a pulmonary
+[.small-break]
+'''
+
++++[+++During the spring of this year symptoms of a pulmonary
 affection appeared in Susanna Sharpless.
 
-Fifth month 5th, her sister Rebecca writing of her then condition, says:
-"`Dear uncle +++[+++Thomas Kite,]
+Fifth month 5th, her sister Rebecca writing of her then condition, says:]
+
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear uncle +++[+++Thomas Kite,]
+
 I cannot but feel sad when I call to mind the suffering,
 emaciated frame of a sister so tenderly beloved,
 and feel that ere long she may be taken from us.
@@ -821,9 +947,11 @@ desiring to be prepared either for life or death.
 She told me she had not asked to be restored,
 though she felt keenly the prospect of parting from her husband and children.
 May we all seek for resignation to the Divine will,
-and urn murmuringly drink of whatever cup He may see meet to hand us.`"
+and urn murmuringly drink of whatever cup He may see meet to hand us.
 
-On the 11th the doctor said she seemed better.
+--
+
++++[+++On the 11th the doctor said she seemed better.
 There was more to hope but much to fear.
 The invalid that day, after a hard spell of coughing,
 (alluding to the idea of some that the fine summer weather would improve her health),
@@ -831,9 +959,12 @@ said, "`It wall take more than pure air to cure that cough.`"
 
 About the middle of the Fifth month, Thomas Kite visited his sick daughter,
 and attended Cain Quarterly Meeting.
-Fifth month 24th he writes to his daughter Rebecca:
+Fifth month 24th he writes to his daughter Rebecca:]
 
-"`I propose sending this letter by a young Friend of Ohio,
+[.embedded-content-document.letter]
+--
+
+I propose sending this letter by a young Friend of Ohio,
 and a member of Indiana Yearly Meetiug, who is about to become a scholar at Westtown.
 Her mother spoke to W. E. and me at Richmond last fall concerning her,
 and has since by letter commended her to our care.
@@ -868,11 +999,21 @@ in which some precious feelings were experienced,
 and some expressions of sympathy with our dear friend,
 and also with her companion who remained at home.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Fifth month 27th. 1844.
 
-My Dear Son:--Thy sister Rebecca`'s letter has, no doubt,
+[.salutation]
+My Dear Son:
+
+Thy sister Rebecca`'s letter has, no doubt,
 apprised thee of our dear Susan`'s illness.
 It will be eight weeks tomorrow since she was taken sick.
 She was at the time, as well as her husband,
@@ -894,8 +1035,15 @@ But as Susan is still very weak, and a relapse may take place,
 I wish thee not to be too sanguine in expecting thy mother,
 and endeavour to bear it with fortitude shouldst thou meet with a disappointment.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Fifth month 29th.
 
 Cousin Rebecca Haverstick`'s funeral was largely attended, and was a solemn time.
@@ -922,8 +1070,15 @@ In our dear cousin`'s case we see how uncertain is time;
 may it be increasingly thy concern to be found ready when the call is issued, "`Steward,
 give an account of thy stewardship, for thou mayest be no longer steward.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Fifth month 31st, 1844.
 
 The accounts we receive of thy sister`'s state in various ways,
@@ -951,13 +1106,19 @@ having in view to attend some meetings within the limits of our Yearly Meeting,
 and also to be at that held for New England.
 The latter part of his prospect I should think would not be very pleasant to him.
 
-In the beginning of the Sixth month, Thomas Kite,
+--
+
++++[+++In the beginning of the Sixth month, Thomas Kite,
 whose heart was closely drawn towards his suffering daughter, paid her another visit.
 He found her not quite so well as she had previously been, the effect, it was thought,
 of damp and rainy weather.
 
-On the 10th, Rebecca Kite writing of her sister says:
-"`The doctor thinks her disease has now assumed a decidedly consumptive form,
+On the 10th, Rebecca Kite writing of her sister says:]
+
+[.embedded-content-document.letter]
+--
+
+The doctor thinks her disease has now assumed a decidedly consumptive form,
 and notwithstanding an increase of strength, he does not feel at all encouraged.
 I have watched her now week after week, and my mind but strengthens in the belief,
 that ere very long we will have to part with one whose uniform
@@ -969,8 +1130,15 @@ we should recognize our friends in another world;
 she thought that would be a matter of little moment if she could only
 be found worthy to obtain the lowest seat in the Heavenly Kingdom.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Sixth month 18th.
 
 Thy mother and I are much obliged to thee for
@@ -990,7 +1158,9 @@ particularly in the morning,
 even if thou hast to omit some sewing and some
 writing to obtain the time to accomplish it.
 
-Sixth month 21st. Susanna Sharpless was a little stronger, but had a suffering day.
+--
+
++++[+++Sixth month 21st. Susanna Sharpless was a little stronger, but had a suffering day.
 She said she did not think herself any better.
 The disease was a flattering one,
 and she thought the many changes were calculated to unsettle the mind.
@@ -998,10 +1168,15 @@ A Friend (J. E.) who at this time visited her,
 remarked afterward her "`bright and cheerful countenance`" and
 "`the gathering of solemnity`" which was at times upon it.
 He thought we need not say of such as she was, "`they would be blest,
-they were blest already.`"
+they were blest already.`"]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Sixth month 25th.
 
 I received a letter from thee a few days ago,
@@ -1035,8 +1210,15 @@ A black boy, twelve years old, who died some time since, I think of consumption,
 said near his close, "`God is my Creator, Christ is my Redeemer,
 the Holy Spirit is my Sanctifier, and Heaven is my home.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Seventh month 6th.
 
 There are many circumstances in the present day of a serious aspect,
@@ -1048,8 +1230,15 @@ I would recommend my dear children with a wish
 to be their companion in this necessary concern.
 I am thy sympathizing and affectionate father.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Seventh month 15th.
 
 As I have heard of a private conveyance for a letter,
@@ -1077,8 +1266,15 @@ Were we truly living under the government of the Prince of Peace,
 our example would be of importance wherever we might live,
 and our spirits would afford a practical illustration of the nature of his kingdom.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Same to Same.
 
+[.signed-section-context-open]
 Seventh month 31st.
 
 Dear Susanna keeps very much indisposed.
@@ -1092,11 +1288,21 @@ Thy sister Rebecca has been frequently to see her,
 and through the kindness of the superintendent and her fellow teachers,
 she has been permitted to remain with the dear sufferer about two weeks.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Eighth month 2nd, 1844.
 
-My Dear Daughter:--I have not written to thee lately,
+[.salutation]
+My Dear Daughter:
+
+I have not written to thee lately,
 but it has not proceeded from any diminution of affection.
 On the contrary thou wast never more dear to me than now,
 when thou art under the discipline of affliction,
@@ -1126,9 +1332,18 @@ giving thee to see the greatness of his salvation, and that it is all of mere me
 "`Not by works of righteousness which we have done, but of his mercy He saves us,
 by the washing of regeneration and the renewing of the Holy Ghost.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
-(Same date.) Having written to thy sister,
+[.signed-section-context-open]
+Eighth month 2nd, 1844.
+
+Having written to thy sister,
 I seem to have little at present to say to thee.
 I understand thou expects in a few days to return to thy duties at the school.
 I have left this subject to thy own feelings, but as thou hast come to this conclusion,
@@ -1148,7 +1363,9 @@ It is seldom of advantage to the young to speak of these things to others.
 Let them take warning as regards themselves,
 and remember that none are safe unless the holy watch is maintained.
 
-On the 8th of Eighth month, Thomas Kite attended Abington Quarterly Meeting.
+--
+
++++[+++On the 8th of Eighth month, Thomas Kite attended Abington Quarterly Meeting.
 Joseph Edgerton was first opened in Gospel power and authority,
 and having closed his communication, Thomas Kite soon rose.
 He said although we did not believe it to be right to eulogize the dead,
@@ -1173,10 +1390,15 @@ During the Eighth month, Thomas Kite spent some time with his declining daughter
 On the 26th after his return he thus concludes a letter to his daughter Rebecca:
 "`With affectionate desires for thy preservation in the path of rectitude, in humility,
 watchfulness, and filial fear of offending thy Heavenly Father, either in thought,
-word or deed, I remain thy anxiously concerned parent.`"
+word or deed, I remain thy anxiously concerned parent.`"]
 
-Same to Same.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Thomas Kite to his Daughter Rebecca.
+
+[.signed-section-context-open]
 Eighth month 30th.
 
 At our Monthly Meeting yesterday we had the company of Hannah Warrington,
@@ -1199,13 +1421,22 @@ much unity of feeling prevailing in relation to the business which came before u
 of which we had a considerable amount,
 so that we did not get released until near two o`'clock.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Ann Eliza Yarnall.
 
+[.signed-section-context-open]
 Eighth month 31st.
 
-Dear Cousin.
+[.salutation]
+Dear Cousin:
+
 My daughter Susan mentioned to me that she thought the
-volume of "`Memorials recently prepared,
+volume of "`Memorials`" recently prepared,
 would be acceptable to thee.
 I therefore present thee with a copy, which accompanies this letter.
 When we read of the self-denying lives and happy deaths of the servants of Christ,
@@ -1234,12 +1465,22 @@ and on the terms of obedience to his call, He will make them his adopted childre
 "`Come out from among them and be ye separate; touch not the unclean thing,
 and I will receive you, and will be a Father unto you;
 and ye shall be my sons and daughters, saith the Lord Almighty.`"
+
+[.signed-section-closing]
 I am thy affectionate and sympathizing friend and cousin,
 
+[.signed-section-signature]
 Thomas Kite.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his Daughter Rebecca
 
+[.signed-section-context-open]
 Ninth month 2nd.
 
 There is no situation or station exempt from trial and temptation.
@@ -1269,8 +1510,15 @@ and God shall wipe away all tears from their eyes; and there shall be no more de
 neither sorrow nor crying, neither shall there be any more pain;
 for the former things are passed away.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Ninth month 5th.
 
 By thy mother`'s letter I suppose thou hast information
@@ -1297,8 +1545,15 @@ I have no doubt Truth would lead to a stricter administration
 of the discipline than is common in some parts.
 But the men to enforce this must be clean handed.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca
 
+[.signed-section-context-open]
 Ninth month 6th.
 
 +++[+++After a little general information he concludes a short note thus:]
@@ -1306,10 +1561,15 @@ I cannot think of anything more, necessary to tell thee at present.
 So with desires for thy stability, watchfulness and increasing dedication to the cross,
 even until thy own will shall be crucified and slain, I remain thy affectionate father.
 
-Ninth month 9th, Thomas Kite attended Haddonfield Monthly Meeting.
-On the 10th, writing to his daughter Rebecca, he says:
+--
 
-"`We hear more unpleasant tidings from New England.
++++[+++Ninth month 9th, Thomas Kite attended Haddonfield Monthly Meeting.
+On the 10th, writing to his daughter Rebecca, he says:]
+
+[.embedded-content-document.letter]
+--
+
+We hear more unpleasant tidings from New England.
 There have been some operations commenced in another
 Monthly Meeting of Rhode Island Quarterly Meeting,
 which, if we are rightly informed, are of an arbitrary character.
@@ -1318,10 +1578,17 @@ Yet everything of this kind, or any trials nearer home,
 should incite us to individual faithfulness;
 for whatever may be permitted to befall any of the children of men,
 the sentence of the wise man will stand good,
-'`Surely I know that it shall be well with them that fear God; that fear before Him.`'`"
+'`Surely I know that it shall be well with them that fear God; that fear before Him.`'
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Sarah Emlen to Thomas Kite
 
+[.signed-section-context-open]
 Belfast, Ninth month 15th, 1844.
 
 My beloved friend, Thomas Kite,
@@ -1350,12 +1617,22 @@ Is dear Susan with you yet?
 or has she taken her flight to join the saints above?
 How incomprehensible are the ways of Providence!
 A letter addressed to the care of Isaac Hadwin, of Liverpool, would find thy friend,
+
+[.signed-section-signature]
 Sarah Emlen.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Ninth month 16th.
 
+We are about in usual health, excepting your sister Susanna, who gradually declines.
 We are about in usual health, excepting thy sister Susanna, who gradually declines.
 Her limbs now swell towards night, but the swelling abates by morning.
 Water also appears to accumulate on her chest.
@@ -1363,7 +1640,9 @@ She seems to be supported under her sufferings,
 and her reliance is evidently on her Creator and Redeemer.
 It is quite uncertain how long she may yet have to struggle with her afflictions.
 
-On the 16th, Susanna Sharpless became alarmingly oppressed,
+--
+
++++[+++On the 16th, Susanna Sharpless became alarmingly oppressed,
 and in the belief that her end could not be very distant,
 asked for her husband and then for her children.
 When they came, she affectionately bade them farewell, and addressed some sweet,
@@ -1394,7 +1673,11 @@ Last night, waking out of sleep, she seemed very feeble, and sat up in bed for a
 They noticed a rattling in her throat, and cousin Aaron was called.
 In a few minutes she passed away, very calmly and quietly.`"
 
-The following account was penned by one present at the close and funeral:
+The following account was penned by one present at the close and funeral:]
+
+[.embedded-content-document.letter]
+--
+
 "`It was my privilege to witness the closing scene,
 and it was the first time I had ever been present on such an occasion.
 Half propped up in bed, she gently drew her breath at short intervals, until all ceased.
@@ -1421,7 +1704,7 @@ she was what she was.
 
 The sentences which follow, are believed to be nearly as they were uttered:
 
-'`There is now no condemnation to them which are in Christ Jesus,
+"`There is now no condemnation to them which are in Christ Jesus,
 who walk not after the flesh, but after the Spirit;
 for the law of the spirit of life in Christ Jesus hath
 made me free from the law of sin and death.`'
@@ -1440,11 +1723,17 @@ By the grace of God she was what she was;
 and it may be for the encouragement of some present, that my voice is heard this day.
 May you be enabled to give up all and follow Christ.
 I am enabled to say, '`The Lord gave and the Lord hath taken away;
-blessed be the name of the Lord!`'
+blessed be the name of the Lord!`'`"
 
-The following notice appeared in "`The Friend:`"
+--
 
-"`Died, Ninth month 19th, at the residence of her husband, in East Bradford,
+[.offset]
++++[+++The following notice appeared in "`The Friend:`"]
+
+[.embedded-content-document.testimony]
+--
+
+Died, Ninth month 19th, at the residence of her husband, in East Bradford,
 Chester County, Pennsylvania, in the 36th year of her age, Susanna,
 wife of Aaron Sharpless; a member of Birmingham Monthly Meeting.
 During her last illness, which was of many months`' duration,
@@ -1456,10 +1745,17 @@ she was quietly yet earnestly engaged that her concerns, outwardly and inwardly,
 might be found in order.
 She appeared as a servant watching for her Lord, not knowing the moment of his coming,
 but yet rejoicing in the belief that He would not tarry,
-but through redeeming love and mercy would gather her into his mansions of rest.`"
+but through redeeming love and mercy would gather her into his mansions of rest.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Ninth month 27th.
 
 A notice of dear Susan`'s death is in "`The Friend.`"
@@ -1498,8 +1794,15 @@ and being strengthened to fight the good fight, and to keep the faith,
 may we be permitted in the Lord`'s time to follow
 her to the regions of light and everlasting joy.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Ninth month 29th.
 
 Thy brother William wrote announcing the death of thy sister.
@@ -1523,17 +1826,18 @@ of her acquaintance when she was gone as memorials of her affection.
 She even gave directions respecting the manner
 in which she wished the funeral to be conducted.
 A short account for family use will probably be drawn up, mentioning some things,
-which she expressed at various times, i just hint for the present at a few of them,
+which she expressed at various times, I just hint for the present at a few of them,
 as I have received them from thy aunt Mary, who continued with her to the last.
 One evening she remarked, '`What a poor creature I am;
 not worth all the trouble I occasion.`'
 She then said she had been comforted with the communication of dear Joseph Edgerton,
 in her chamber a few days before;
-and how truly she felt herself '`a poor creature as he expressed it.
+and how truly she felt herself '`a poor creature`' as he expressed it.
 But she could say she loved the Truth, and desired to do nothing against it, adding,
 '`How consoling the language,
 that '`he believed the angel of the Lord`'s presence would attend,
 and convey me safely through the dark valley.`'
+
 She several times quoted the language of Job,
 '`All the days of my appointed time will I wait until my change come.`'
 At one time she remarked nearly in this wise, '`I often have sweet,
@@ -1551,6 +1855,7 @@ yet sometimes in the midst of severe suffering, I feel that He is love.`'
 She afterwards observed, '`I have not as clear an evidence as I desire of acceptance,
 but I am favoured at times with his presence;
 and many times in the day my thoughts are turned towards my heavenly Father.`'
+
 She also alluded in a feeling manner to the gradual weaning
 from all earthly things her mind had experienced.
 The same day she said to William, '`Dear brother, my days seem numbered,
@@ -1576,10 +1881,16 @@ eternal things are those which should engage our most serious attention.
 If the soul is lost, all that is worth living for is lost;
 if immortal life is but gained, it matters little, comparatively, what else is lost.
 
-To a friend of the family, residing at a distance,
-who on hearing of the illness of Susanna Sharpless,
-had written a sympathizing letter to the family, Thomas Kite thus replied:
+--
 
++++[+++To a friend of the family, residing at a distance,
+who on hearing of the illness of Susanna Sharpless,
+had written a sympathizing letter to the family, Thomas Kite thus replied:]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Tenth month 18th.
 
 Thou wast truly informed as to the situation of our beloved daughter.
@@ -1596,6 +1907,7 @@ She was no less earnestly engaged with respect to her soul`'s welfare;
 and He whom she had long loved, and desired to serve, her gracious Lord and Saviour,
 condescended to give her a comfortable and sustaining hope,
 that in the end all would be well.
+
 She appeared to feel much more for her husband than for herself; her children, also,
 had large claims on her sympathy.
 She imparted her dying counsel to the two eldest in simple language;
@@ -1614,7 +1926,9 @@ proper submission to his heavenly Father`'s will.
 Sister Mary went soon after Yearly Meeting, and continued with Susan to the close.
 We expect her home next week.
 
-During the time that Rebecca Kite was in Philadelphia
+--
+
++++[+++During the time that Rebecca Kite was in Philadelphia
 during the Westtown vacation this month,
 a circumstance occurred which she thus narrates:
 "`The last Fourth-day evening I was at home, all our uncles, aunts and cousins,
@@ -1626,7 +1940,10 @@ and then very feelingly to our recent bereavement, saying, '`My dear friends,
 I have every proof which my heart could desire,
 that the change was a happy one to the dear deceased.`'
 
-In the same letter addressed to her brother Thomas, she says:
+In the same letter addressed to her brother Thomas, she says:]
+
+[.embedded-content-document.letter]
+--
 
 Hast thou ever looked back over those who have been taken from us,
 and felt thankful in believing that so many of them were prepared for the final change.
@@ -1661,22 +1978,36 @@ and now our most tenderly loved and cherished sister,
 have one by one been summoned by the messenger on the pale horse,
 and we trust have all been ready.
 
-Tenth mouth.
+--
+
++++[+++Tenth mouth.
 In a letter from Rebecca Kite to her brother Thomas,
 is some further information relative to Thomas Kite`'s movements this week.
-Of the Fifth-day, at Westtown, she says: "`Our dear father was at meeting,
+Of the Fifth-day, at Westtown, she says:]
+
+[.embedded-content-document.letter]
+--
+
+Our dear father was at meeting,
 and spoke very interestingly.
-'`Information having been received of the death of our uncle, Isaac Hayes,
+Information having been received of the death of our uncle, Isaac Hayes,
 father went +++[+++to Fallowfield]
 on Seventh-day afternoon.
 The next morning, before light, brother Aaron, aunt Mary, cousin Joseph and myself,
-were on our way To the Same place.
+were on our way to the same place.
 We saw the placid remains of our venerable uncle,
 and learned that his end was peace and joy.
-Father`'s voice was heard both in the dwelling house and in the meeting.`"
+Father`'s voice was heard both in the dwelling house and in the meeting.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Tenth month 29th.
 
 I do not wish to fill my letters with repetitions of religious counsels,
@@ -1690,8 +2021,15 @@ Aaron and his sons were commanded to bless the children of Israel:
 the Lord make his face to shine upon thee and be gracious unto thee;
 the Lord lift up his countenance upon thee and give thee peace.`"
 
-Thomas Kite To the Same.
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Thomas Kite to the Same.
+
+[.signed-section-context-open]
 Eleventh month 6th.
 
 I have been sorry to see so much excitement about the presidential
@@ -1699,8 +2037,15 @@ election and hope that men`'s minds will soon settle down,
 and be at liberty to attend more closely to those concerns which are not bounded by time,
 but reach forward into eternity, even the concerns of the immortal soul.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Eleventh month 22nd.
 
 I had occasion to call last evening at William Evan`'s,
@@ -1729,11 +2074,21 @@ He was much injured, has been insensible up to the last account we have heard,
 and he is not expected to recover.
 It will be a great affliction to his parents and to the family.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Sarah Emlen to Thomas Kite.
 
+[.signed-section-context-open]
 Exeter, Eng+++.+++, Twelfth month 1st, 1844.
 
-My Beloved Friend:--Thy very acceptable letter reached me at Bristol,
+[.salutation]
+My Beloved Friend:
+
+Thy very acceptable letter reached me at Bristol,
 the 12th of last month, just four weeks from its date.
 While I sympathize with thee in the privation of so valued and worthy a child,
 nevertheless, I do believe, that on her account, we may rejoice.
@@ -1771,6 +2126,7 @@ They are naturally amiable and lovely; but I long to see them newly-born babes i
 and not ashamed or afraid to confess Him before men.
 Thy account of my dear James, and of the children waiting on their friends,
 with cheerfulness and alacrity, during committee time, was pleasant.
+
 It is now more than five weeks since I was favoured to
 accomplish my mission through Ireland,
 and came over to Liverpool, with my little sheaf, but without daring to set it up,
@@ -1812,6 +2168,7 @@ To us who had been accustomed to much more uneven ways, it was a subject of inqu
 why they hooked on another pair of horses?
 We wondered at being told,
 "`to drag you up the hills,`" when we thought the road was so fine.
+
 We visited the few scattered ones of the tribes in that country, Pales and Hay,
 and so on to Neath, in Glamorganshire.
 From thence we had a long two days`' journey to Milford, on the sea,
@@ -1831,3 +2188,5 @@ and not to his poor servants, they with tears and sobs would exclaim, "`Yes!
 Yes!
 Yes!`" and it was really affecting and humbling to see them crowding round our carriage.
 Dugan said, "`Well, I never saw the like.`"
+
+--

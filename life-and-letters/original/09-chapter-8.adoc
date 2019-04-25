@@ -1,18 +1,25 @@
 == Chapter VIII.
 
-1825-1828.
+[.chapter-synopsis]
+* 1825-1828.
+* Letter from a young friend
+* Thomas Kite`'s reply
+* Joshua Sharpless`' death
+* Memoranda.
 
-Letter from a young friend--Thomas Kite`'s reply--Joshua Sharpless`' death--Memoranda.
-
-Thomas Kite was often dipped into sympathy with the young,
++++[+++Thomas Kite was often dipped into sympathy with the young,
 and through the unfolding of the Holy Spirit,
 was made acquainted with their departure in heart from the principle of Light and Life,
 which would have preserved them from sin.
 Having been brought, as he believed,
 into a sense of the lapsed state of one of the children of a man he dearly loved,
 he unfolded to the young man plainly and affectionately his concern on his account.
-He soon afterwards received the following letter.
+He soon afterwards received the following letter.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Second month 2nd, 1825.
 
 So far am I from feeling offended at thy communicating thy
@@ -44,8 +51,15 @@ further which thou mayest have to communicate in this way,
 in a degree of that spirit which has introduced thee into a tender
 solicitude for the welfare of thy sincere though unworthy friend.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite in reply
 
+[.signed-section-context-open]
 Second month 3rd, 1825.
 
 I have been affected in reading thy letter, which I received last evening,
@@ -138,7 +152,9 @@ patiently to bear what thou art conscious of deserving,
 remembering, it is better that our sins go beforehand to judgment,
 than that they should follow after.
 
-The young man settled down into a useful citizen,
+--
+
++++[+++The young man settled down into a useful citizen,
 and became a religiously concerned member of the Society of Friends.
 He continued to reside in Philadelphia, and within his domestic circle numbered a happy,
 virtuous wife, and an interesting family of children.
@@ -147,11 +163,18 @@ Near the close of the Tenth month, this year,
 Thomas Kite`'s three eldest children spent a short time
 at Burlington with their father`'s friend,
 Stephen Pike.
-On their return, they were made the bearers of the following letter:
+On their return, they were made the bearers of the following letter:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Burlington, Tenth month 30th, 1825.
 
-Esteemed Friend:--The company of thy children has been acceptable to us all;
+[.salutation]
+Esteemed Friend:
+
+The company of thy children has been acceptable to us all;
 to myself particularly so.
 This earth has nothing so interesting as the loveliness of innocence
 accompanied with sprightly intelligence and benevolent affections;
@@ -165,9 +188,12 @@ and also of those exterior graces which render their possessor agreeable to othe
 consequently, better qualified for usefulness.
 In haste, thy sincere friend,
 
+[.signed-section-signature]
 Stephen Pike.
 
-During the years 1824, 1825 and 1826,
+--
+
++++[+++During the years 1824, 1825 and 1826,
 Thomas Kite continued labouring as ability was afforded against the
 inroads of unsound doctrines into the religious Society of Friends.
 From time to time, at the pointings of duty,
@@ -175,10 +201,15 @@ he attended neighbouring Quarterly and Monthly Meetings,
 but paid no extensive religious visit during those years of commotion.
 For his faithfulness to what he esteemed fundamental truths,
 he was much disliked by the followers and admirers of Elias Hicks,
-who manifested their displeasure with him in various ways.
+who manifested their displeasure with him in various ways.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Philadelphia, Eighth month 19th, 1826.
 
 I find, my dear child, whenever I take up my pen to address thee,
@@ -210,9 +241,11 @@ The actions of time are weighed in the balance of eternity,
 and such as we sow such shall we reap.
 Oh! that, sowing to the Spirit, thou mayest of the Spirit reap life everlasting.
 
-Joshua Sharpless, father-in-law of Thomas Kite, deceased the 21st of the Ninth month,
+--
+
++++[+++Joshua Sharpless, father-in-law of Thomas Kite, deceased the 21st of the Ninth month,
 1826.
-The funeral took place on the following Seventh-day, the 23d, at 10 o`'clock.
+The funeral took place on the following Seventh-day, the 23rd, at 10 o`'clock.
 Thomas Kite remained for a short time with the bereaved family at Bradford,
 and his Christian labours in consolation and counsel on that occasion,
 were long had in remembrance by some of the grand-children collected.
@@ -235,13 +268,21 @@ This year Susanna Kite commenced keeping school in Philadelphia, and her brother
 then but seventeen years of age, undertook a similar occupation at Medford, New Jersey,
 for the winter of 1827-8. His father felt much concern and anxiety at
 this early engagement of his son in so important a matter,
-and his letters testify his care.
+and his letters testify his care.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son William.
 
+[.signed-section-context-open]
 Philadelphia, Eleventh month 21st, 1827.
 
-Dear Son:--I feel anxious to hear how thou feels in the
+[.salutation]
+Dear Son:
+
+I feel anxious to hear how thou feels in the
 new and important station in which thou art placed,
 and for thy good conduct, wherein I feel myself in some degree responsible,
 not only because of my relationship,
@@ -267,8 +308,15 @@ A dear aged friend of mine, Elizabeth Collins, lives near thee.
 I wish thee, some First-day afternoon, to call on her, make thyself known to her,
 and remember me affectionately to her.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same
 
+[.signed-section-context-open]
 Twelfth month 22nd.
 
 I have received some information of thy getting along, which has been satisfactory,
@@ -302,9 +350,15 @@ death itself cannot destroy their pleasures.
 They know that '`if the earthly house of this tabernacle were dissolved,
 they have a building of God, a house not made with hands, eternal in the heavens.`'
 
-Among Thomas Kite`'s papers was found the following:
+--
 
-"`God created man for enjoyment,
+[.offset]
++++[+++Among Thomas Kite`'s papers was found the following:]
+
+[.embedded-content-document.paper]
+--
+
+God created man for enjoyment,
 and therefore implanted in him an instinctive desire for happiness.
 As first created,
 his thirst for happiness was gratified by partaking of the fountain of supreme bliss,
@@ -321,13 +375,15 @@ Hence he craves purity, that he may again assimilate with God and enjoy Him.
 By submitting to the power of the Spirit,
 the instinctive impulse after happiness becomes purified.
 That which in a fallen state is carnal desire becomes heavenly and spiritual;
-it is hunger and thirst after righteousness.`"
+it is hunger and thirst after righteousness.
 
-Soon after the Yearly Meeting in the Fourth month, 1828, Rebecca,
+--
+
++++[+++Soon after the Yearly Meeting in the Fourth month, 1828, Rebecca,
 daughter of Thomas Kite, went to Westtown Boarding School,
 and in the Fifth month his father and mother broke up
 housekeeping and became inmates of his family.
 As his book store did not realize sufficient profit to support his family,
 he now added a printing office and a bindery to his means of maintenance.
 The printing office proved a profitable investment,
-and he retained an interest in it for a number of years.
+and he retained an interest in it for a number of years.]

@@ -1,10 +1,12 @@
 == Chapter III.
 
-1808-1811.
+[.chapter-synopsis]
+* 1808-1811.
+* Call to the ministry
+* Death of Elizabeth Kite
+* His testimony concerning her.
 
-Call to the ministry--Death of Elizabeth Kite--His testimony concerning her.
-
-Thomas Kite was now married, and in his new connection,
++++[+++Thomas Kite was now married, and in his new connection,
 with unwonted cares he experienced an accession of unwonted comforts.
 He was affectionate in his feelings,
 and was well qualified by his natural disposition to promote domestic happiness,
@@ -20,11 +22,21 @@ and also pleasingly set forth the strength of his affectionate feelings.
 
 Soon after the Yearly Meeting in 1808,
 Elizabeth Kite visited her relatives and friends in her native place.
-While she was absent her husband addressed the following note to her.
+While she was absent her husband addressed the following note to her.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Thomas Kite to His Wife
+
+[.signed-section-context-open]
 Philadelphia, Fifth month 6th, 1808.
 
-My Dear:--Home has lost part of its charms since thou left me, yet considering our loss,
+[.salutation]
+My Dear:
+
+Home has lost part of its charms since thou left me, yet considering our loss,
 we are tolerably comfortable.
 Robert L. Pittfield and Elizabeth Folwell accomplished
 their marriage yesterday at our meeting,
@@ -32,7 +44,9 @@ and were addressed in the language of encouragement by Samuel Smith and David Sa
 the latter of whom took leave of Friends.
 Farewell, my love, tomorrow I hope to see thee.
 
-A few cases of highly malignant bilious fever occurred
+--
+
++++[+++A few cases of highly malignant bilious fever occurred
 in Philadelphia in the latter end of the summer of 1809,
 and occasioned some alarm to the inhabitants.
 At this time, about the middle of the Eighth month,
@@ -50,8 +64,12 @@ but believing the country to be useful to our dear child,
 I am willing to submit to the deprivation for her sake.
 Beside, I trust, thy health will be improved, which is another motive for resignation.`"
 
-Looking back to this period of his life and business, Thomas Kite afterwards wrote thus:
-"`In the prosecution of my outward concerns I had many trials and temptations,
+Looking back to this period of his life and business, Thomas Kite afterwards wrote thus:]
+
+[.small-break]
+'''
+
+In the prosecution of my outward concerns I had many trials and temptations,
 yet I was favoured to keep the love of Truth so far predominant,
 as never to neglect my religious meetings, and though at times much discouraged,
 and after my marriage full of fears lest I should not
@@ -61,16 +79,22 @@ discharge my engagements with a good degree of punctuality,
 but never knew the want of the necessaries and common comforts of life;
 so that I have abundant cause to acknowledge to the truth of Christ`'s promise,
 Seek ye the kingdom of God, and all these things we have need of,
-whilst in this state of being, shall be added.`"
+whilst in this state of being, shall be added.
 
-Thomas Kite was passing through many inward conflicts
+[.small-break]
+'''
+
++++[+++Thomas Kite was passing through many inward conflicts
 to fit him for the work of the ministry,
 to which he was sensible he was called,
 yet he made no note of his exercises from Fifth month 13th, 1806,
 until the beginning of the Fourth month, 1810,
-shortly after his first public appearance as a minister.
+shortly after his first public appearance as a minister.]
 
-Diary: Fourth month.
+[.small-break]
+'''
+
++++[+++Diary:] Fourth month.
 I have for several years believed, if I kept my place,
 it would be required of me to bear testimony to the Good Hand
 that has delivered me out of Egyptian darkness.
@@ -81,7 +105,10 @@ but not in public until the 20th of the Third month,
 when at Frankford I expressed a small matter that had rested on my mind, in great fear.
 Oh may I be preserved near the Divine Guide.
 
-His friends had, some of them, been dipped into sympathy with him,
+[.small-break]
+'''
+
++++[+++His friends had, some of them, been dipped into sympathy with him,
 in the prospect of his being called to this awful work,
 and the day of his appearance at Frankford,
 his relative and friend Mary Harper had exhorted him to
@@ -90,9 +117,12 @@ He spoke on the text in the Apocrypha, Ecclesiasticus ii.
 10: "`Look at the generations of old and see;
 did ever any trust in the Lord and was confounded?
 or did any abide in his fear, and was forsaken?
-or whom did He ever despise, that called upon Him?`"
+or whom did He ever despise, that called upon Him?`"]
 
-Diary: Fourth month 4th. Attended Byberry Meeting;
+[.small-break]
+'''
+
++++[+++Diary:] Fourth month 4th. Attended Byberry Meeting;
 believed myself commissioned to sound an alarm to some, who, I apprehended,
 had not many years to live,
 and who were not yet prepared to receive the inscription of "`Holiness unto the Lord.`"
@@ -118,13 +148,23 @@ Sixth month 11th. Attended Haddonfield Monthly Meeting.
 Found peace in endeavouring to discharge my mind of a concern for parents,
 near the close of a meeting for business.
 
-Having taken his wife to Wilmington,
-he left her there to spend a short time with her friends and relatives,
-and returning to Philadelphia, met with the adventure described in the following letter.
+[.small-break]
+'''
 
++++[+++Having taken his wife to Wilmington,
+he left her there to spend a short time with her friends and relatives,
+and returning to Philadelphia, met with the adventure described in the following letter.]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Sixth month 21st, 1810.
 
-My Dear:--I sit down in the cool of the morning to give
+[.salutation]
+My Dear:
+
+I sit down in the cool of the morning to give
 thee an account of our progress yesterday.
 The morning was fine and a breeze rendered the ride agreeable,
 so that we came along pleasantly enough until we arrived at Chester creek, where,
@@ -142,7 +182,10 @@ and stood the whole ride very well.
 After we were thoroughly dried, it appearing that the roof only of the stage was damaged,
 we proceeded on our journey and reached home about two o`'clock.
 
-To his wife.
+[.letter-heading]
+To His Wife.
+
+[.signed-section-context-open]
 Sixth month 22nd.
 
 Yesterday, Fifth-day, was Preparative Meeting.
@@ -166,7 +209,9 @@ May we then be enabled so to improve the time and opportunities
 afforded us as to lay up for ourselves a good foundation,
 that when our earthly tabernacles fail we may be received into everlasting habitations.
 
-Diary:
+--
+
++++[+++Diary:]
 Seventh month 31st. During the present month I have suffered loss from
 reading books not written by persons under the influence of Truth.
 Too much talking has been indulged in, and something of slander.
@@ -255,7 +300,7 @@ Yesterday at Pine Street and today at our Monthly Meeting somewhat favoured in s
 In the evening,
 dear Susanna Home had a precious opportunity with us of the young classes of Society,
 and those of similar ages, not in membership, who attend our meetings.
-Invitation and caution were handed forth, and a covering of solemity prevailed.
+Invitation and caution were handed forth, and a covering of solemnity prevailed.
 May the Lord alone be praised!
 
 30th. At morning meeting: an impression of duty to stand up,
@@ -288,12 +333,18 @@ Oh Holy Being, forsake me not.
 intent on worldly things,
 and little or no qualification experienced to aspire after heavenly treasures.
 
-Towards the close of the Ninth month, Elizabeth Kite fell down a flight of stairs,
+[.small-break]
+'''
+
++++[+++Towards the close of the Ninth month, Elizabeth Kite fell down a flight of stairs,
 and although not at the time conscious of receiving much injury, it proved,
 in the opinion of her medical attendant, the cause of her death.
 Her second child, William, was born on the 25th of the Tenth month,
 soon after which event her health rapidly sunk.
-Her husband thus describes her close in his Diary.
+Her husband thus describes her close in his Diary.]
+
+[.small-break]
+'''
 
 Eleventh month 16th. My dear wife is very ill.
 The physicians give no hope of her recovery.
@@ -330,10 +381,17 @@ as well as the minds of other near connections of the beloved deceased.
 His prayer was that our language might continue to be "`It is the Lord,
 let Him do what seemeth Him good.`"
 
-The following short testimony concerning his deceased
-wife was found among Thomas Kite`'s papers.
+[.offset]
++++[+++The following short testimony concerning his deceased
+wife was found among Thomas Kite`'s papers.]
 
-"`Some particulars respecting my dear wife.--Elizabeth
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
+Some Particulars Respecting My Dear Wife.
+
+Elzabeth
 Barnard was born the 12th of Second month,
 1786, at Wilmington.
 She was, when young,
@@ -407,11 +465,20 @@ that Holy Power which was her preservation,
 and be enabled to walk, as she did, in humble circumspection before the Lord,
 that so we may experience Him to be our guide and refuge through the probations of time,
 our hope in the hour of death, and our crown and diadem in everlasting inheritance.
-Thomas Kite.`"
 
-Various letters of condolence and sympathy were received from the
+[.signed-section-signature]
+Thomas Kite.
+
+--
+
++++[+++Various letters of condolence and sympathy were received from the
 friends of the family on the occasion of the decease of Elizabeth.
-John Letchworth says in one from him: "`I think I feel for Thomas;
+John Letchworth says in one from him:]
+
+[.embedded-content-document.letter]
+--
+
+I think I feel for Thomas;
 he is young to be left in a state of widowhood,
 and it is pleasing to find that he felt a degree of resignation to the stroke.
 As we believe these things do not happen by chance,
@@ -423,18 +490,23 @@ that I am thus stripped of her in whom I could confide, who was my comfort in tr
 and the partaker of my joy, my adviser in difficulty, my anchor when running too fast?
 I believe Young`'s idea was correct when he wrote--
 
+[verse]
+____
 When heaven would kindly set us free,
-
 And earth`'s enchantments end,
-
 It takes the most effectual means,
+And robs us of a friend.
+____
 
-And robs us of a friend.`'
+--
 
 John Heald, a beloved minister, residing at Fairfield, Columbiana County, Ohio,
 thus wrote on the subject to Benjamin Kite.
 
-"`What thou mentioned with regard to thy son Thomas being left in a solitary way,
+[.embedded-content-document.letter]
+--
+
+What thou mentioned with regard to thy son Thomas being left in a solitary way,
 I notice with attention, and, I trust, with a measure of affectionate sympathy;
 but I do not know that I can send anything that can help to bear up a drooping mind,
 or dry the tears of grief.
@@ -456,4 +528,6 @@ and only say that in early life some small sufferings compared to those of Thoma
 which I endured, I have found brought to my mind, at different times, to the present day,
 to my own profit and that of others.
 We know not, when we pass through adverse trials,
-the use they may be to ourselves or others.`"
+the use they may be to ourselves or others.
+
+--

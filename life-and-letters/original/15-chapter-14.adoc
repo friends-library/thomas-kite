@@ -1,9 +1,13 @@
 == Chapter XIV.
 
-1839-1840.
-
-Joseph John Gurney--Letter to Joseph J. Gurney--Letters--
-Yearly Meeting--Last letter of his mother--Her death.
+[.chapter-synopsis]
+* 1839-1840.
+* Joseph John Gurney
+* Letter to Joseph J. Gurney
+* Letters
+* Yearly Meeting
+* Last letter of his mother
+* Her death..
 
 Joseph John Gurney, late of Norwich, England,
 will long be remembered on account of the extensive distress
@@ -19,7 +23,8 @@ he came to a judgment as to what they were, and undertook to defend them by his 
 He had read the writings of Robert Barclay, and other early Friends,
 and though his views did in many points differ from theirs,
 yet he endeavoured to persuade himself and others, that he was one with them,
-in what he understood to be the meaning of their "`unhappy`" choice of words.
+in what he understood to be the meaning of their "`unhappy`" choice of words.^
+footnote:[For more information on the writings of Joseph John Gurney, and their devastating effect upon the Society of Friends, see [.book-title]#An Examination of the Memoirs and Writings of Joseph John Gurney# by William Hodgson. See also Hodgson`'s [.book-title]#The Society of Friends in the Nineteenth Century#, and [.book-title]#The Journal of the Life of John Wilbur#.]
 
 He was a member of the Society of Friends,
 and was acknowledged as a "`minister`" in it by Norwich Monthly Meeting.
@@ -32,9 +37,15 @@ doctrine against Unitarianism,
 and other grades of infidelity.
 
 About the close of the year 1839, or beginning of 1840, Thomas Kite,
-under a sense of religious duty, addressed him the following letter.
+under a sense of religious duty, addressed him the following letter.]
 
-"`I have at different times taken occasion to express to thee
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Thomas Kite to Joseph John Gurney
+
+I have at different times taken occasion to express to thee
 my uneasiness with thy writings as containing sentiments not
 in unison with the doctrines of our early Friends;
 I have thought I perceived at least a tendency
@@ -72,10 +83,17 @@ not only as to his outward appearance,
 and all that He did and suffered for us in the flesh,
 but also as to his inward and spiritual appearance as the true
 Light which enlighteneth every man that cometh into the world,
-and the only principle of Divine Life to the soul.`"
+and the only principle of Divine Life to the soul.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 First month 2nd, 1840.
 
 I feel, my dear son, much for thee, separated so far from us,
@@ -120,20 +138,27 @@ Commending thee to the guidance and protection of Israel`'s Shepherd,
 who sleepeth not by day, nor slumbereth by night,
 I remain thy anxiously concerned and truly affectionate father.
 
-During this First month, at one of the sittings in his family,
+--
+
++++[+++During this First month, at one of the sittings in his family,
 Thomas Kite was led to address several of those gathered,
 in a sweetly affectionate and solemn manner.
-He commenced '`with addressing; said he thought it was a critical time with her,
+He commenced with addressing +++_______+++; said he thought it was a critical time with her,
 and expressed the earnest desire he felt,
 that she might improve by the opportunities which were presented to her.
 Then came something for, encouraging her to persevere.
 Next was a message for John L. Smith, desiring he might seek first the kingdom of heaven,
 then all things necessary would be added;
 impressing the necessity of a complete surrender.
-If this is not the case a blessing may not accompany our labours.
+If this is not the case a blessing may not accompany our labours.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Second month 11th, 1840.
 
 I am not yet prepared to give a decided sentiment on
@@ -162,9 +187,16 @@ having fulfilled thy coarse of service to thy great Lord and Master on earth,
 thou may forever enjoy the sweet society of pure
 and blessed spirits in the paradise of God.
 
-In the Second month, Thomas Kite attended`' Concord Quarterly Meeting.
+--
+
++++[+++In the Second month, Thomas Kite attended Concord Quarterly Meeting.
 Writing to his daughter Rebecca after his return
-he said:--"`Thou probably heard by cousin James,
+he said:]
+
+[.embedded-content-document.letter]
+--
+
+Thou probably heard by cousin James,
 that the two carriage loads of Philadelphians started together on Fourth-day morning.
 Thos.
 Scattergood with his company took the lead, and we quickly lost sight of them in the fog.
@@ -176,10 +208,17 @@ On discovering his mistake he was about to turn back,
 but the women +++[+++Sarah Hillman and her companion]
 prevented him, finding their minds drawn towards Chester Meeting,
 which they attended and came home in the evening.
-I understand there was cause to believe they were rightly at the meeting.`"
+I understand there was cause to believe they were rightly at the meeting.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Third month 25th.
 
 Dr. Parrish deceased a few days ago.
@@ -213,13 +252,16 @@ and comfort the hearts of the mourners in Zion, confirm the weak,
 and bring home wanderers from the path of rectitude to himself, that so his great name,
 and the name of his dear Son, our holy Redeemer, may be magnified and glorified.
 
-P+++.+++ S.--T. and E. R., who have been much of late in New England,
+[.postscript]
+P+++.+++ S.--Thomas and Elizabeth Robson, who have been much of late in New England,
 are expected at our Yearly Meeting; Jacob Green is also looked for; he was,
 at last accounts, in New York State.
 Mildred Ratcliffe and Benjamin Hoyle, ministers belonging to Ohio Yearly Meeting,
 are also expected; and no doubt we shall have others, of whom we have not yet heard.
 
-On Seventh-day the 18th,
+--
+
++++[+++On Seventh-day the 18th,
 Christopher Healy called in the morning at Thomas Kite`'s to see John Wilbur,
 who made his home there.
 He appeared enjoyed to meet with him, and taking him by the hand, kissed him.
@@ -253,6 +295,7 @@ your marks of moderation, self-denial, and difference from the spirit of the wor
 You are lights.
 The world should come to you; but you are not to go to the world.
 You may gather them; but they will scatter you.`"
+
 Thomas Kite then quoted Samuel Neale`'s account
 of his two visits to the Bishop of Cloghen,
 in the first of which he balked his religious testimony,
@@ -335,10 +378,15 @@ had mixed up with them in intimate connection,
 views adverse to the doctrines and testimonies which, as a religious Society,
 we bear to the world.
 He felt a concern to caution Friends on the subject of the
-indiscriminate reading of books professedly religious.
+indiscriminate reading of books professedly religious.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Fifth month 2nd.
 
 Our family are in usual health, unless it be thy grandmother.
@@ -386,6 +434,7 @@ a sorrowful account of the slave trade was laid before us;
 it appears to be increasing in extent, and attended with greater horrors than ever;
 upwards of one thousand per day are the victims of it; separated from their native land,
 a large portion of whom perish in the voyage to the land of bondage.
+
 A memorial concerning our late Friend, Jonathan Evans, was read;
 by which it appeared he was convinced by incidently looking into Penn`'s "`No Cross,
 No Crown`" and seeing there a testimony to the Light of Christ in men.
@@ -403,6 +452,7 @@ The introduction into Friends`' families of improper books, was also adverted to
 not only the light and frothy productions of the periodical press,
 but also books on religious subjects, which contain along with much that is excellent,
 sentiments at variance with our doctrines and testimonies.
+
 We were much affected with hearing the report of the Committee on Indian Affairs.
 It appears that the plans of avaricious men to drive
 away those natives who have been under our care,
@@ -416,10 +466,16 @@ when Jacob Green broke forth with the voice of thanksgiving, "`Oh,
 give thanks unto the Lord, for He is good;
 for his mercy endureth forever,`" with more to the same effect.
 
-In the Sixth month of this year Thomas Kite went to Cincinnati to visit his son,
+--
+
++++[+++In the Sixth month of this year Thomas Kite went to Cincinnati to visit his son,
 and to see about establishing him in business there.
-He left Philadelphia on the 15th, and thus wrote from Pittsburg on the 19th, viz:
-"`I arrived at this dusky, smoky city last evening, about half-past eight o`'clock,
+He left Philadelphia on the 15th, and thus wrote from Pittsburg on the 19th, viz:]
+
+[.embedded-content-document.letter]
+--
+
+I arrived at this dusky, smoky city last evening, about half-past eight o`'clock,
 having been three nights and four days on my way hither.
 My fellow passengers were mostly agreeable people, and I have been but little fatigued.
 I put up last night at the United States Hotel, where I am now waiting for breakfast,
@@ -432,7 +488,10 @@ I could scarcely obtain the quiet attention to read with profit.
 Though it is rather tedious to be so long on the way,
 yet I still give the preference to the canal route.`"
 
-"`Cincinnati, Sixth month, 24th. I reached this place last evening about dark.
+[.signed-section-context-open]
+Cincinnati, Sixth month, 24th.
+
+I reached this place last evening about dark.
 We had much detention, partly from grounding, because the river was very low,
 and one night because the darkness was so great the pilot could not see the channel.
 We had also to stop for wood and coal, to deliver freight and passengers,
@@ -456,6 +515,7 @@ on which are a number of good looking country-seats.
 The prospect into Kentucky, which seems close at hand,
 (the river being low is sometimes not seen,) is very fine, two handsome villages,
 one on each side of the Licking, being situated directly opposite this place.
+
 When near the Ohio, the long paved slope down to the water, presents a singular spectacle.
 Low as the water is, the bank is crowded with steamboats, taking in or delivering freight.
 Some coming-to, from below, or from above;
@@ -469,12 +529,19 @@ but I was disappointed in finding things higher in price,
 and less neatly put up than I expected.
 In some instances the warm, soft butter, was ladled out of a pot and weighed in scales.
 Fruit was scarce.
-A few water-, melons from New Orleans were to be seen; some Morella cherries,
+A few watermelons from New Orleans were to be seen; some Morella cherries,
 a few raspberries, very poor currants and about a quart of gooseberries,
-being the principal fresh fruit I saw.`"
+being the principal fresh fruit I saw.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Philadelphia, Seventh month 14th, 1840.
 
 I arrived in safety at home on Fourth-day afternoon last.
@@ -494,6 +561,7 @@ four card tables were in use every night.
 The passengers of the latter boat were discharged at Wheeling,
 whilst our boat continued to Pittsburg,
 where we arrived about eleven o`'clock on Sixth-day morning.
+
 I dined at Pittsburg with a friend of Rachel Sheppard`'s,
 and took tea with R. L. At nine o`'clock took the canal boat,
 which was full to an unpleasant degree.
@@ -502,6 +570,7 @@ to pay his wife Caroline, a visit.
 She was from home at a pleasant little village called Freeport, whither I followed her,
 and spent an agreeable day, taking my place in the next packet boat,
 by which I had my passage in one not so much crowded.
+
 On reaching home, I found my family as well as usual, excepting thy dear grandmother,
 whose health continues feeble.
 She and thy cousin Mary Walton, who is also an invalid, are gone to Frankford on a visit.
@@ -574,8 +643,15 @@ I have enlarged upon this subject,
 because I wish thy sentiments on all points to be correct,
 knowing that sound sentiments have an important bearing on sound practice.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca, then at East Bradford.
 
+[.signed-section-context-open]
 Seventh month 24th.
 
 +++_______+++'`s son H. was buried yesterday.
@@ -594,8 +670,15 @@ Of course I suppose you have the particulars of his voyage out.
 +++[+++J. R. G. accompanied Jacob Green to Ireland,
 where he paid a visit among his own relations.]
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Seventh month 27th.
 
 Thy grandmother`'s health continues poor.
@@ -607,7 +690,9 @@ may be meditated on by thee, and may be exemplified in thy life.
 Then will the work of righteousness in thy experience be peace,
 and the effect thereof quietness and assurance forever.
 
-In the Eighth month, Thomas Kite attended Concord Quarterly Meeting,
+--
+
++++[+++In the Eighth month, Thomas Kite attended Concord Quarterly Meeting,
 visiting his relations in Chester and Delaware counties,
 and then Bucks Quarterly Meeting.
 His mother, whose health had long been declining, was now sinking fast.
@@ -620,9 +705,14 @@ The last attempt was to greet her granddaughter Susanna and her husband;
 she was not able to finish it.
 We are willing to insert it as a mark of her manner,
 and the spirit in which she was waiting for her close.
-It was written about the beginning of the Tenth month.
+It was written about the beginning of the Tenth month.]
 
-My dear grand-children.
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+My dear grand-children:
+
 From my sick chamber,
 I might say my sick bed +++[+++I write]. I am propped
 up in bed and find it hard work to breathe;
@@ -659,8 +749,15 @@ He and his wife are very kind in bringing me little nice tidbits,
 such as they think I can eat.
 Indeed all are kind, and willing to visit me and make me comfortable.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Kite to S. Sharpless.
 
+[.signed-section-context-open]
 Eleventh month 14th.
 
 Thy grandmother has been much as for many weeks past, until the last three days;
@@ -672,8 +769,15 @@ who knows what is best for her.
 She sometimes says, when asked how she is, "`Gradually going.`"
 Sometimes she says, "`It takes time for nature to wear out.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Eleventh month 26th.
 
 William was kind enough to impart the contents of thy epistle to himself and wife;
@@ -692,11 +796,12 @@ Her concern met with the approbation of the meeting,
 and I suppose she commenced her labours this morning.
 Elizabeth Evans is absent on a similar concern for the
 two Monthly Meetings of Haddonfield and Chester,
-(N. J.) Win.
+(N. J.) William
 Evans has lately returned from a religious visit to the
 meetings of Purchase and Westberry Quarterly Meetings,
 in the State of New York.
 Thus thou mayest perceive the Lord`'s servants are not wholly unemployed.
+
 Thou hast probably heard thy mother and I have been to Greenwich.
 We understood that our friends George and Mary Mickle had such a visit in prospect,
 and were willing to take us in their carriage.
@@ -706,7 +811,7 @@ and the next day went to Greenwich.
 A very unpleasant occurrence marked the evening of our arrival.
 One of our horses had exhibited marks of indisposition before we reached Greenwich,
 and died about an hour after our arrival.
-'`On First-day we attended Greenwich Meeting; dined at John Sheppard`'s,
+On First-day we attended Greenwich Meeting; dined at John Sheppard`'s,
 where we made our home, and in the evening took tea with John E. and Margaret.
 On Second-day our kind friends George and Mary left us,
 and returned home to be at the funeral of James Saunders, who died of consumption.
@@ -718,6 +823,7 @@ Ann Eliza Yarnall seemed truly glad to see us.
 I attended Select Quarterly Meeting on Fourth-day,
 and both of us that for business on the day following.
 We dined at Elizabeth Miller`'s after the first, and Rhoda Denn`'s after the second.
+
 On Fifth-day afternoon George and Mary Mickle took us to Sculltown on our way home.
 Our visit to A. and S. Scull was very agreeable.
 We dined with our kind friends George and Mary at their farm-house near Woodbury,
@@ -730,8 +836,15 @@ those fruits of righteousness which are to the glory of our
 Heavenly Father when brought forth in his obedient children.
 May such fruits abundantly appear in the case of my dear child and her companion in life!
 
-On the decease of his mother, Rebecca Kite, Thomas Kite made the following memorandum:
-"`My dear mother departed this life Twelfth month 20th, 1840,
+--
+
+[.offset]
++++[+++On the decease of his mother, Rebecca Kite, Thomas Kite made the following memorandum:]
+
+[.embedded-content-document.testimony]
+--
+
+My dear mother departed this life Twelfth month 20th, 1840,
 in the seventy-sixth year of her age.
 Her piety was of a cheerful character; although she had many trials to endure,
 her faith did not fail; and near her close she spoke of the bright pathway before her.
@@ -745,13 +858,21 @@ they each found acceptance with Him, and have been joined to the company John sa
 of whom it was said, '`These are they which have come out of great tribulation,
 and have washed their robes and made them white in the blood of the Lamb.`'
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Joseph Edgerton
 
-Philadelphia.
-Twelfth month 16th, 1840.
+[.signed-section-context-open]
+Philadelphia. Twelfth month 16th, 1840.
 
-Dear Friend,
-Joseph Edgerton:--I have frequently of late remembered that I am in thy debt
+[.salutation]
+Dear Friend, Joseph Edgerton:
+
+I have frequently of late remembered that I am in thy debt
 for a very acceptable letter dated Tenth month 29th. It not only
 strengthened the feelings of brotherly affection I entertain for thee,
 but communicated interesting information concerning the
@@ -794,7 +915,7 @@ Thomas and Elizabeth Robson were lately heard of at Charleston, South Carolina.
 
 John Warren and Samuel Taylor passed through
 this place lately on their way to North Carolina.
-Our boarding school at westtown is largely supplied with scholars for the present session.
+Our boarding school at Westtown is largely supplied with scholars for the present session.
 It has 131 boys and 121 girls.
 We are favoured with suitable teachers, not only as regards literary acquirements, but,
 we hope, they mostly are concerned for the religious welfare of the pupils;
@@ -831,8 +952,12 @@ With love to dear Benjamin Hoyle, your respected companions,
 William Green and his daughter, who was at our select school,
 I remain in the fellowship of the Gospel, thy friend,
 
+[.signed-section-signature]
 Thomas Kite
 
+[.postscript]
 The death of John Comfort is felt as a great loss,
 he being in the prime of his usefulness; also Josiah Reeve, although he was much older.
 They were each substantial elders.
+
+--

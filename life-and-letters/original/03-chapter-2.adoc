@@ -1,11 +1,11 @@
 == Chapter II.
 
-1806-1808.
+[.chapter-synopsis]
+* 1806-1808.
+* Thomas kite joins in partnership with his father
+* Meets with Elizabeth Barnard, and is married to her.
 
-Thomas kite joins in partnership with his father--Meets with Elizabeth Barnard,
-and is married to her.
-
-Benjamin Johnson was so well satisfied with the conduct of his late apprentice,
++++[+++Benjamin Johnson was so well satisfied with the conduct of his late apprentice,
 and so assured of his correct moral principles and good business habits,
 that he offered him a share in his business.
 This offer Thomas Kite accepted,
@@ -14,11 +14,18 @@ In the Eighth month of that year,
 haying business to attend to in the State of Delaware and the eastern shore of Maryland,
 he concluded to accompany his father to Chester County,
 and there seek a means of conveyance to enable him to accomplish his proposed journey.
-Whilst absent he wrote to his mother and sister Abi.
+Whilst absent he wrote to his mother and sister Abi.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Elkton, Md., Eighth month 7th, 1806.
 
-Dear Mother and Sister:--We left Philadelphia on
+[.salutation]
+Dear Mother and Sister:
+
+We left Philadelphia on
 Third-day morning last (Eighth month 5th).
 We reached grandfather`'s about 10 o`'clock at night;
 left aunt Sarah there and proceeded on to uncle Nathan +++[+++Walton`'s],
@@ -59,6 +66,7 @@ Whilst I write the rain falls considerably, and it thunders.
 Some of the claps have been very loud; but a blessing attends,
 rain being very desirable from the dryness of the ground.
 
+[.signed-section-context-open]
 Chester Town, Kent County, Maryland, Eighth month 9th, Seventh-day.
 
 On Fifth-day evening, in one of the streets of Elkton, I saw a black lad,
@@ -92,6 +100,7 @@ I believe than the Schuylkill at Philadelphia.
 The town contains a court-house, jail, market-house, several places of worship,
 and near it is a large house built for a college, but not so occupied at present.
 
+[.signed-section-context-open]
 St. George`'s Hundred, New Castle County, Delaware.
 
 Eighth month 11th, Second-day.
@@ -101,7 +110,7 @@ The thought of being sick so far from home was afflicting.
 In the morning I called on a physician, who prescribed medicine,
 advised me to lay by till the fever left me, and then return immediately to Pennsylvania,
 as the sickly season had commenced.
-I rode accordingly slowdy out of Chester-town into the country about five miles,
+I rode accordingly slowly out of Chester-town into the country about five miles,
 put up at a farm-house, and took the medicine.
 
 During its operation I felt very unwell,
@@ -112,7 +121,9 @@ I have ridden about 13 miles this morning, feel much better than yesterday,
 and expect a few day`'s residence in Chester
 County will render me strong and hearty as usual.
 
-Thomas Kite returned home by way of Wilmington,
+--
+
++++[+++Thomas Kite returned home by way of Wilmington,
 and attended Concord Quarterly Meeting before reaching Philadelphia.
 
 Although in partnership with Benjamin Johnson,
@@ -130,18 +141,25 @@ although they did not engage in business for several weeks thereafter.
 Benjamin Kite having informed his brother John Letchworth of
 his prospect of entering into business with his son,
 John felt concerned to address a letter of caution to his nephew,
-who he well knew would be the active business member of the firm.
+who he well knew would be the active business member of the firm.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 East Fallowfield, Eleventh month 30th, 1806.
 
-Dear Nephew:--Thy father hints that he has a prospect of entering into business with thee.
+[.salutation]
+Dear Nephew:
+
+Thy father hints that he has a prospect of entering into business with thee.
 This is a subject not new, I believe, to him; therefore I hope, indeed I expect,
 it has been well weighed.
 The calling he is at present in is not likely to yield
 much to lay by for those days of feebleness,
 when the lighting on of a grasshopper may seem a burden.
 
-I w as going to hint that thou hast served a regular apprenticeship,
+I was going to hint that thou hast served a regular apprenticeship,
 and hast some experience in the store, hast a pretty large acquaintance,
 and perhaps by this time large ideas of doing business; for youth is violent.
 Mournful instances of this has your city produced.
@@ -160,11 +178,24 @@ and then, as Franklin describes the New England teams,
 two pulling down the hill and two up, lets the wagon down in safety.
 That you may thus conduct, is the desire of thy affectionate uncle,
 
+[.signed-section-signature]
 John Letchworth.
 
-To this letter Thomas Kite thus replied: Philadelphia, Twelfth month 11th, 1806.
+--
 
-Dear Uncle:--Thy letter, and the concern it expresses for my welfare,
+[.offset]
++++[+++To this letter Thomas Kite thus replied:]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
+Philadelphia, Twelfth month 11th, 1806.
+
+[.salutation]
+Dear Uncle:
+
+Thy letter, and the concern it expresses for my welfare,
 were both agreeable,
 and I hope thou wilt never omit communicating what thou
 may apprehend will prove beneficial to me.
@@ -187,9 +218,10 @@ which will bring reproach upon our profession.
 I hope, in conformity to thy advice,
 to pay proper attention to the cautions of my father,
 and not to undertake anything of magnitude that has not his concurrence.
-'`
 
-In the spring of 1807 Benjamin Kite gave up his
+--
+
++++[+++In the spring of 1807 Benjamin Kite gave up his
 school and devoted himself to his new occupation.
 The firm had not much capital; the father put in a small sum,
 the saving of thirty years of quiet, industrious attention to teaching,
@@ -239,12 +271,21 @@ She was a native of Wilmington, in the State of Delaware,
 and appears to have derived spiritual benefit from the ministry of Joshua Maule,
 from whom, after her removal to Philadelphia in the spring of 1806,
 she received several letters.
+One of them we insert.]
 
-One of them we insert.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+From Joshua Maule to Elizabeth Barnard
+
+[.signed-section-context-open]
 Wilmington, 3rd of Seventh month, 1806.
 
-Dear Friend:--I received a few lines from thee informing of thy situation,
+[.salutation]
+Dear Friend:
+
+I received a few lines from thee informing of thy situation,
 which was very comfortable to me.
 When I read them my mind was humbled and broken into
 tenderness by the fresh manifestations of Divine Good,
@@ -281,18 +322,24 @@ as unto a light shining in a dark place.
 It is able to build us up and give us an inheritance amongst all them that are sanctified.
 That we may have this truth realized in our own experience, is the desire of thy friend,
 
+[.signed-section-signature]
 Joshua Maule.
 
-The marriage of Thomas Kite and Elizabeth Barnard was
+--
+
++++[+++The marriage of Thomas Kite and Elizabeth Barnard was
 accomplished on the 30th day of the Third month,
 1808, at the meeting-house of Friends in Pine Street.
 David Sands, who was then in Philadelphia on a religious visit, was at the meeting,
 and dined with the wedding company.
 
 Thomas Kite, in a short account he left of his life,
-thus speaks of this marriage connection.
+thus speaks of this marriage connection.]
 
-"`On the 30th day of the Third month, 1808, I was married to Elizabeth Barnard,
+[.small-break]
+'''
+
+On the 30th day of the Third month, 1808, I was married to Elizabeth Barnard,
 a pious young woman, who, after having been brought up in the Episcopal way of worship,
 had, when quite young, been induced to attend the meetings of the Baptists,
 and to submit to the outward rite from which they have their name.
@@ -304,4 +351,4 @@ and after a time of serious attention to the gradual unfoldings of Heavenly ligh
 was joined in membership with us,
 about the period when my acquaintance with her commenced.
 I believe she continued faithful to her Divine Guide,
-and we were measurably favoured together with the incomes of heavenly love.`"
+and we were measurably favoured together with the incomes of heavenly love.

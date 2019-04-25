@@ -1,12 +1,19 @@
 == Chapter XVI.
 
-1842.
+[.chapter-synopsis]
+* 1842.
+* Family letters
+* Death of Robert Letchworth
+* Notes of a Family Sitting At Thomas Kite`'s
+* Letters.
 
-Family letters--Death of Robert Letchworth--Notes of a
-Family Sitting At Thomas Kite`'s--Letters.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 First month 7th, 1842.
 
 Our cousin Robert Letchworth has been very ill;
@@ -32,11 +39,18 @@ he sought and obtained restoration in advanced life;
 and I believe was thought to be sincere in his love to Friends.
 He was uncle to our friend Lydia Dean.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 First month 7th, 1842.
 
-E+++.+++ Robson is visiting families in the Western District Monthly Meeting.
+Elizabeth Robson is visiting families in the Western District Monthly Meeting.
 Her husband accompanies her.
 William Evans and Jeremiah Hacker have returned from their long journey,
 and appear to be glad to be again with their families.
@@ -64,8 +78,15 @@ tender lambs with a love for all that is excellent,
 just and true; and in days to come, see of the travail of thy soul on their account,
 and be satisfied.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 First month 17th, 1842.
 
 Cousin Edith +++[+++Jefferis]
@@ -98,8 +119,15 @@ seeking daily for ability to do thy day`'s work in the daytime;
 so that when the midnight cry announces the coming of the Bridegroom,
 thou mayest not be alarmed, nor unprepared to meet his approach with joy.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 First month 25th, 1842.
 
 I have been frequently at the late residence of
@@ -126,15 +154,20 @@ For "`the Lord will comfort Zion, He will comfort all her waste places.
 He will make her wilderness like Eden, her desert like the garden of the Lord;
 joy and gladness shall be found therein, thanksgiving and the voice of melody.`"
 
-During the visit which Edith Jefferis paid in the city,
+--
+
++++[+++During the visit which Edith Jefferis paid in the city,
 to which reference has been made in the preceding letters,
 several religious opportunities occurred at places
 where she and her uncle Thomas were together.
 One that took place at Thomas Kite`'s residence,
 at which the members of his family were generally present, Charles Sheppard`'s family,
-and Anna Garrett, is thus described in a letter:--
+and Anna Garrett, is thus described in a letter:]
 
-"`I came in about nine o`'clock, and found them sitting in silence.
+[.embedded-content-document.letter]
+--
+
+I came in about nine o`'clock, and found them sitting in silence.
 After a time Edith commenced speaking.
 Her mind had been exercised on account of some one or more present.
 She addressed them as being in a tried, disconsolate state;
@@ -154,8 +187,15 @@ Thy father +++[+++Thomas Kite]
 then addressed us; exhorting to faithfulness, without looking out at others and saying,
 '`What shall this man do?`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 First month 29th, 1842.
 
 Very trying scenes to our men of business, and the community generally, seem approaching.
@@ -189,8 +229,15 @@ I had no doubt it was the case before I received her message,
 but I accepted it as a token of her good-will and
 sympathy with a parent separated from his child.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 First month 31st, 1842.
 
 We understand that Elizabeth Pitfield, and her coadjutor, Sarah Hillman,
@@ -210,7 +257,8 @@ and by the members at large, to the pointings of the Great Head of the Church,
 that so evidence may be furnished who is gifted by Him for this responsible service.
 We have just heard of the decease of our friend, George Jones, the husband of Ann,
 which is said to have occurred after an illness of only three days.
-'`+++[+++After referring to an existing excitement about the banks, he continues]:
+
++++[+++After referring to an existing excitement about the banks, he continues]:
 But there certainly is a place of quietude under every storm,
 to be attained by the devoted Christian,
 whose confidence is firm in the everlasting truth, "`The Lord reigneth.`"
@@ -227,7 +275,9 @@ that thus we may be prepared to partake of that spiritual
 resurrection which those witness who have been planted with their
 dear Redeemer in the likeness of his sufferings and death.
 
-When Thomas Kite resigned the printing business at the close of 1833,
+--
+
++++[+++When Thomas Kite resigned the printing business at the close of 1833,
 into the hands of his brother Joseph, and his son William, he had property,
 the income of which was sufficient comfortably to support his family.
 He held some real estate, but the bulk of his property was in bank,
@@ -255,4 +305,4 @@ Time passed on; stocks rose in value; banks declared dividends,
 and so did some of the railroads; and at the time of his decease,
 his income was nearly as great as it had ever been,
 notwithstanding he had lost several thousand dollars by the failure
-of debtors and the breaking up of the United States Bank.
+of debtors and the breaking up of the United States Bank.]

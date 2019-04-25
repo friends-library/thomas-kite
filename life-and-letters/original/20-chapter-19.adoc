@@ -1,11 +1,16 @@
 == Chapter XIX.
 
-1843.
+[.chapter-synopsis]
+* 1843.
+* Diary
+* Letters
+* John Letchworth`'s death
+* Edith Jefferis`' Decease
+* Letters
 
-Diary--Letters--John Letchworth`'s death--Edith Jefferis`' Decease--Letters--Diary:
-
++++[+++Diary:]
 First month 1st, 1843.
-"`First-day.
+First-day.
 Felt a draft to attend the Western Meeting;
 and therein was concerned to open the doctrines of the Gospel from the testimony of Paul,
 '`After that, in the wisdom of God, the world by wisdom knew not God;
@@ -89,10 +94,15 @@ and a testimony borne to the Law which is written not with ink,
 but the spirit of the living God; not in tables of stone,
 but in fleshly tables of the heart.
 Something also was addressed to the aged.
-In the meeting for discipline the youth were again spoken to.`"
+In the meeting for discipline the youth were again spoken to.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 First month 6th, 1843.
 
 I take a whole sheet of paper to acknowledge the
@@ -133,16 +143,27 @@ It is a precious state to have our wills brought into subjection to the Divine w
 and to have that will clearly made known to us.
 I feel a hope this may be thy experience.
 
-Thomas Kite having received a letter from his friend, Joseph Edgerton,
+--
+
++++[+++Thomas Kite having received a letter from his friend, Joseph Edgerton,
 then travelling on a religious visit through New York Yearly Meeting,
 was feelingly drawn into sympathy with him,
 in the trials of spirit to which he was subjected;
-and soon felt an engagement of mind to salute him with a brotherly epistle.
+and soon felt an engagement of mind to salute him with a brotherly epistle.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Thomas Kite to Joseph Edgerton
+
+[.signed-section-context-open]
 Philadelphia, First month 11th. 1843.
 
-Dear Friend,
-Joseph Edgerton:--I duly received thy letter dated the 28th and 30th of last month.
+[.salutation]
+Dear Friend:
+
+I duly received thy letter dated the 28th and 30th of last month.
 It was interesting to be informed of thy movements since thou left us;
 and feelings of sympathy were awakened by its perusal.
 Truly it is a day in which the faithful burden-bearers have to go, many times,
@@ -198,11 +219,18 @@ body should be preserved sound and firm.
 as well as my wife join me in love to thyself and companion.
 I am thy friend in the Truth.
 
+[.small-break]
+'''
+
 P+++.+++ S. I gave thy message to Elizabeth Evans, who says, "`Give my love to him;
 and tell him a line from him would be acceptable to us.`"
 
-Diary continued.
-"`15th. First-day.
+--
+
+[.offset]
++++[+++Diary continued.]
+
+15th. First-day.
 Our meetings were silent, morning and afternoon.
 I went to the late residence of our friend Hannah Hollingshead,
 on the occasion of her funeral,
@@ -211,6 +239,7 @@ assembled to the necessity of being prepared for the close of life,
 and for an admittance into that city '`which hath no need of the sun,
 neither of the moon to shine in it; for the glory of God doth lighten it,
 and the Lamb is the light thereof.`'
+
 In the evening meeting +++[+++I was]
 opened on the fundamental doctrine of the divinity of the Lord Jesus Christ;
 also in acknowledgment of his manhood,
@@ -230,10 +259,15 @@ and encouraged her to unreserved dedication of heart.
 A favoured time at the Meeting for Sufferings.
 Friends were enabled to enter into a feeling
 conference on the present state of our Society;
-which resulted in the separation of a committee to prepare an address to the members.`"
+which resulted in the separation of a committee to prepare an address to the members.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 First month 21st.
 
 Our friend William Evans is indeed again with us;
@@ -270,15 +304,21 @@ Remember me affectionately to A. Williams and Martha Barton,
 and tell them I desire their encouragement in the
 tribulated path which leads to everlasting life.
 
-Diary: First month 22nd. First-day.
+--
+
++++[+++Diary:] First month 22nd. First-day.
 In the morning meeting engaged on the query of the disciples,
 '`Lord wilt thou at this time restore again the kingdom to Israel?
 The afternoon was wholly silent.
-A covering of solemnity was experienced in that held in the evening.`"
+A covering of solemnity was experienced in that held in the evening.
 
-Extract from a letter from one of the family to Thomas Kite, Jr.
+[.offset]
++++[+++Extract from a letter from one of the family to Thomas Kite, Jr.]
 
-"`I thought him +++[+++Thomas Kite]
+[.embedded-content-document.letter]
+--
+
+I thought him +++[+++Thomas Kite]
 this morning eminently favoured.
 He began with the sixth verse of the first chapter of Acts, '`Lord,
 wilt thou at this time restore the kingdom to Israel?`'
@@ -300,8 +340,14 @@ which the Father had put in his own power;
 yet He gave them instructions how to do,
 '`Tarry ye in the city of Jerusalem until ye be endued with power from on high.`'
 I wish I could give the whole of it, with the feeling,
-impressive and forcible manner in which it was spoken.`"
+impressive and forcible manner in which it was spoken.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Kite to Susanna Sharpless.
 
 Oh, it is cheering to my spirit to sit beside dear uncle`'s +++[+++John Letchworth`'s]
@@ -314,8 +360,12 @@ I said to him, "`I suppose thou would be glad to be released?`"
 He is very feeble; and often so prostrated, that he appears nearly gone.
 Many friends call to see him: indeed few are more universally beloved than uncle John.
 
-Diary continued.
-"`First month 24th. Third-day.
+--
+
+[.offset]
++++[+++Diary continued.]
+
+First month 24th. Third-day.
 Took tea, with my wife, with our aged friend, Elizabeth Cleaver.
 In a religious opportunity, Sarah Hillman, who was also there with her mother,
 addressed our dear friend impressively.
@@ -394,8 +444,13 @@ and trust she will be strengthened to fulfill it to her own peace,
 and the honour of the Great Head of the Church, who not only puts his own forth,
 but goes before them.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 First month 29th, 1843.
 
 +++[+++After narrating several deaths, he adds:]
@@ -413,7 +468,9 @@ Nothing in relation to thee could gratify me more,
 than to know that thou hadst become a firm, decided, consistent,
 cross-bearing follower of the Lord Jesus Christ.
 
-Diary: "`Second month 2nd. Fifth-day.
+--
+
++++[+++Diary:] Second month 2nd. Fifth-day.
 At Gwynedd Monthly Meeting held at Plymouth.
 Enlarged in testimony to the relief of my own mind.
 The meeting for business a low time.
@@ -441,7 +498,7 @@ after which I also appeared.
 
 6th. Second-day.
 At our own Quarterly Meeting.
-Several Friends +++[+++E. Comfort and E. Pitfield]
+Several Friends +++[+++Ezra Comfort and E. Pitfield]
 laboured pertinently in the first meeting.
 That for business was not entirely satisfactory: there was much to engage its attention,
 preparatory to the approaching Yearly Meeting; and perhaps it was too much hurried.
@@ -494,19 +551,28 @@ On the whole, thankfulness is the covering of my spirit for this day`'s favour.
 Second month 10th. Sixth-day.
 At an appointed meeting at Abington.
 A low time;
-yet was enabled in some degree to relieve my mind by addressing various states.`"
+yet was enabled in some degree to relieve my mind by addressing various states.
 
-Extract from a letter to his daughter Rebecca:
+[.offset]
++++[+++Extract from a letter to his daughter Rebecca:]
 
-"`Second month 10th. Think seriously whether it may be
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
+Second month 10th.
+
+Think seriously whether it may be
 thy place to offer +++[+++as a teacher at Westtown],
 but say very little about it.
 The opinions of thy friends may confuse thy mind;
 whilst feeling after Divine direction may rectify and settle it.
 There is a right place for every one of the Lord`'s children,
-and it is his prerogative to point it out.`"
+and it is his prerogative to point it out.
 
-Diary: "`12th. First-day.
+--
+
++++[+++Diary:] 12th. First-day.
 At Plymouth.
 I was concerned to open the nature of spiritual worship,
 from the discourse of our Lord with the woman of Samaria at Jacob`'s well.
@@ -546,13 +612,14 @@ an unworthy creature.
 May my future life be more entirely devoted to the service of the Lord my God,
 in the Gospel of his dear Son.
 My friend Jeremiah Hacker,
-has been acceptably my companion in this religious engagement.`"
+has been acceptably my companion in this religious engagement.
 
-From the letters of Thomas Kite it appears that the weather
+[.offset]
++++[+++From the letters of Thomas Kite it appears that the weather
 was cold during the time he was performing this visit,
-and that heavy snow-drifts made the travelling difficult.
+and that heavy snow-drifts made the travelling difficult.]
 
-Diary: "`19th. First-day.
++++[+++Diary:] 19th. First-day.
 In the morning meeting a testimony was delivered on the words of our Lord to Peter,
 '`Simon, Simon; behold, Satan hath desired to have you, that he may sift you as wheat;
 but I have prayed for thee, that thy faith fail not; and when thou art converted,
@@ -563,9 +630,7 @@ In the evening meeting, after Elizabeth Evans had appeared in testimony,
 I was drawn forth in vocal thanksgiving and prayer.
 
 22nd. Fourth-day.
-I attended the funeral of J. M.
-
-Whitall`'s son, aged two years.
+I attended the funeral of J. M. Whitall`'s son, aged two years.
 At the house, Sarah Hillman addressed the parents of the child, and others present;
 after which I had something to communicate.
 
@@ -577,10 +642,15 @@ showing that where there is faith and obedience, there will be growth.
 25th. Seventh-day.
 Called at J. M. Whitall`'s. The company present were drawn into silence,
 and I was engaged in ministering to various states.
-His wife was particularly addressed.`"
+His wife was particularly addressed.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Philadelphia, Second month 25th.
 
 A few copies of the memorandums of Jane Bettle
@@ -637,9 +707,11 @@ Where shall we see her mantle fall in our poor stripped meeting?
 We felt the influence of her spirit there.
 Her dear, feeble mother,
 who looked to her as the prop and stay of her declining clays!
-how does she call forth the sympathy of her friends!`"
+how does she call forth the sympathy of her friends!
 
-Diary: "`Second month 26th. First-day.
+--
+
++++[+++Diary:] Second month 26th. First-day.
 In the morning meeting S. Bettle appeared in testimony;
 after which I was engaged in supplication.
 In the afternoon our aforesaid friend again delivered a testimony,
@@ -653,10 +725,15 @@ but towards the close some labour was extended by a Friend, with, I believe,
 right authority.
 I thought the meeting ended too soon.
 Care is requisite in this respect,
-as well as not to continue our meetings to an unseasonable length.`"
+as well as not to continue our meetings to an unseasonable length.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas
 
+[.signed-section-context-open]
 Second month 27th..
 
 Very often is my mind turned towards thee with
@@ -679,7 +756,9 @@ are those who are most likely to experience his
 blessed presence and power to their comfort,
 when assembled with their friends to wait upon and worship Him.
 
-Diary: "`Second month 28th. Third-day.
+--
+
++++[+++Diary:] Second month 28th. Third-day.
 At the North Meeting strength was again vouchsafed to
 preach the Gospel of life and salvation,
 and to encourage my brethren and sisters to faithfulness.
@@ -708,10 +787,15 @@ I sat with the near connections at the house,
 and William Evans was well engaged in testimony;
 after which my knees were bent in supplication,
 intercession being made for various states present.
-A good degree of`' solemnity prevailed.`"
+A good degree of`' solemnity prevailed.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his sister Mary.
 
+[.signed-section-context-open]
 Third month 3rd.
 
 Elizabeth Pitfield and Sarah Hillman were yesterday at Gwynedd Monthly Meeting,
@@ -724,7 +808,9 @@ son of our late friend Isaac.
 With love to cousin Edith, and all connections at Concord, I am, affectionately,
 thy brother.
 
-Diary: "`Third month 5th. First-day.
+--
+
++++[+++Diary:] Third month 5th. First-day.
 The morning meeting silent, excepting a few words from an aged Friend.
 It seemed a solid opportunity.
 That in the afternoon was silent, and a low time.
@@ -841,10 +927,15 @@ and unto the Lamb.
 17th. Sixth-day.
 At the Meeting for Sufferings.
 A solid time, in good degree favoured;
-a united exercise prevailing for the promotion of the cause of Truth.`"
+a united exercise prevailing for the promotion of the cause of Truth.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Third month 17th.
 
 We had Christopher Healy to tea last evening,
@@ -854,16 +945,23 @@ How many smiles his liveliness called up in S. L.`'s face I cannot tell;
 certainly not a few, and she seemed quite to enjoy his company.
 Ezra Comfort dined here after meeting, and sat with us until near four o`'clock.
 
-Diary: "`19th. First-day.
+--
+
++++[+++Diary] 19th. First-day.
 A short testimony was delivered in the afternoon
 meeting to the necessity of humility and meekness,
 and setting forth the duty of submission to those dispensations by
 which our heavenly Father would subdue in us all loftiness of mind,
 and put on us the ornament of a meek and quiet spirit.
-And those who are thus prepared, He will guide in judgment and teach his way.`"
+And those who are thus prepared, He will guide in judgment and teach his way.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Third month 19th.
 
 The sorrowful tidings respecting J. Bonsall and C. Taylor,
@@ -897,13 +995,13 @@ to be found amongst the living worshippers;
 those who worship God in spirit, rejoice in Christ Jesus,
 and have no confidence in the flesh.
 
-I suppose when I wrote by B. C,
+I suppose when I wrote by B. C.
 I mentioned that cousin E. Jefferis had been affected with a hemorrhage from the lungs.
 The bleeding has very much ceased, and she appears recovering slowly.
 Thy aunt Mary continues with her.
 
 Uncle John Letchworth continues feeble, and is confined to his room.
-'`C. Healy lodged at our house on Fifth-day night,
+Christopher Healy lodged at our house on Fifth-day night,
 and we were much interested with his account of some
 things he saw in the West during his late journey,
 and also some particulars of his early life.
@@ -918,7 +1016,9 @@ which have not defiled their garments, and they shall walk with me in white,
 for they are worthy.`"
 How blessed a thing it is to be of this number.
 
-Diary: Third month 23rd. Fifth-day.
+--
+
++++[+++Diary:] Third month 23rd. Fifth-day.
 In our weekday meeting I felt an engagement to address the children and youth,
 many of whom were present, on the words of the wise king,
 '`He that loveth pureness of heart, for the grace of his lips,
@@ -931,11 +1031,16 @@ In the evening, after spending some time in social intercourse at a Friend`'s ho
 a season of silence ensued, and a short testimony was delivered.
 Lord, preserve me, lest having '`preached unto others, I myself should be a castaway.`'
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Third month 24th.
 
-After stating circumstances prohibiting him from paying a visit to her,
++++[+++After stating circumstances prohibiting him from paying a visit to her,
 the letter continues:]
 I console myself with the prospect of seeing thee at Yearly Meeting.
 We understand Joseph Edgerton is likely to be with us at that time.
@@ -950,7 +1055,7 @@ I believe such an engagement is profitable for the older and younger branches,
 especially in this day of trial,
 in which we hear sad tidings from the east and from the west.
 Our friend, John Wilbur, is disowned,
-and C. Osborne has put himself at the head of a movement which has
+and Charles Osborn has put himself at the head of a movement which has
 ended in a separation from Indiana Yearly Meeting and the
 establishment of "`Indiana Yearly Meeting of Anti-Slavery Friends.`"
 It is probable there will be much trouble from this source,
@@ -962,7 +1067,9 @@ for "`his kingdom ruleth over all.`"
 "`He can cause the wrath of man to praise Him,
 and the remainder of wrath he can restrain.`"
 
-Diary: "`Third month 26th. First-day.
+--
+
++++[+++Diary] Third month 26th. First-day.
 In our afternoon meeting I was engaged in testimony,
 from the words of the Lord Jesus to his disciples, '`I am the true vine,
 and my Father is the husbandman.`'
@@ -992,8 +1099,13 @@ Feeling drawings to sit with a Friend of our meeting,
 who has been a widow for many years, I gave up thereto,
 and counsel and encouragement were imparted.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Fourth month 1st, 1843.
 
 I received thy letter dated 28th ult., and have reflected on its contents,
@@ -1024,7 +1136,9 @@ and on the minds of some who are dear to me, and particularly on thine,
 my precious child, whose advancement in the way of self-denial and the daily cross,
 which is the highway of holiness, I ardently desire.
 
-Diary: "`Fourth month 2nd. First-day.
+--
+
++++[+++Diary:] Fourth month 2nd. First-day.
 In the morning meeting the words of our Saviour were remembered and rehearsed,
 '`Except ye repent ye shall all likewise perish.
 The necessity of '`repentance towards God,
@@ -1115,16 +1229,24 @@ led to an address to parents on their account,
 to go down to the subordinate meetings and the appointment of
 a committee to have charge of the subject of education.
 On the occasion of the new separation within the bounds of Indiana Yearly Meeting,
-suitable sentiments were addressed K to that meeting,
+suitable sentiments were addressed to that meeting,
 and to all the others on this continent and those of London and Dublin.
 The meeting separated under a grateful sense of the
-Lord`'s unmerited goodness to his Church and people.`'
+Lord`'s unmerited goodness to his Church and people.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Martha Jefferis
 
+[.signed-section-context-open]
 Fourth month 22nd.
 
-Dear Sister:--The Yearly Meeting has closed; we have just dined;
+[.salutation]
+Dear Sister:
+
+The Yearly Meeting has closed; we have just dined;
 our friends are scattering, and amidst the bustle of packing up and leave-taking,
 I am endeavouring to compose my mind to address a few lines to thee.
 It is needless to attempt to describe my sympathy with thee,
@@ -1141,7 +1263,9 @@ We have had a good Yearly Meeting.
 The evidence of the Lord`'s gracious presence was, at times, vouchsafed,
 and a comfortable solemnity crowned the close of the last sitting.
 
-Diary: "`Fourth month 23rd. First-day.
+--
+
++++[+++Diary:] Fourth month 23rd. First-day.
 In the morning meeting I spoke on Paul`'s thorn in the flesh;
 the messenger of Satan to buffet him, lest he should be exalted above measure.
 The afternoon meeting was silent.
@@ -1189,8 +1313,13 @@ and way opened for a religious opportunity with him and his late wife`'s mother.
 At morning meeting I was engaged in communication on the parable of the householder
 who went out at various periods of the day to hire labourers into his vineyard.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Joseph Edgerton to Thomas Kite
 
+[.signed-section-context-open]
 Near Barnesville, Belmont Co., Ohio, Fifth month 9th, 1843.
 
 I may inform thee, that through the mercy of a gracious Providence,
@@ -1246,7 +1375,9 @@ shall arise for the avenging thereof.
 My health is much improved, and I never was more pleasantly at home,
 enjoying a peaceful poverty.
 
-Diary: Fifth month 9th to 12th. From Third to Sixth-day I was engaged in going to,
+--
+
++++[+++Diary:] Fifth month 9th to 12th. From Third to Sixth-day I was engaged in going to,
 attending, and returning from Salem Quarterly Meeting.
 I had some service in the Meeting for Ministers and Elders,
 and also in the meeting for worship, preceding that for discipline,
@@ -1281,10 +1412,15 @@ that the opportunity was not without profit to some.
 
 21st. First-day.
 At our morning meeting we had the company of Elizabeth Evans,
-who had acceptable service in testimony and supplication.`"
+who had acceptable service in testimony and supplication.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Fifth month 23rd.
 
 I returned home comfortably from Concord.
@@ -1303,8 +1439,15 @@ that thou hast many trials and exercises, but rather confirmatory thereof.
 Give my love to A. Williams, and accept the same for thyself.
 I hope you may be bound together in the increasing bonds of a truly religious friendship.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Philadelphia, Fifth month 23rd.
 
 Although we have it not directly from thyself,
@@ -1317,8 +1460,15 @@ so as to become by thy obedience to Divine requirings,
 and the steadiness of thy deportment, as a way-mark to others, and,
 as the Redeemer`'s faithful followers always are, as the salt of the earth.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Fifth month 25th.
 
 Towards the latter part of the time thou wast with us,
@@ -1351,3 +1501,5 @@ sets up in the hearts of his obedient followers,
 I write rather hastily, expecting to set off in the morning for New York Yearly Meeting.
 William Evans is going in company, as well as Samuel Cope, of Chester County.
 The latter also intends attending Rhode Island Yearly Meeting.
+
+--

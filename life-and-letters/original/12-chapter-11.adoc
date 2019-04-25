@@ -1,12 +1,21 @@
 == Chapter XI.
 
-1836-1837.
+[.chapter-synopsis]
+* 1836-1837.
+* Death of Mary Yarnall
+* Several letters
+* Death of Othniel Alsop
+* Ohio Yearly Meeting
+* James Kite married to Lydia B. Rodman
+* Abigail Greeve`'s death.
 
-Death of Mary Yarnall--Several letters--Death of Othniel Alsop--Ohio Yearly
-Meeting--James Kite married to Lydia B. Rodman--Abigail Greeve`'s death.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Philadelphia, First month 23rd, 1836.
 
 My letter turns out little more than a bulletin of
@@ -18,11 +27,21 @@ and ought to stir up to diligence in endeavouring to
 secure an admittance into the house not made with hands,
 not one of whose inhabitants can say they are sick.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Martha Jefferis
 
+[.signed-section-context-open]
 Philadelphia, Third month 3rd, 1836.
 
-Dear Sister:--Uncle Ellis Yarnall has requested me to
+[.salutation]
+Dear Sister:
+
+Uncle Ellis Yarnall has requested me to
 give thee an account of his most afflicting bereavement,
 the removal of aunt Mary,
 under circumstances of peculiar trial to the surviving members of their family,
@@ -74,17 +93,33 @@ and the confidence we have that in the path of duty,
 I might have added, that the sick friend aunt designed to call on,
 died just about the same time she did.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
-Third month 7th. On Seventh-day evening our neighbour, Griffith Edwards,
+[.signed-section-context-open]
+Third month 7th.
+
+On Seventh-day evening our neighbour, Griffith Edwards,
 departed this life, aged nearly 83 years.
 He has long been of a meek and quiet spirit;
 and his hopes of future happiness being founded on a humble trust in redeeming mercy,
 his family have good grounds of comfort concerning him.
 He died of old age, the machine, apparently, worn out.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Fifth month 14th.
 
 Time but for a short note, just to show the continuance of that interest in thy welfare,
@@ -105,14 +140,24 @@ I have information that Stephen Grellett is also to be at New York Yearly Meetin
 Think of me when +++[+++I am]
 there.
 
-Thomas Kite had been set at liberty by his Monthly Meeting, in the Fourth month,
-to attend the Yearly Meeting of New York.
+--
 
++++[+++Thomas Kite had been set at liberty by his Monthly Meeting, in the Fourth month,
+to attend the Yearly Meeting of New York.]
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Philadelphia, Fifth month 20th, 1836.
 
-Dear Rebecca:--I can hardly comply with thy request at this time for "`a
+[.salutation]
+Dear Rebecca:
+
+I can hardly comply with thy request at this time for "`a
 long real letter,`" because I expect to take my departure this morning in
 the ten o`'clock steamboat for New York,
 and have yet some preparatory arrangements to make;
@@ -160,11 +205,21 @@ even the salvation of our souls.`"
 In haste I bid thee farewell, remaining in the bonds, and, I hope I may say,
 the fellowship of the Gospel, thy affectionate father.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to E. S. F.
 
+[.signed-section-context-open]
 Philadelphia, Seventh month 21st, 1836.
 
-Dear Elizabeth:--Whatever things are honest, whatever things are just,
+[.salutation]
+Dear Elizabeth:
+
+Whatever things are honest, whatever things are just,
 whatever things are pure, whatever things are lovely, whatever things are of good report:
 if there be any virtue, and if there be any praise, think on these things;
 and be not satisfied merely with thinking,
@@ -181,15 +236,25 @@ In conclusion, "`I commend thee to God, and to the Word of his Grace,
 which is able to build thee up,
 and give thee an inheritance amongst those who are sanctified.`"
 
-Thomas Kite left Philadelphia on Second-day, the 22nd of Eighth month,
-with a minute of his Monthly Meeting, to attend Ohio Yearly Meeting.
-James R. Greeves was his companion on this journey.
+--
 
++++[+++Thomas Kite left Philadelphia on Second-day, the 22nd of Eighth month,
+with a minute of his Monthly Meeting, to attend Ohio Yearly Meeting.
+James R. Greeves was his companion on this journey.]
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Blair`'s Gap, on the top of the Alleghany Mountains, Eighth month 24th, 1836.
 
-Dear Daughter:--Cousin James and I entered the car at Oakland Hotel about 11 o`'clock,
+[.salutation]
+Dear Daughter:
+
+Cousin James and I entered the car at Oakland Hotel about 11 o`'clock,
 on Second-day,
 and reached Columbia a little after 3 p. m. We were soon on
 board the canal boat "`Virginia,`" small in dimensions,
@@ -204,18 +269,28 @@ by horse-power and stationary engines, reaching this place by half-past 5,
 where we propose sleeping, and descending the mountain at an early hour.
 Our accommodations have been comfortable, and the`' two companies pretty well,
 myself excepted.
-'`+++[+++The other company contained Sarah Emlen, Esther Levis, Jesse J. Maris,
++++[+++The other company contained Sarah Emlen, Esther Levis, Jesse J. Maris,
 Rebecca S. Leeds.]
 Cousin J. has been much gratified, with fine prospects.
 R+++.+++ S. L. the same;
 nor have the rest of us been indifferent spectators of the Creator`'s works,
 nor of the efforts of man.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his Wife.
 
+[.signed-section-context-open]
 At Dr. Parker`'s, near Mt. Pleasant, Ohio, Ninth month 5th, 1836.
 
-Dear Wife:--I wrote to Rebecca from the summit of the Alleghany Mountain,
+[.salutation]
+Dear Wife:
+
+I wrote to Rebecca from the summit of the Alleghany Mountain,
 where we slept on Fourth-day night.
 On Sixth-day we arrived at Pittsburg.
 On the same evening J. and I started for Sewickly; lodged at a tavern;
@@ -246,18 +321,28 @@ A small and quiet meeting, and, with the exception of a few words near the close
 held in silence.
 Since coming into this State, I have mostly felt pretty well.
 
-In the Tenth month of this year,
+--
+
++++[+++In the Tenth month of this year,
 the Monthly Meeting of Philadelphia appointed a committee to visit such of
 their members as were not diligent in the attendance of religious meetings.
 Thomas Kite was one of that committee, which had much acceptable service.
 Its labours were of singular use to some,
-and for a time many were stirred up to greater zeal in assembling with their friends.
+and for a time many were stirred up to greater zeal in assembling with their friends.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Philadelphia, Twelfth month 9th, 1836.
 
-Dear Daughter;--+++[+++After speaking of the postponement of a visit to her,
+[.salutation]
+Dear Daughter:
+
++++[+++After speaking of the postponement of a visit to her,
 and the reason for it]. Amongst these,
 the increasing indisposition and death of my friend, Othniel Alsop, may be included.
 He appeared to have the prevailing cold, attended with difficulty of breathing,
@@ -271,11 +356,21 @@ about 1 o`'clock p. m. He will be much missed in his family,
 and in the Northern District Monthly Meeting,
 as well as more extensively in religious society.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to E. S. F.
 
+[.signed-section-context-open]
 Philadelphia, Third month 30th, 1837.
 
-Dear Friend:--Thy letter,
+[.salutation]
+Dear Friend:
+
+Thy letter,
 giving an account of the last illness and death of my much respected and beloved friend,
 Philip Price, was very acceptable.
 It is a privilege to be with those who feel at such a
@@ -313,7 +408,9 @@ if our testimonies are to be supported,
 look to the younger ranks for a succession of standard bearers.
 May they submit to the power, that can alone prepare for the Lord`'s work.
 
-At Yearly Meeting time Thomas Kite`'s house was generally thronged with Friends;
+--
+
++++[+++At Yearly Meeting time Thomas Kite`'s house was generally thronged with Friends;
 and many religious opportunities occurred at such seasons,
 beside instructive and animating conversation.
 I find some notes of one or two such conversations and religious sittings.
@@ -339,6 +436,7 @@ the father exclaimed with awakened energy, "`He shall have a hard struggle then.
 In earnestly seeking for strength where it alone can be found,
 the parent was enabled to shake off his gloom and despondency,
 and again through the mercy of a watchful Providence, to escape the snare of the devil.
+
 Joseph also related that when a young man,
 he travelled in New York State in company with Comfort Collins.
 She was then about 87 years old.
@@ -407,13 +505,21 @@ I have laboured under many discouragements, and was almost ready to query,
 whether it were not wrong that I had come.
 But I can now adopt the language,
 '`It is good for me that I am here.`'`" She spoke briefly, encouraging all to faithfulness,
-that they might be bound together in Christian fellowship.
+that they might be bound together in Christian fellowship.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Lynn, (Mass.,) Fifth month 13th, 1837.
 
-Dear Susanna:--Yesterday, at an appointed meeting held at this place,
+[.salutation]
+Dear Susanna:
+
+Yesterday, at an appointed meeting held at this place,
 thy uncle James +++[+++Kite]
 accomplished his marriage with his amiable friend +++[+++Lydia B.
 Rodman]. Many gaily dressed young women were present,
@@ -435,7 +541,10 @@ and the rain has just commenced.
 From the door I can hear the roaring of the billows of the Atlantic,
 but a little eminence intervening, prevents the ocean being seen.
 
-Philadelphia, Fifth month 18th. After writing the above, my pen was laid aside,
+[.signed-section-context-open]
+Philadelphia, Fifth month 18th.
+
+After writing the above, my pen was laid aside,
 to be resumed at my own beloved home.
 On First-day we went to Salem, attended morning meeting,
 and returned to Lynn to afternoon meeting.
@@ -461,8 +570,15 @@ We arrived at home about 5, on Third-day afternoon,
 having had cause gratefully to acknowledge the protection of that merciful Power,
 without whom not a sparrow falls to the ground.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to E. S. F.
 
+[.signed-section-context-open]
 Philadelphia, Seventh month 24th, 1837.
 
 If, however,
@@ -480,9 +596,18 @@ Part with everything that obstructs thy participation in this all-essential,
 ever-enduring, that so it may be said of thee, as of one formerly,
 "`She hath chosen that good part, which shall never be taken from her.`"
 
-Thomas Kite to his Son-In-Law, Aaron Sharpless.
+--
 
-Dear Aaron:--We feel much obliged by thy attention in sending
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Thomas Kite to his Son-in-Law, Aaron Sharpless.
+
+[.salutation]
+Dear Aaron:
+
+We feel much obliged by thy attention in sending
 us an account of thy uncle`'s +++[+++Benjamin Sharpless`']
 sickness.
 We wish to hear from time to time, how it fares with him,
@@ -498,11 +623,21 @@ to give up their accounts with joy.
 Tell Susan that her friend Rachel Morris continues quite ill;
 she has been removed to her mother`'s. Stephen is also ill at his own house.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Sarah Scull to Thomas Kite.
 
+[.signed-section-context-open]
 Eighth month 10th, 1337.
 
-Dear Friend:--Though I have been tardy in acknowledgment,
+[.salutation]
+Dear Friend:
+
+Though I have been tardy in acknowledgment,
 yet I trust my heart has not been insensible of thy kindness in forwarding the books,
 and especially the feeling that prompted thy very acceptable brotherly salutation.
 I was pleased to learn that a visit, so particularly grateful to my feelings,
@@ -552,10 +687,15 @@ if ever any spiritual benefit is enjoyed from assembling together for Divine wor
 I do also earnestly crave the continued intercession of
 those who travail in soul for the welfare of Zion.
 
-In the Eleventh month,
+--
+
++++[+++In the Eleventh month,
 Thomas Kite paid a religious visit to the meetings
 composing Cain and Western Quarterly Meetings.
-Of this journey he kept a brief account.
+Of this journey he kept a brief account.]
+
+[.small-break]
+'''
 
 Eleventh month 7th, Third-day.
 "`Left home; a very unpleasant morning.
@@ -624,7 +764,7 @@ divers being present who did not profess with us
 Called in the afternoon to see William Kirkwood,
 who has settled within the limits of this meeting.
 Went to Robert Moore`'s to lodge.
-A, G. here left us, and William Baily took charge of us.
+A+++.+++ G. here left us, and William Baily took charge of us.
 He lives at present with his son-in-law, Robert Moore.
 
 Third-day.
@@ -647,8 +787,13 @@ to lodge.
 Fifth-day, to Downingtown, to Select Quarterly Meeting.
 Dined and lodged at George G. Ashbridge`'s.
 
-From this place Thomas Kite wrote to his wife thus:
+[.offset]
++++[+++From this place Thomas Kite wrote to his wife thus:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Eleventh month 16th.
 
 I have been closely engaged, body and mind, but have had the sympathy of some feeling,
@@ -656,6 +801,8 @@ valuable Friends, which has been consoling; particularly Hannah Gibbons.
 In company with her, I visited Charity Baldwin,
 who is now confined to her chamber by indisposition, and is in her eighty-fourth year.
 She is in a comfortable state of mind.
+
+--
 
 Sixth-day.
 At Quarterly Meeting at Cain.
@@ -708,9 +855,15 @@ Then proceeded to the Select Quarterly Meeting.
 There met with Hannah Warrington, Jr., and company.
 Dined at Samuel Swayne`'s, and lodge at Isaac Pusey`'s.`"
 
-In a letter written to his wife from this place, he says,
+[.small-break]
+'''
+
++++[+++In a letter written to his wife from this place, he says,
 "`I ought to have mentioned that William Cole joined me at Fallowfield,
-and continues with me.
+and continues with me.]
+
+[.small-break]
+'''
 
 Sixth-day, 24th. Attended Quarterly Meeting.
 A favoured, solemn meeting.
@@ -725,7 +878,7 @@ and had a sitting.
 
 Seventh-day, 25th. After a religious opportunity in the family where we lodged,
 proceeded to Thomas Jackson`'s,
-calling at Enoch Lewis`'. '`Walked over to T. Walker`'s. Dined at T. Jackson`'s,
+calling at Enoch Lewis`'. Walked over to T. Walker`'s. Dined at T. Jackson`'s,
 went to meeting +++[+++at Okesson]
 at two o`'clock.
 It was quite a satisfactory opportunity,
@@ -744,13 +897,21 @@ Dined at Edward Temple`'s; paid a hasty visit at D. Temple`'s,
 and went to Aaron Sharpless`' to lodge.
 My prospect there closing; parted with William Coale at Kennett,
 who expected to reach home to night.
-He has been a kind, sympathizing and agreeable companion.`"
+He has been a kind, sympathizing and agreeable companion.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his Wife.
 
+[.signed-section-context-open]
 Westtown School, Twelfth month 26th, 1837.
 
-My Dear:--Thou wilt probably have heard of the decease of our dear niece,
+[.salutation]
+My Dear:
+
+Thou wilt probably have heard of the decease of our dear niece,
 Abigail Greeves, before this letter reaches thee.
 She had been perceptibly growing weaker for several days,
 and on Seventh-day afternoon I took sister Lydia Sharpless to see her.
@@ -788,3 +949,5 @@ even the salvation of their souls.
 The interment is to be on Fourth-day afternoon, at three o`'clock.
 Such of you as may come out in the morning car, will, I suppose,
 meet with a conveyance at West Chester.
+
+--

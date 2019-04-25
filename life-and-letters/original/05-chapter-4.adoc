@@ -1,16 +1,21 @@
 == Chapter IV.
 
-1811-1814.
+[.chapter-synopsis]
+* 1811-1814.
+* Letters Eli Yarnall`'s death
+* Marriage to Edith Sharpless
+* Thomas Scattergood`'s death.
 
-Letters Eli Yarnall`'s death--Marriage to Edith Sharpless--Thomas Scattergood`'s death.
-
-Although Thomas Kite was favoured to feel a good measure of
++++[+++Although Thomas Kite was favoured to feel a good measure of
 resignation at the time when his beloved wife was taken from him,
 yet he soon after experienced great depression of mind.
 His faith and confidence in the Lord`'s merciful regard to him, seemed to fail,
 and for a considerable time he did not appear in the ministry.
 About the time that the clouds were, in mercy, somewhat dispelled from about his faith,
-he made the following entry in his Diary:
+he made the following entry in his Diary:]
+
+[.small-break]
+'''
 
 Fourth month 21st, 1811.
 Since the afflictive dispensation last recorded,
@@ -29,7 +34,10 @@ from whom they all proceeded--thou who remainest to be God over all,
 blessed forever and forever,--worthy of all praise,
 adoration and worship from the soul which thou hast made.
 
-After this Yearly Meeting Charles Osbourne visited the
+[.small-break]
+'''
+
++++[+++After this Yearly Meeting Charles Osborne visited the
 subordinate meetings of this Yearly Meeting,
 and in the Fifth month Thomas Kite accompanied him through the
 meetings constituting Abington Quarterly Meeting.
@@ -38,11 +46,18 @@ service to the drooping mind of the young widower,
 and a renewal of faith was graciously vouchsafed him from above,
 and a fresh ability received to run with patience the
 race which had been evidently set before him.
-Whilst on this visit, he thus wrote to his parents:
+Whilst on this visit, he thus wrote to his parents:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Horsham, Fifth month 21st, 1811.
 
-Dear Parents:--On Second-day we were at Abington Meeting,
+[.salutation]
+Dear Parents:
+
+On Second-day we were at Abington Meeting,
 where Charles had the Gospel to proclaim largely and livingly to a numerous,
 solid audience.
 George Williams went with us in the afternoon as a pilot to Byberry, to Hannah Yarnalls.
@@ -59,11 +74,17 @@ where we now are waiting to attend Horsham Meeting today.
 I see nothing about home yet, but expect, when Benjamin Johnson comes, to return.
 I feel much bound to dear Charles, and can a little, I trust, sympathize with him.
 
-In relation to the state of his mind after the death of his wife,
-and the animating effects produced on him by the visit with Chas.
-Osborn, he wrote thus in after life:
+--
 
-"`After I had appeared a few times in the meeting I belonged to,
+[.offset]
++++[+++In relation to the state of his mind after the death of his wife,
+and the animating effects produced on him by the visit with Charles
+Osborn, he wrote thus in after life:]
+
+[.small-break]
+'''
+
+After I had appeared a few times in the meeting I belonged to,
 a dispensation of great affliction was permitted to overtake me.
 The death of my beloved companion was one cause of my great sorrow, but not the only one;
 great tossings were experienced, being left with two small children,
@@ -74,17 +95,27 @@ from a distance, taking me for a short time as his companion, hope revived,
 and at length strength was received once more to advocate that cause which was, and is,
 precious to me; and having obtained mercy,
 I continue to this day in the exercise of the gift, which, I believe,
-has been dispensed to me.`"
+has been dispensed to me.
 
-Humbly attentive to his religious duties,
+[.small-break]
+'''
+
++++[+++Humbly attentive to his religious duties,
 and industriously active in his outward business, Thomas Kite,
 although still at times cast down, and often baptized into spiritual deaths,
 found the summer wear quickly and tranquilly away.
-In the autumn he thus wrote to his aunt, Elizabeth Letchworth:
+In the autumn he thus wrote to his aunt, Elizabeth Letchworth:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Ninth month 11th, 1811.
 
-Dear Aunt:--Having finished my daily task, it occurred to me to write to thee.
+[.salutation]
+Dear Aunt:
+
+Having finished my daily task, it occurred to me to write to thee.
 True, I hardly know what to write about,
 for very seldom do I write anything beyond an
 entry in the day-book or a letter on business.
@@ -154,9 +185,15 @@ we may be instrumental in holding up the blessed ensign of peace in the view of 
 and thus become as the salt of the earth, or as a city set on a hill,
 which cannot be hid.
 
+[.signed-section-signature]
 Thomas Kite.
 
-In his Diary, Tenth month 14th, is the following entry: "`Suffered anger to prevail, and,
+--
+
+[.offset]
++++[+++In his Diary, Tenth month 14th, is the following entry:]
+
+Suffered anger to prevail, and,
 under its influence, spake unadvisedly.
 Oh! for more of the disposition of the Lamb!'``' In the Fourth month, 1812,
 Thomas Kite being in Trenton, his father wrote to him:
@@ -167,13 +204,21 @@ The notice of it had spread over all the city.
 Every seat, entry, and step were filled,
 and hundreds went away because they could not get in the house.
 The people were not all of the description intended,
-but as much so as could be expected.`"
+but as much so as could be expected.
 
-B+++.+++ K. to Thomas Kite.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Benjamin Kite to Thomas Kite.
+
+[.signed-section-context-open]
 New York, Fifth month 28th, 1812.
 
-Dear Son: The Yearly Meeting here is smaller, they say, than usual.
+[.salutation]
+Dear Son:
+
+The Yearly Meeting here is smaller, they say, than usual.
 There are many zealous ones among them.
 Upon the whole, it has been so far satisfactory;
 though we had last afternoon one of the most unsavory political speeches,
@@ -182,22 +227,33 @@ This was the harder to be borne,
 as Friends here are remarkably clear of political engagements.
 The meeting very properly took no notice of the harangue.
 
-In his Diary of Eighth month 26th, 1812, Thomas Kite writes:
-"`Yesterday morning died Eli Yarnall, a prince and a great man in our Israel;
+--
+
+[.offset]
++++[+++In his Diary of Eighth month 26th, 1812, Thomas Kite writes:]
+
+Yesterday morning died Eli Yarnall, a prince and a great man in our Israel;
 eminently distinguished by gifts and qualifications,
 yet not more so than by his humility.
 He was remarkable for seldom appearing as a minister, yet when he did,
 his communications were thought to be weighty and powerful in an uncommon degree.
 May the mantle of Elijah--the prophetic spirit--rest upon Elisha,
 for the harvest truly is plenteous,
-but the rightly anointed labourers are comparatively few.`"
+but the rightly anointed labourers are comparatively few.
 
-Micajah Collins, who visited the Meetings of Chester and Delaware Counties,
+[.small-break]
+'''
+
++++[+++Micajah Collins, who visited the Meetings of Chester and Delaware Counties,
 in the early part of this year,
 thus speaks of Eli Yarnall in a letter addressed to Edith Sharpless.
 The letter possesses so much,
-interest as to warrant the insertion of considerable extracts from it.
+interest as to warrant the insertion of considerable extracts from it.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Fallowfield, Second month 16th, 1812.
 
 After leaving the city we proceeded to Haverford;
@@ -240,18 +296,26 @@ who are near to my tenderest feelings,
 and in whose welfare I feel an affectionate interest.
 The meeting stands adjourned until tomorrow at eleven o`'clock.
 
+[.signed-section-signature]
 Micajah Collins.
 
-Thomas Kite`'s Diary, Ninth month 1st, 1812.
-"`Another worthy departed in the meridian of life, Joshua Maule, who died on First-day,
+--
+
+[.offset]
++++[+++Thomas Kite`'s Diary, Ninth month 1st, 1812.]
+
+Another worthy departed in the meridian of life, Joshua Maule, who died on First-day,
 being from home on a religious visit.
 His disorder was a fever, and he suffered much pain,
 but could testify notwithstanding during his illness,
 that it had been to him a time of rejoicing.
 He was much dedicated to his Master`'s service, and is, no doubt,
-admitted to the rest prepared for the faithful.`"
+admitted to the rest prepared for the faithful.
 
-1813+++.+++ Thomas Kite was now preparing to enter a second time into the marriage state.
+[.small-break]
+'''
+
++++[+++1813. Thomas Kite was now preparing to enter a second time into the marriage state.
 His choice was Edith Sharpless, a daughter of Joshua Sharpless, a worthy man,
 and a faithful elder of Birmingham Monthly Meeting, Chester County, Pennsylvania.
 Edith had been employed in teaching school in the city,
@@ -264,7 +328,7 @@ to the secret pointings of his Heavenly Guide,
 as well as from the promptings of affection; and she, in accepting him,
 did it in the assurance vouchsafed her, that he was one of the Lord`'s chosen; poor,
 indeed, in this world, but rich in faith, and heir of the kingdom.^
-footnote:[E. K. pleasantly remarked, that she had come to the conclusion in early life,
+footnote:[Edith Kite pleasantly remarked, that she had come to the conclusion in early life,
 that three things she never would do--marry a man that was a widower,--one that was
 younger than herself,--or a preacher,--yet all these met in her husband.]
 
@@ -274,21 +338,30 @@ for the important change she was about to make,
 Thomas Kite frequently addressed her by letter.
 Their letters are good specimens of their kind; pleasant, affectionate,
 and giving evidence on what his mind was mainly bent.
-We give a few extracts.
+We give a few extracts.]
 
-Fourth month 4th. My best wishes attend thee.
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Thomas Kite to Edith Sharpless
+
+[.signed-section-context-open]
+Fourth month 4th.
+
+My best wishes attend thee.
 May thy residence at Birmingham be pleasant and profitable; and may we each,
 not only now, but when joined in a more enduring relationship,
 unitedly seek for that blessing which makes truly rich, and adds no sorrow with it;
 as Cowper expresses it:
 
-"`Thou bounteous Giver of all good,
-
+[verse]
+____
+Thou bounteous Giver of all good,
 Thou art of all thy gifts thyself the crown!
-
 Give what thou canst, without thee we are poor,
-
-And with thee, rich, take what thou wilt away.`'?
+And with thee, rich, take what thou wilt away.
+____
 
 May we seek first his kingdom, and the righteousness thereof, confiding in his promise,
 "`that all things necessary shall be added.`"
@@ -298,7 +371,10 @@ I believe this state, though hard to come at, is through Divine aid attainable,
 and desire I may endeavour for it.
 Under a fresh feeling of affectionate regard, I salute thee, and bid thee farewell.
 
-Fourth month 19th. The Yearly Meeting is very large; quite as much so, I think,
+[.signed-section-context-open]
+Fourth month 19th.
+
+The Yearly Meeting is very large; quite as much so, I think,
 as ever I remember it.
 The strangers, however, who attend are fewer in number than common.
 Sarah M. Watson^
@@ -325,14 +401,20 @@ We should be as way-marks to those who are inquiring
 the way to Zion with their faces thitherward.
 I remain under the renewed impression of love and esteem, thy friend.
 
-Fourth month 24th. Our Yearly Meeting closed last evening,
+[.signed-section-context-open]
+Fourth month 24th.
+
+Our Yearly Meeting closed last evening,
 and may be acknowledged to have been a favoured one,
 wherein the minds of Friends generally were preserved in quietness and harmony;
-and iu conclusion a comfortable degree of solemnity was granted,
+and in conclusion a comfortable degree of solemnity was granted,
 under which thanksgiving was vocally rendered as well as inwardly felt,
 to the Author of all our blessings.
 
-Fifth month 8th. We have another striking and
+[.signed-section-context-open]
+Fifth month 8th.
+
+We have another striking and
 affecting instance of the uncertainty of life.
 Our friend Caleb Shreeve is deceased.
 I suppose it was about the time you left the city that he had
@@ -342,7 +424,10 @@ At the close of this opportunity he was taken with a pain in his head,
 which it is thought was apoplectic, and which increased till he became insensible,
 in which state he lay until about 2 o`'clock, and then expired.
 
-Fifth month 27th. May thy mind be preserved in quietude, until the important day;
+[.signed-section-context-open]
+Fifth month 27th.
+
+May thy mind be preserved in quietude, until the important day;
 and oh! that He who condescended to attend the marriage of Cana,
 may favour us with his holy presence on that solemn occasion,
 enabling us in his name to set up our banners,--yea, to choose Him for our portion,
@@ -350,12 +435,16 @@ and the lot of oar inheritance; trusting in Him for our supply,
 both of the dew of heaven--the refreshment that keeps the soul alive--
 and also for such temporal accommodation as He sees necessary.
 In this, as in every other respect, may we seek for a qualification to say:
-Thy w ill be done.
+Thy will be done.
 
-Sixth month 1st. I received today thy letter, dated the 30th ult.
+[.signed-section-context-open]
+Sixth month 1st.
+
+I received today thy letter, dated the 30th ult.
 I am well pleased that you have agreed not to alter the time agreed on,
-and feel very little uneasiness respecting the other couple +++[+++
-to be married at the same meeting]. The principal wish in
+and feel very little uneasiness respecting the other
+couple +++[+++to be married at the same meeting].
+The principal wish in
 relation to that part of the subject which I feel is,
 that thou may be favoured to banish all unpleasant anticipations from thy mind,
 and to renew thy confidence in Him who hath ever
@@ -370,7 +459,10 @@ but she seemed aiming at resignation, believing him in his place.
 Abraham Lower is going on a religious visit to the lower parts of New Jersey,
 having Israel Maule for a companion.
 
-Sixth month 5th. I have for several days been very closely engaged.
+[.signed-section-context-open]
+Sixth month 5th.
+
+I have for several days been very closely engaged.
 Thou mayest recollect that Friends were generally invited throughout
 our Yearly Meeting to attend a conference at Newtown last Sixth-day
 on the subject of a superior school for boys only,
@@ -387,12 +479,18 @@ Then again next morning at eight, and rose between ten and eleven.
 In the afternoon the Asylum business came on at three, and we sat till near night.
 So thou seest I have not been entirely unemployed.
 
-Thomas and Sarah Scattergood were invited to attend the
+--
+
++++[+++Thomas and Sarah Scattergood were invited to attend the
 marriage of their friends at Birmingham,
 but way did not seem to open for it.
 Instead thereof Thomas, the day before the wedding,
-addressed the following letter to the parties:
+addressed the following letter to the parties:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Sixth month 9th, 1813.
 
 I do not see an opening for me to leave home under present circumstances.
@@ -408,9 +506,12 @@ and more from time to time will be manifest.
 In so doing, your Father which is in heaven, will bless you.
 And it is my prayer for you in penning these hasty lines, that you may be blest.
 
+[.signed-section-signature]
 Thomas Scattergood.
 
-The marriage was accomplished on the 10th in a satisfactory manner,
+--
+
++++[+++The marriage was accomplished on the 10th in a satisfactory manner,
 in Birmingham Meeting-house;
 and the newly married pair were soon comfortably settled in Philadelphia.
 
@@ -420,9 +521,18 @@ Thomas Kite, shortly before his marriage,
 having addressed a letter on the subject of the proposed institution to his friend,
 Stephen Pike, then keeping school at Burlington,
 early in the Sixth month received a letter in reply,
-from which the following is extracted.
+from which the following is extracted.]
 
-Dear Thomas, If it shall be determined that there be a school of that kind,
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Stephen Pike to Thomas Kite
+
+[.salutation]
+Dear Thomas,
+
+If it shall be determined that there be a school of that kind,
 I think great caution is requisite in choosing a preceptor in classical literature.
 He should be one that is fully convinced of the
 subordinate utility of knowledge of that kind,
@@ -460,7 +570,12 @@ but those who are much given to self-complacency,
 and are not capable of appreciating the inestimable value of humility and simplicity,
 had better have their attention turned to something else.
 
-Ninth month 11th, Stephen Pike again wrote to Thomas Kite.
+--
+
++++[+++Ninth month 11th, Stephen Pike again wrote to Thomas Kite.]
+
+[.embedded-content-document.letter]
+--
 
 How hard it is for a rich man to enter the kingdom!
 I think exemplifies in its inhabitants the justness of that remark.
@@ -470,12 +585,18 @@ who think an agreeable and creditable establishment on earth, the prime good,
 and who do not choose to be troubled with cares about futurity.
 They have a pretty smart meeting-house, and it is sometimes pretty well filled;
 but the gay appearance of the assembly, and the levity of the juniors after meeting,
-give an unfavourable impression respecting their standing in a religious sense.`"
+give an unfavourable impression respecting their standing in a religious sense.
 
-Thomas Kite having informed Stephen Pike of the
+--
+
++++[+++Thomas Kite having informed Stephen Pike of the
 conclusion of the labours of the High School Committee,
-without having effected anything, he received the following:
+without having effected anything, he received the following:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Burlington, Ninth month 20th, 1813.
 
 Thou mentions the conclusion of the committee relative to the proposed Boarding School,
@@ -500,11 +621,16 @@ What a happy omen! when the natural capacity and
 affections are impaired by the paralyzing hand of age,
 for the distinguishing badge of discipleship to be more and more apparent.
 
-Edith Kite, in the Ninth month, taking her son William with her,
-paid a visit amongst her relatives in Chester County.
-Her husband thus wrote to her under date of Ninth month 26th, 1813.
+--
 
-"`We had a grand illumination of the city on Sixth-day night,
++++[+++Edith Kite, in the Ninth month, taking her son William with her,
+paid a visit amongst her relatives in Chester County.
+Her husband thus wrote to her under date of Ninth month 26th, 1813.]
+
+[.embedded-content-document.letter]
+--
+
+We had a grand illumination of the city on Sixth-day night,
 in consequence of the naval victory gained on Lake Erie.
 Some Friends were much alarmed at the prospect,
 not knowing what the mob might do to those who
@@ -531,10 +657,17 @@ handed forth the language of encouragement to the tired traveller,
 who under great weakness and discouragement is
 nevertheless looking with desire towards Zion.
 Such he desired might hold on their way,
-remembering that though the path is a tribulated one it leads to endless blessedness.`"
+remembering that though the path is a tribulated one it leads to endless blessedness.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Stephen Pike to Thomas Kite
 
+[.signed-section-context-open]
 The 4th of Tenth month,
 
 We had yesterday the favour of Benjamin White`'s company at our meeting.
@@ -547,9 +680,14 @@ or minutes to visit some meetings in your State,
 particularly within the compass of Cain and Concord Quarterly Meetings.
 Rowland Jones was furnished with a minute to accompany them.
 
-1814+++.+++ First month 2nd. Stephen Pike again wrote to Thomas Kite--
+--
 
-"`Burlington has been much favoured of late by the visits of Friends.
++++[+++1814. First month 2nd. Stephen Pike again wrote to Thomas Kite:]
+
+[.embedded-content-document.letter]
+--
+
+Burlington has been much favoured of late by the visits of Friends.
 Henry Hull spent several days among us very acceptably.
 His visit was principally of a social nature;
 but he has a minute from the Monthly Meeting whence he came,
@@ -673,18 +811,27 @@ for Henry Hinsdale, it appears, has been persuading her she had better go to New
 assume his name, and become a partner of his pains and pleasures;
 circumstances indicate that she is of the same mind.
 
-In the early part of 1814,
+--
+
++++[+++In the early part of 1814,
 Thomas Kite was summoned before a Court Martial of military officers to
 answer for not having turned out with the militia in the preceding summer.
 Accompanied by his father he went voluntarily before them;
 gave them his reasons for believing their proceedings were illegal,
 and obtained permission to place his protest against their authority upon their minutes.
 
-On the 23rd of Third month Rebecca, the first child of Thomas and Edith Kite, was born.
+On the 23rd of Third month Rebecca, the first child of Thomas and Edith Kite, was born.]
 
-Fourth month 1st. Stephen Pike wrote to Thomas Kite
+[.embedded-content-document.letter]
+--
 
-"`I congratulate thee on the increase of thy comforts, alias cares.
+[.letter-heading]
+Stephen Pike to Thomas Kite
+
+[.signed-section-context-open]
+Fourth month 1st.
+
+I congratulate thee on the increase of thy comforts, alias cares.
 '`Life`'s cares are comforts,`' and surely an
 addition to the number of infantile dependents,
 is a care of considerable magnitude.
@@ -761,9 +908,11 @@ scene of trial and entered the mansions of rest.
 His funeral was attended by a great number of Friends and others.
 Arthur Howell spoke twice at the grave.
 George Dillwyn and Susan Smith also spoke; and Thomas Scattergood appeared in prayer.
-It was a solemn time.`"
+It was a solemn time.
 
-The time was now fast approaching when that eminent minister of Christ,
+--
+
++++[+++The time was now fast approaching when that eminent minister of Christ,
 Thomas Scattergood, was to be released from his labours of love in the Church militant,
 and translated to the Church triumphant; exchanging the conflicts, the baptisms,
 the unspeakable sorrows which often depressed his spirit,
@@ -801,13 +950,21 @@ Thomas Kite was deeply moved at the loss sustained by the Church militant,
 in the removal of this faithful servant, this honourable elder, this discerning minister,
 from the nock and family on earth;
 and he thus poured forth his feelings to his father-in-law,
-who had not been to Yearly Meeting:
+who had not been to Yearly Meeting:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Joshua Sharpless
 
+[.signed-section-context-open]
 Philadelphia, Fourth month 25th, 1814.
 
-Dear Father:--Our city, his family, and the Church,
+[.salutation]
+Dear Father:
+
+Our city, his family, and the Church,
 have truly sustained a loss in the removal of our beloved Thomas Scattergood,
 who departed this life at twenty minutes past seven last evening.
 He had been a little poorly with a cold for several days,
@@ -864,7 +1021,9 @@ The widow appeared more composed than could have been expected.
 Mary Harper, who was left sick at father Kite`'s, continues there.
 She has been very poorly, indeed, but is somewhat better.
 
-The information relative to Mary Harper`'s health was premature.
+--
+
++++[+++The information relative to Mary Harper`'s health was premature.
 She continued to sink rapidly, and on the 29th,
 three days after the above paragraph was written, was quietly released from suffering.
 The loss of this valuable elder, who had been in some measure a spiritual mother to him,
@@ -872,4 +1031,4 @@ was sensibly felt by Thomas Kite; but in her case,
 as well as in that of Thomas Scattergood,
 the undoubted persuasion that each had respectively
 filled up their measure of duty on earth,
-and were gathered home in mercy, took away much of the sting from the bereavement.
+and were gathered home in mercy, took away much of the sting from the bereavement.]

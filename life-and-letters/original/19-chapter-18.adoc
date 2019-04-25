@@ -1,11 +1,15 @@
 == Chapter XVIII.
 
-1842.
+[.chapter-synopsis]
+* 1842.
+* Diary
+* Visits Muncy with Quarterly Meeting Committee
+* Catharine Sheppard`'s death.
 
-Diary--Visits Muncy with Quarterly Meeting Committee--Catharine Sheppard`'s death.
+[.offset]
++++[+++Diary continued:]
 
-Diary continued:
-"`Our Quarterly Meeting having appointed me one of a committee
+Our Quarterly Meeting having appointed me one of a committee
 to aid and assist Friends of Muncy Monthly Meeting,
 and several visits having previously been made by other members of
 the committee in pursuance of the object of our appointment,
@@ -22,6 +26,7 @@ at which were six persons beside ourselves;
 yet to this little company the language of encouragement was offered;
 both S. H. and I having something to communicate.
 Dined at Sarah Potts`'s, and went on to Exeter to Ellis Lee`'s to lodge.
+
 The next morning +++[+++10th]
 we all walked to the next house, the residence of John Lee,
 and had a time of retirement in his family.
@@ -40,11 +45,15 @@ We arrived in the evening at Mercy Ellis`'s, Muncy.
 Sixth day +++[+++14th]
 attended Muncy Preparative Meeting,
 which was held by appointment at this time for our accommodation.
-The meeting was favoured, Sarah Hillman participating in the public service.`"
+The meeting was favoured, Sarah Hillman participating in the public service.
 
-In a letter to his wife, written on the 14th, Thomas Kite says:
+[.offset]
++++[+++In a letter to his wife, written on the 14th, Thomas Kite says:]
 
-"`I write at Henry Ecroyd`'s, Joseph and I having walked here this morning,
+[.embedded-content-document.letter]
+--
+
+I write at Henry Ecroyd`'s, Joseph and I having walked here this morning,
 after calling at Jacob Haines`'s. Jacob got home last evening.
 His father seems pretty well, excepting a cold.
 He and Mercy Ellis have commenced a family visit;
@@ -59,9 +68,11 @@ After the Preparative Meeting, we had an opportunity with the Overseers,
 as we had yesterday, at Fishing Creek.
 There seems a hopeful prospect at both the meetings,
 that some of the young people are preparing for usefulness;
-but there are others that do not appear to have submitted to the power of the cross.`"
+but there are others that do not appear to have submitted to the power of the cross.
 
-Diary: On Seventh-day morning +++[+++15th,]
+--
+
++++[+++Diary:] On Seventh-day morning +++[+++15th,]
 we had a religious opportunity in the family of John Ecroyd--a close, searching time.
 Dined at Jacob Haines`', and paid a religious visit in the afternoon to the widow Warner,
 daughter of our late friend Elizabeth Kitely, accompanied by our friend, Mercy Ellis:
@@ -69,6 +80,7 @@ the widow was addressed, and also an afflicted daughter,
 who had long been confined to her bed, and appears to have lost the power of speech;
 yet her understanding seems clear,
 and she appears to be favoured with religious sensibility.
+
 On First-day morning +++[+++16th,]
 we paid a religious visit to the family of John Warner,
 and afterwards attended Muncy Meeting, in which ability was renewed to labour.
@@ -105,6 +117,7 @@ and had an opportunity with a daughter of David`'s, who married out, but is now 
 and seems under much religious exercise.
 Sixth-day +++[+++21st,]
 reached J. Spohn`'s tavern, on the Broad Mountain, to lodge.
+
 Seventh-day +++[+++22nd,]
 to Enos Lee`'s. On First-day +++[+++23rd,]
 after a religious opportunity, we set forward for Exeter Meeting.
@@ -121,10 +134,15 @@ we reached home.
 We have been favoured with good roads and agreeable weather.
 We went forth in weakness, have been kept in a low, dependent state,
 yet favoured at times with renewed ability to labour for the help of our fellow members;
-and in returning feel the quiet assurance that we endeavoured to do what we could.`"
+and in returning feel the quiet assurance that we endeavoured to do what we could.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Eleventh month 2nd, 1842.
 
 +++[+++After mentioning his visit to Muncy.]
@@ -154,12 +172,17 @@ in thy life and conversation, and by submitting to those baptisms which cleanse 
 be gradually prepared to be rightly engaged in advocating those
 doctrines for which the primitive Friends so nobly suffered.
 
-In the Eleventh month, 1842, Thomas Kite visited Concord Quarterly Meeting,
+--
+
++++[+++In the Eleventh month, 1842, Thomas Kite visited Concord Quarterly Meeting,
 and his daughter at Westtown.
 In the beginning of the Twelfth month he recommenced his Diary,
-with the following observations:
+with the following observations:]
 
-"`Some little attempt was made, in the Third and Fourth months, 1839,
+[.small-break]
+'''
+
+Some little attempt was made, in the Third and Fourth months, 1839,
 towards keeping a Diary; it has since been suspended,
 excepting whilst absent from home on religious service.
 I renew the effort, designing occasionally to make an entry,
@@ -242,8 +265,13 @@ My dear friend Elizabeth Pitfield,
 was afterwards drawn forth in much the same line of communication.
 The solemnity continued afterwards in silence, and I was comforted in being there.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Twelfth month 14th.
 
 +++[+++After mentioning the death of H. Williams, as before mentioned.]
@@ -273,9 +301,15 @@ He has diligently served the best of Masters,
 who now "`makes his bed in sickness,`" and will, no doubt,
 receive him to Himself when the few remaining days of his pilgrimage are accomplished.
 
-Extract of a letter from one of Thomas Kite`'s family:
+--
 
-"`On Second-day morning +++[+++12th], died the oldest female member of our meeting, Mary Coates.
+[.offset]
++++[+++Extract of a letter from one of Thomas Kite`'s family:]
+
+[.embedded-content-document.letter]
+--
+
+On Second-day morning +++[+++12th], died the oldest female member of our meeting, Mary Coates.
 On Third-day night, Catharine Sheppard was taken with gout in the stomach;
 suffered extremely on Fourth-day; towards evening was better,
 and seemed to pass an easier night.
@@ -288,11 +322,14 @@ Spoke of her dear Redeemer.
 She conversed a little about John Wilbur, showing her interest in him.
 Elizabeth then withdrew, and Catharine appeared to doze; she roused up, and said,
 '`This seems like the sleep of death.`'
-She then soon expired.`"
+She then soon expired.
 
-Thomas Kite`'s Diary, continued.
+--
 
-"`Twelfth month 15th. Fifth-day.
+[.offset]
++++[+++Thomas Kite`'s Diary, continued.]
+
+Twelfth month 15th. Fifth-day.
 Attended the funeral of our aged friend, Mary Coates, who died in her ninetieth year.
 At the grave, under a sense that it was well with the deceased,
 the language of our Lord was revived, '`Daughters of Jerusalem, weep not for me,
@@ -399,4 +436,4 @@ I accompanied my wife to Timothy Abbott`'s. Before we left his house,
 the company were drawn into silence, and I was concerned, in vocal supplication,
 for a widow present; also for a fatherless young woman, who is, as I apprehend,
 exposed to danger; and for us all, that at the solemn hour of death,
-we might be found prepared for the mansions of rest and peace.`"
+we might be found prepared for the mansions of rest and peace.

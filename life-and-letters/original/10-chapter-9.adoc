@@ -1,12 +1,20 @@
 == Chapter IX.
 
-1828-1834.
+[.chapter-synopsis]
+* 1828-1834.
+* Elizabeth Robinson`'s last meeting
+* Visit to Virginia yearly meeting
+* Doctor Godman`'s death
+* Yearly meeting`'s committee
+* Letters.
 
-Elizabeth Robinson`'s last meeting--Visit to Virginia yearly meeting--
-Doctor Godman`'s death--Yearly meeting`'s committee--Letters.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Philadelphia, Sixth month 7th, 1828.
 
 Thou makes some allusion to the state of thy mind; dear child,
@@ -22,11 +30,21 @@ It is worth while to suffer many trials here, if they may but be sanctified to u
 and work out for us, when the trials of time are over,
 an exceeding and eternal weight of glory.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same
 
+[.signed-section-context-open]
 Sixth month 28th.
 
-My beloved child, I have no doubt the gracious Hand of mercy has been extended unto thee,
+[.salutation]
+My beloved child,
+
+I have no doubt the gracious Hand of mercy has been extended unto thee,
 and this it is that troubles thee for wrong conduct and for wrong thoughts.
 Be not discouraged, the Lord is merciful!
 Wait in the simplicity of a little child upon Him,
@@ -34,19 +52,28 @@ and ask of Him to change thy heart and make it better.
 His power alone can do it; and He is as willing now as ever He was to cleanse and purify.
 Though thou may experience thy inward troubles, yet if thou follows on to know the Lord,
 He will in his own time, '`give thee beauty for ashes, the oil of joy for mourning,
-and the garment of praise for the spirit of heaviness.`'
+and the garment of praise for the spirit of heaviness.
 
-During the early part of summer, this year,
+--
+
++++[+++During the early part of summer, this year,
 Susanna Kite`'s health became somewhat impaired,
 and her father concluded that a short relaxation from school duties was necessary;
 and feeling a freedom to visit his friend Henry Hull at Stanford, Dutchess County,
 New York, he took his wife and daughter there.
 They left Philadelphia the 2nd of Seventh month and were gone a little over a week.
-The visit proved pleasant to all and exerted a beneficial influence on Susanna`'s health.
+The visit proved pleasant to all and exerted a beneficial influence on Susanna`'s health.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
-Dear Rebecca:--I thought it would interest thee to be informed of the
+[.salutation]
+Dear Rebecca:
+
+I thought it would interest thee to be informed of the
 proceedings of Elizabeth Robson for a few days before leaving us.
 On Fifth-day evening week, she had a public meeting at the North house, favoured,
 though not large.
@@ -78,11 +105,21 @@ from whom she has so long been separated.
 
 Hinchman Haines`' wife was buried yesterday.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.--From the residence of John L. Kite.
 
+[.signed-section-context-open]
 Silver Lake Township, Susquehanna Co., Tenth month 10th, 1828.
 
-Dear Rebecca:--I thought it would please thee to receive a token of
+[.salutation]
+Dear Rebecca:
+
+I thought it would please thee to receive a token of
 remembrance from so distant a part of the country as this.
 Thou wast probably aware of my intention of visiting my
 brother and accompanying thy aunt and cousin home.^
@@ -123,7 +160,9 @@ and return as soon as they feel ready,
 by any of the various routes which they may prefer.
 I should not choose, if it were left to me, one that travels all night.
 
-Thomas Kite was desirous that his children should acquire a
+--
+
++++[+++Thomas Kite was desirous that his children should acquire a
 good literary taste and facility in composition.
 This led him to encourage a proposal made by one of his
 brothers that his family and some of their relatives,
@@ -132,10 +171,15 @@ which should be read every Seventh-day night during the winter season.
 Although no one but the editor or reader, knew the writer of each particular,
 yet it was the understanding that no one should be present at anytime,
 who had not for that occasion furnished his mite.
-Thomas Kite was a frequent contributor, and some of his essays will be added.
+Thomas Kite was a frequent contributor, and some of his essays will be added.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Philadelphia, Second month 13th, 1829.
 
 My time is so much occupied,
@@ -174,10 +218,18 @@ we shall be enabled to render Him the praise of it.
 I find by thy letter to Susanna,
 that you have been favoured with the company and gospel labours of Ann Jones, and others.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Fourth month 18th, 1829.
-'`"`We have been comforted with the arrival of many
+
+We have been comforted with the arrival of many
 precious friends to attend our annual solemnity.
 The Meeting of Ministers and Elders met this morning, and was a large meeting.
 We had at breakfast Thomas Shilletoe, to meet an Indian, who is a Methodist minister,
@@ -188,9 +240,11 @@ excepting that he is decorated around his waist with a red belt or sash.
 Be particularly careful, dear, of thy health.
 To this end use exercise; two or three times a day run or walk in the open air.
 I would rather see thee restored to us in good health, not knowing quite so much,
-than that thy attention to thy studies should undermine thy health.`"
+than that thy attention to thy studies should undermine thy health.
 
-In the Fifth month of this year, Thomas Kite attended the Yearly Meeting of Virginia.
+--
+
++++[+++In the Fifth month of this year, Thomas Kite attended the Yearly Meeting of Virginia.
 The service was performed to the peace of his own mind.
 His minute was obtained in the Fourth and returned to
 his Monthly Meeting in the Fifth month.
@@ -217,13 +271,21 @@ and men of more than ordinary pretensions to knowledge and literature.
 On this occasion Thomas Kite was remarkably drawn forth in the ministry,
 setting forth the excellency of true religion as compared with knowledge and science;
 and calling on all the men of exalted minds and great
-attainments to cast their crowns at the feet of Jesus.
+attainments to cast their crowns at the feet of Jesus.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his sister Mary.
 
+[.signed-section-context-open]
 Philadelphia, Seventh month 1st, 1830.
 
-Dear Sister:--The ties of natural affection
+[.salutation]
+Dear Sister:
+
+The ties of natural affection
 which bind the children of one family together,
 are strong;
 but the ties of spiritual love which unite the redeemed
@@ -260,7 +322,9 @@ who stood their journey out admirably.
 They accomplished +++[+++it]
 in five days and a half, which is nearly thirty-two miles a day on an average.
 
-Joshua, the second son of Thomas Kite, towards the close of this year,
+--
+
++++[+++Joshua, the second son of Thomas Kite, towards the close of this year,
 began to suffer much pain in the hip,
 supposed to have arisen from a hurt received by falls whilst skating.
 Whatever the cause, he never recovered from the effect,
@@ -268,9 +332,15 @@ but for several years was quite a cripple.
 
 Thomas Kite, Jr., the third and youngest son, commenced as a scholar at Westtown,
 Seventh month, 1830.
-His father`'s first letter to him is dated First month 7th, 1831.
+His father`'s first letter to him is dated First month 7th, 1831.]
 
-Dear Son:--I hope thou dost not forget to read over the
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear Son:
+
+I hope thou dost not forget to read over the
 letter of advice thou carried with thee to Westtown.
 It may serve to remind thee of me, when I am too busy to write to thee.
 Whether I write or not, I am at all times thy deeply interested parent,
@@ -283,15 +353,21 @@ and finally receive thee to his own blessed abode.
 That, at last, when the journey of life is over, this may be thy happy experience,
 is the desire of thy loving father,
 
+[.signed-section-signature]
 Thomas Kite.
 
-He attended the Yearly Meeting held in New York in the Fifth month,
+--
+
++++[+++He attended the Yearly Meeting held in New York in the Fifth month,
 with a minute of his Monthly Meeting, whence he wrote a letter to his wife,
 dated Fifth month 24th, 1831, in which,
 after mentioning having the company of Hannah Warrington, Jr.,
 and his cousin Anne Warrington, wife of Henry Warrington, of Westfield,
 on the journey to New York, and being accommodated at Samuel Wood`'s,
-he notes that Samuel and Jane Bettle were lodging at John R. Willis`'s, and then says:
+he notes that Samuel and Jane Bettle were lodging at John R. Willis`'s, and then says:]
+
+[.embedded-content-document.letter]
+--
 
 Amongst the strangers attending are Daniel Wood, J. and E. Meader, J. Patterson,
 Abigail Barker, Granville Woolman, J. and H. C. Backhouse.
@@ -300,7 +376,6 @@ which I desire patiently to endure,
 because the blessed Master`'s cause is worthy to be suffered for, and because I know,
 if I am favoured rightly to bear the trials dispensed, they will tend to purification,
 which I greatly need.
-'`
 
 Please remember me affectionately to the family circle, my parents especially,
 and my dear Joshua.
@@ -313,17 +388,23 @@ May thou and I, my love, so live in his fear,
 that we may experience Him to support us in the hour of need,
 is at this time the prevalent desire of thy affectionate,
 
+[.signed-section-signature]
 Thomas Kite
 
-On the 28th of the Seventh month, Thomas Kite was set at liberty by his Monthly Meeting,
+--
+
++++[+++On the 28th of the Seventh month, Thomas Kite was set at liberty by his Monthly Meeting,
 to attend the meetings composing Concord Quarterly Meeting,
 and appoint meetings for those not members.
 His invalid son, Joshua, being at his grandmother Sharpless`'s, in East Bradford,
 he addressed him a letter,
 dated Seventh month 29th. It begins with a description of a destructive fire,
-which he knew would interest the boy, and then adds:
+which he knew would interest the boy, and then adds:]
 
-"`This is not the only instance of the uncertainty of all things here.
+[.embedded-content-document.letter]
+--
+
+This is not the only instance of the uncertainty of all things here.
 Our dear friends Samuel and Jane Bettle,
 have had the affliction of losing their son Thomas, by a sudden death.
 He went on a journey to Easton, Pennsylvania, hoping it might benefit his health.
@@ -338,14 +419,20 @@ His widow appears overwhelmed with affliction.
 But we may hope that our Heavenly Parent,
 who has promised to be a father to the fatherless, and a husband to the widow,
 will care for her and her babes.
-In her late husband`'s parents she will find tender and sympathizing friends.`"
-'`
+In her late husband`'s parents she will find tender and sympathizing friends.
 
-After attending Concord Quarterly Meeting,
-Thomas Kite proceeded to fulfill his prospect of visiting the subordinate meetings, etc.
+--
 
++++[+++After attending Concord Quarterly Meeting,
+Thomas Kite proceeded to fulfill his prospect of visiting the subordinate meetings, etc.]
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his Wife.
 
+[.signed-section-context-open]
 Middletown, Eighth month 25th, 1831.
 
 I was particularly affected with the account of dear Abigail Folwell`'s sudden removal;
@@ -372,11 +459,21 @@ Thy expressions of affectionate sympathy are very grateful to me.
 May we ever be preserved in a disposition to "`bear one another`'s burdens,
 and so fulfill the law of Christ.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to Thomas Kite, Jr.
 
+[.signed-section-context-open]
 Philadelphia, Tenth month 29th, 1831.
 
-Dear Son:--As usual, I feel anxious thou shouldst be diligent in thy studies;
+[.salutation]
+Dear Son:
+
+As usual, I feel anxious thou shouldst be diligent in thy studies;
 but far more I wish thy conduct may be such as to gain thy teacher`'s esteem.
 Do not be light or trifling, but remember thy Creator in the days of thy youth.
 Remember Him to fear Him, to love Him.
@@ -388,8 +485,15 @@ I feel ardently desirous that thou mayest be of the
 number of those who follow the Lord Jesus Christ,
 and are his faithful disciples.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same
 
+[.signed-section-context-open]
 Twelfth month 27th
 
 Citizen, Stephen Girard, died yesterday.
@@ -403,7 +507,9 @@ that so thy affectionate mother and myself may have comfort in thee;
 for it is written in the good Book, '`A wise son maketh a glad father;
 but a foolish son is the heaviness of his mother.`'
 
-On the 29th of Twelfth month,
+--
+
++++[+++On the 29th of Twelfth month,
 he obtained a minute of his Monthly Meeting to visit the
 families of Friends composing Radnor Monthly Meeting.
 This service he performed during the First and Second months, 1832,
@@ -421,11 +527,18 @@ Jane Bettle, Regina Shober, Martha Jefferis, Hannah Gibbons,
 Mercy Ellis and Hannah Warrington, Jr.
 
 On Sixth-day, the 4th of Fifth month, Thomas Kite was bowed in awful, vocal supplication.
-The matter continuing with him, he afterwards believed it right to reduce it to writing.
+The matter continuing with him, he afterwards believed it right to reduce it to writing.]
 
-Substance of a prayer, Fifth month 4th, 1832.
+[.embedded-content-document.prayer]
+--
 
-"`It is, O Lord! under a sense that none of us can keep his own soul alive,
+[.letter-heading]
+Substance of a Prayer,
+
+[.signed-section-context-open]
+Fifth month 4th, 1832.
+
+It is, O Lord! under a sense that none of us can keep his own soul alive,
 that no man can redeem his brother, or give to thee a ransom for his soul;
 that though Noah, Job or Daniel stood before thee,
 they could save neither son nor daughter;
@@ -467,13 +580,18 @@ to prepare our minds, not only to worship thee in thy courts below, but also,
 O Lord! for thy heavenly kingdom,
 that at length we may join those who have gone before--thy ransomed
 and redeemed ones--in ascribing unto thee salvation and praise!
-uniting together in that worship which will know no end.`"
+uniting together in that worship which will know no end.
 
-Thomas Kite made a few notes of the proceedings
+--
+
++++[+++Thomas Kite made a few notes of the proceedings
 of that branch of the Yearly Meeting`'s committee,
 of which he was one; consisting of Joseph Whitall, Thomas Kite, Thomas Stewardson,
 Thomas Wistar, Hannah Warrington, Jr., Martha Jefferis and Hannah Paul.
-Portions of his memoranda follow:--
+Portions of his memoranda follow:]
+
+[.small-break]
+'''
 
 Fifth month 9th. Attended the Select Quarterly Meeting of Abington.
 Beside the committee and Hannah C. Backhouse, eight men and thirteen women were present.
@@ -511,11 +629,19 @@ About 90 persons present.
 Great openness toward the committee appeared, and ability to labour was vouchsafed.
 The meeting was satisfactory.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his Wife.
 
+[.signed-section-context-open]
 Whitemarsh, Sixth month 1st, 1832.
 
-My Dear, We attended +++[+++Frankford]
+[.salutation]
+My Dear,
+
+We attended +++[+++Frankford]
 Monthly Meeting at Gerroantown on Third-day; dined at Thomas Megargee`'s;
 and had Asa Walmesly for a pilot to Byberry.
 We, that is Joseph Whitall and myself, with the two women Friends +++[+++Hannah Warrington,
@@ -533,6 +659,8 @@ Today we have had a wearisome journey to Ezra Comfort`'s,
 where we now are waiting to attend Gwynedd Monthly Meeting tomorrow.
 We have been favoured to get along in much unity;
 and Friends have manifested an agreeable openness towards the committee.
+
+--
 
 Sixth month 2nd. Gwynedd Monthly Meeting.
 About twenty of their own members.
@@ -558,9 +686,12 @@ Perhaps the most comfortable covering of solemnity we have yet experienced.
 Nearly fifty present.
 An honestly concerned number amongst them, but rather deficient in skill.
 Judicious fathers wanting.
-A prospect amongst the youth somewhat hopeful.`"
+A prospect amongst the youth somewhat hopeful.
 
-After the return of the committee from this visit,
+[.small-break]
+'''
+
++++[+++After the return of the committee from this visit,
 they were ready for a trip to Stroudsburg and Friendsville,
 the most distant meeting of Abington Quarterly Meeting.
 They left Philadelphia on Third-day, the of Seventh month.
@@ -572,13 +703,21 @@ No account of this visit has been found amongst Thomas Kite`'s papers.
 It was, however, performed to their satisfaction.
 
 During the prevalence of the cholera in Philadelphia, Thomas Kite was in the city,
-except a few excursions to meetings in the neighbourhood.
+except a few excursions to meetings in the neighbourhood.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Philadelphia, Ninth month 4th, 1832.
 
-My Dear Son:--It is a considerable time since I
+[.salutation]
+My Dear Son:
+
+It is a considerable time since I
 manifested in this way my interest in thy welfare,
 which, notwithstanding, remains unabated.
 Whilst my principal wish for my children is, that they may become the Lord`'s children,
@@ -595,12 +734,20 @@ To be lazy is a reproachful character, and yet some boys deserve it.
 Thy mother and I went to Burlington Quarterly Meeting last week.
 The cholera has nearly disappeared.
 
-On Sixth-day, Eighth month 31st, 1832,
+--
+
++++[+++On Sixth-day, Eighth month 31st, 1832,
 William Kite went to spend a few days in the neighbourhood of Medford,
 where he had taught school.
-The day he left home, his father addressed this letter to him:
+The day he left home, his father addressed this letter to him:]
 
-Dear Son:--Whether thou goes abroad or stays at home,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear Son:
+
+Whether thou goes abroad or stays at home,
 my thoughts are often turned towards thee,
 with much solicitude for thy present and everlasting happiness.
 With thy conduct towards me as an obedient son, I am fully satisfied.
@@ -617,11 +764,21 @@ receive it on all needful occasions,
 so as to be conducted safely through the wilderness of this world,
 and receive at last a peaceful settlement in the promised land.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his son Thomas.
 
+[.signed-section-context-open]
 Philadelphia, Tenth month 20th, 1832.
 
-Dear Son:--I expect to go to Baltimore Yearly Meeting.
+[.salutation]
+Dear Son:
+
+I expect to go to Baltimore Yearly Meeting.
 Thou, hast heard, I presume, of the death of Edward Bettle.
 He had been a dutiful son to his father, and being of good talents,
 well improved by education, he was not only useful in civil and religious society,
@@ -646,7 +803,9 @@ Ah! my son,
 is not the hope of everlasting happiness a glorious hope! sufficient to animate and
 encourage us under the difficulties we must expect to meet with in the present life.
 
-Thomas Kite having a minute of the unity of his Monthly Meeting,
+--
+
++++[+++Thomas Kite having a minute of the unity of his Monthly Meeting,
 attended Baltimore Yearly Meeting; his wife bore him company.
 The meeting was smaller than usual,
 owing to the fears many were in respecting the cholera.
@@ -655,9 +814,18 @@ owing to the fears many were in respecting the cholera.
 but Thomas Kite has left no account of its visits from place to place.
 
 Edith Kite, having accompanied Gulielma Widdifield to New England Yearly Meeting,
-her husband thus wrote to her: Philadelphia, Sixth month 21st, 1833.
+her husband thus wrote to her:]
 
-My Love:--I was glad to receive thy letter this morning, and to hear of thy welfare.
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
+Philadelphia, Sixth month 21st, 1833.
+
+[.salutation]
+My Love:
+
+I was glad to receive thy letter this morning, and to hear of thy welfare.
 It was pleasant to find thou hadst met with so many of my dear friends.
 I sincerely desire thy visit may prove not only agreeable, but profitable,
 so that thou mayest bring home a little good to me, for I feel, and have long felt,
@@ -668,7 +836,6 @@ And oh! that neither thou nor I may rest satisfied without this experience,
 which will sanctify the comfort we have in each other,
 and enable us to bear up under whatever portion of sorrow may be in
 reserve for us in our future steppings through this vale of tears.
-'`
 
 Give my love to our dear friend Jacob Green.
 I know not how to think of his leaving this country without seeing him again.
@@ -677,7 +844,9 @@ he may have the opportunity of attending them,
 of taking leave of many who feel closely bound to him in the fellowship of the gospel,
 and may be back to New York in time for the ship.
 
-In the Tenth month of this year,
+--
+
++++[+++In the Tenth month of this year,
 the Monthly Meeting of Philadelphia set Thomas Kite at liberty
 to visit the meetings of Salem Quarterly Meeting,
 New Jersey.
@@ -702,19 +871,32 @@ His first meeting was at Plainfield, his second at Eahway;
 after which he proceeded to Shrewsbury,
 where the Quarterly Meeting for business was held,
 on the 15th. On that day he addressed a letter to his invalid son Joshua,
-which contained the following paragraph to his wife:
+which contained the following paragraph to his wife:]
 
-"`My Dear:--I never remember parting with thee with
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+My Dear:
+
+I never remember parting with thee with
 more tender emotions of regard and affection.
 I much desire we may both live so near the Heavenly Fountain,
 as to experience an increase of that gospel fellowship which, I trust,
 we have each known something of.
 I feel my own weakness, and desire thy secret sympathy and prayers,
 that I may be preserved in the line of duty; and when at liberty to return.
-I shall be glad again to be favoured with thy company.`"
+I shall be glad again to be favoured with thy company.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna, then at East Bradford.
 
+[.signed-section-context-open]
 Philadelphia, Fifth month 24th, 1834.
 
 I returned on Fifth-day, before meeting.
@@ -750,21 +932,37 @@ I thought the good Master was near to bless us.
 We left our chair and horse near this place, and took passage by water to Leed`'s Point.
 The meeting is very small, yet contains some concerned friends.
 
-William Kite had been in weak health for many months,
-and having gone into Chester County for the purpose of recruiting his energies,
-his father wrote to him:
+--
 
++++[+++William Kite had been in weak health for many months,
+and having gone into Chester County for the purpose of recruiting his energies,
+his father wrote to him:]
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Sixth month 18th, 1834.
 
-Dear Son:--I was in hopes thou wouldst have written,
+[.salutation]
+Dear Son:
+
+I was in hopes thou wouldst have written,
 to let us know how the country agrees with thee.
 I feel a strong desire, not only for the restoration of thy health,
 if it please our Heavenly Father to permit it, but more so for thy spiritual strength;
 that thou mayest be enabled to shake thyself from all hindering things,
 and press toward the mark for the prize of the heavenly calling.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Rebecca.
 
+[.signed-section-context-open]
 Philadelphia, Eighth month 27th, 1834.
 
 Hannah C. Backhouse, we suppose, met Jonathan at Burlington Quarterly Meeting,
@@ -777,8 +975,15 @@ May this retirement from business be blessed to thee;
 and a renewal of desire and prayer be felt,
 for more entire dedication and conformity to the Divine Will!
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his daughter Susanna.
 
+[.signed-section-context-open]
 Philadelphia, Ninth month 20th, 1834.
 
 Our dear young friend, Beulah Maule, was buried on Second-day last.
@@ -800,7 +1005,9 @@ submitting to the purifying operations of his holy hand, until we are prepared,
 through his unmerited mercy, not having spot, or wrinkle, or any such thing,
 to join the company of his redeemed.
 
-On Fifth-day, the 6th of Eleventh month,
+--
+
++++[+++On Fifth-day, the 6th of Eleventh month,
 Thomas Kite attended the marriage of James R. Greeves and Abigail Sharpless, his niece;
 and on the following Second-day, with his wife, Rachel Bartram^
 footnote:[An overseer of Northern District Monthly Meeting.]
@@ -810,8 +1017,12 @@ In allusion to this journey, he wrote:
 "`It will require in all of us much self-reduction, and humble reliance on Divine aid,
 to get through with it to profit.`"
 
-Being in New Bedford on business in the Tenth month, he thus wrote to his wife:
+Being in New Bedford on business in the Tenth month, he thus wrote to his wife:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 New Bedford, Tenth month 14th, 1834.
 
 I yesterday rode out a few miles into the country to see our friend Sarah Tucker.^
@@ -840,8 +1051,15 @@ as yet, it is an industrious community which inhabits it.
 One house is now erecting which, it is supposed, will cost $70,000,
 and there are many which have cost a large proportion of that sum.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Kite to his Niece Edith Jefferis.
 
+[.signed-section-context-open]
 Philadelphia, Twelfth month 21st, 1834.
 
 I am not very partial to letter-writing, but thy communication, my dear cousin,
@@ -908,3 +1126,5 @@ but she will also be enabled to unite with thee,
 so that you can bear one another`'s burdens, and so fulfill the law of Christ.
 And above all she will experience that peace which is
 the portion of the followers of Jesus Christ.
+
+--
