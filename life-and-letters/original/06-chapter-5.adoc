@@ -10,7 +10,7 @@
 from New York, he addressed a letter to his wife, under date of Sixth month 4th,
 from which the following is extracted: "`We had a very agreeable company in the stage;
 one Presbyterian and one Episcopalian clergyman,
-together with other intelligent and well behaved persons.
+together with other intelligent and well-behaved persons.
 We reached our lodging place, Somerville, about nine in the evening,
 and started at half-past four in the morning.
 
