@@ -11,10 +11,10 @@ that he offered him a share in his business.
 This offer Thomas Kite accepted,
 and remained in partnership during the latter part of the year 1806.
 In the Eighth month of that year,
-haying business to attend to in the State of Delaware and the eastern shore of Maryland,
+having business to attend to in the State of Delaware and the eastern shore of Maryland,
 he concluded to accompany his father to Chester County,
 and there seek a means of conveyance to enable him to accomplish his proposed journey.
-While absent he wrote to his mother and sister Abi.]
+While absent he wrote to his mother and sister Abi.+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -28,15 +28,15 @@ Dear Mother and Sister:
 We left Philadelphia on
 Third-day morning last (Eighth month 5th).
 We reached grandfather`'s about 10 o`'clock at night;
-left aunt Sarah there and proceeded on to uncle Nathan +++[+++Walton`'s],
+left aunt Sarah there and proceeded on to uncle Nathan +++[+++Walton`'s+++]+++,
 where we arrived about 11,
 and got to bed about 12. Next morning I went over to Abraham Romans,
 who kindly offered me a horse to pursue my contemplated journey.
-+++[+++That day]
++++[+++That day+++]+++
 father and I went to London-grove Monthly Meeting, he in uncle Nathan`'s light wagon,
 I with Abraham Romans.
 
-Uncle John +++[+++Letchworth]
+Uncle John +++[+++Letchworth+++]+++
 opened a concern which had impressed his mind,
 under which he believes it to be his duty to
 attend the ensuing Yearly Meeting at Baltimore,
@@ -88,10 +88,10 @@ the confluence of which forms the Elk River, I passed the Maryland line into Del
 This morning I crossed one of the branches or feeders of the proposed
 canal for uniting the waters of the Delaware and Chesapeake,
 and arrived at Glasgow, or Akinstown, a sickly village.
-From there to Middletown; from there to Warwick, +++[+++in Maryland],
+From there to Middletown; from there to Warwick, +++[+++in Maryland+++]+++,
 a miserable looking village, and proceeded to the "`Head of Sassafras.`"
 This last-named village derived its name from several streams
-uniting near it and forming the head of Sassafras Eiver,
+uniting near it and forming the head of Sassafras River,
 which is navigable within a few miles of the place.
 I lodged there at a Friend`'s house, and proceeded this morning to Georgetown Cross Roads,
 a small village; from there to Chester-town, the capital of Kent County, where I now am.
@@ -123,12 +123,14 @@ County will render me strong and hearty as usual.
 
 --
 
+[.small-break]
+'''
 +++[+++Thomas Kite returned home by way of Wilmington,
 and attended Concord Quarterly Meeting before reaching Philadelphia.
 
 Although in partnership with Benjamin Johnson,
 Thomas Kite was not satisfied that it was his proper place.
-His father was grow ing old, had become temporarily very hard of hearing,
+His father was growing old, had become temporarily very hard of hearing,
 and his school duties, for the right performance of which this had partly unfitted him,
 had become irksome to him.
 Benjamin thought the time for his release from teaching was drawing near,
@@ -141,7 +143,7 @@ although they did not engage in business for several weeks thereafter.
 Benjamin Kite having informed his brother John Letchworth of
 his prospect of entering into business with his son,
 John felt concerned to address a letter of caution to his nephew,
-who he well knew would be the active business member of the firm.]
+who he well knew would be the active business member of the firm.+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -184,7 +186,7 @@ John Letchworth.
 --
 
 [.offset]
-+++[+++To this letter Thomas Kite thus replied:]
++++[+++To this letter Thomas Kite thus replied:+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -220,6 +222,9 @@ to pay proper attention to the cautions of my father,
 and not to undertake anything of magnitude that has not his concurrence.
 
 --
+
+[.small-break]
+'''
 
 +++[+++In the spring of 1807 Benjamin Kite gave up his
 school and devoted himself to his new occupation.
@@ -271,7 +276,7 @@ She was a native of Wilmington, in the State of Delaware,
 and appears to have derived spiritual benefit from the ministry of Joshua Maule,
 from whom, after her removal to Philadelphia in the spring of 1806,
 she received several letters.
-One of them we insert.]
+One of them we insert.+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -297,7 +302,7 @@ How, dear Elizabeth,
 can we better express our gratitude than by
 yielding unreserved obedience to the Divine will,
 however it may be in the cross, remembering it is not every one that says Lord!
-Lord! that shall enter into the kingdom of heaven,
+Lord!--that shall enter into the kingdom of heaven,
 but he that does the will of the Father in heaven.
 I have often thought of you, since you left us, with secret satisfaction,
 and am solicitous that not only you, but I,
@@ -327,6 +332,8 @@ Joshua Maule.
 
 --
 
+[.small-break]
+'''
 +++[+++The marriage of Thomas Kite and Elizabeth Barnard was
 accomplished on the 30th day of the Third month,
 1808, at the meeting-house of Friends in Pine Street.
@@ -334,7 +341,7 @@ David Sands, who was then in Philadelphia on a religious visit, was at the meeti
 and dined with the wedding company.
 
 Thomas Kite, in a short account he left of his life,
-thus speaks of this marriage connection.]
+thus speaks of this marriage connection.+++]+++
 
 [.small-break]
 '''
