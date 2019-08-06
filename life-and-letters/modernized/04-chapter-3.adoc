@@ -6,8 +6,8 @@
 * Death of Elizabeth Kite
 * His testimony concerning her.
 
-+++[+++Thomas Kite was now married, and in his new connection,
-with unusual cares he experienced an accession of unusual comforts.
++++[+++Thomas Kite was now married, and in his new role,
+finding a variety of new cares, he experienced the addition of new comforts.
 He was affectionate in his feelings,
 and was well qualified by his natural disposition to promote domestic happiness,
 and to enjoy it.
@@ -113,11 +113,11 @@ in the prospect of his being called to this awful work,
 and the day of his appearance at Frankford,
 his relative and friend Mary Harper had exhorted him to
 faithfulness to the requirings of duty in this line.
-He spoke on the text in the Apocrypha, Ecclesiasticus ii.
-10: "`Look at the generations of old and see;
+He spoke on the text in the Apocrypha, Ecclesiasticus 2:10:
+"`Look at the generations of old and see;
 did ever any trust in the Lord and was confounded?
-or did any abide in his fear, and was forsaken?
-or whom did He ever despise, that called upon Him?`"]
+Or did any abide in his fear, and was forsaken?
+Or whom did He ever despise, that called upon Him?`"]
 
 [.small-break]
 '''
@@ -148,9 +148,7 @@ Sixth month 11th. Attended Haddonfield Monthly Meeting.
 Found peace in endeavouring to discharge my mind of a concern for parents,
 near the close of a meeting for business.
 
-[.small-break]
-'''
-
+[.offset]
 +++[+++Having taken his wife to Wilmington,
 he left her there to spend a short time with her friends and relatives,
 and returning to Philadelphia, met with the adventure described in the following letter.]
@@ -218,7 +216,7 @@ Too much talking has been indulged in, and something of slander.
 I have felt convictions for the last.
 Something of a waspish temper,
 an additional evidence that my will is not thoroughly subjected to the principle of life.
-Lord! pardon my sins.
+Lord! Pardon my sins.
 In writing a letter this day, I mentioned a text of Scripture,
 and made observations of a religious nature.
 I am fearful they were not seasoned with salt, as I felt afterwards burdened.
@@ -298,7 +296,7 @@ A few evenings since at a meeting of a society of a benevolent nature,
 too active in discussing and promoting measures relative thereto.
 Yesterday at Pine Street and today at our Monthly Meeting somewhat favoured in silence.
 In the evening,
-dear Susanna Home had a precious opportunity with us of the young classes of Society,
+dear Susanna Horne had a precious opportunity with us of the young classes of Society,
 and those of similar ages, not in membership, who attend our meetings.
 Invitation and caution were handed forth, and a covering of solemnity prevailed.
 May the Lord alone be praised!
@@ -471,6 +469,7 @@ Thomas Kite.
 
 --
 
+[.offset]
 +++[+++Various letters of condolence and sympathy were received from the
 friends of the family on the occasion of the decease of Elizabeth.
 John Letchworth says in one from him:]
@@ -500,6 +499,7 @@ ____
 
 --
 
+[.offset]
 John Heald, a beloved minister, residing at Fairfield, Columbiana County, Ohio,
 thus wrote on the subject to Benjamin Kite.
 
