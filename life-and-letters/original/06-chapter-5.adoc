@@ -6,13 +6,13 @@
 * Death of Anne Mifflin and Sarah Matthews
 * Letters from Stephen Pike.
 
-+++[+++Business calling Thomas Kite to the East in the early part of the summer of 1814,
++++[+++Business calling Thomas Kite to the east in the early part of the summer of 1814,
 from New York, he addressed a letter to his wife, under date of Sixth month 4th,
 from which the following is extracted: "`We had a very agreeable company in the stage;
 one Presbyterian and one Episcopalian clergyman,
 together with other intelligent and well-behaved persons.
 We reached our lodging place, Somerville, about nine in the evening,
-and started at half-past four in the morning.
+and started at half-past four in the morning.`"
 
 Soon after his return from the eastward, Thomas Kite wrote to his wife,
 then at Birmingham,
@@ -42,7 +42,7 @@ One man is stated to have been killed; and if no more, it will be cause of wonde
 passed away; and all classes of the community seemed to rejoice at the return of peace.
 Stephen Pike, writing to Thomas Kite,
 gives a lively picture of the sensation produced in the quiet city of Burlington,
-by the announcement of the treaty of peace.
+by the announcement of the treaty of peace.]
 
 [.embedded-content-document.letter]
 --
@@ -177,7 +177,7 @@ are each gathered to that blessed inheritance where the weary are at rest.
 
 This day was our Monthly Meeting, in which sat the first time for many years,
 Joseph Dillworth, having been reinstated to membership at the preceding meeting.
-To day an acknowledgement was received from John James, I hope, made in sincerity.
+Today an acknowledgement was received from John James, I hope, made in sincerity.
 The meeting also accepted it, and he is again a member.
 Samuel Bettle obtained a minute to visit the meetings about Muncy, Roaring Creek, etc,
 but does not expect to set out till after Yearly Meeting.
@@ -198,7 +198,7 @@ Burlington, Third month 19th, 1815.
 
 Our Morning Meeting this day was an unusually solemn one.
 We had sat in silence during perhaps half an hour,
-when our much esteemed Mary R. rose and began an
+when our much esteemed Mary Roscoe rose and began an
 interesting and very instructive address.
 She generally comprises what she has to say among us in a single paragraph or two;
 but at this time she made several pauses.
@@ -231,7 +231,7 @@ veil the face on the women`'s side of the house,
 there were many, as well as myself, enamoured of the beauty of holiness,
 and excited strongly to desire the possession of what appeared so noble,
 and at the same time so lovely.
-Mary was followed by A. Barker, George Dillwyn, Richard Smith,
+Mary was followed by Abigail Barker, George Dillwyn, Richard Smith,
 and by Susan Smith in prayer.
 Richard`'s matter on this, as well as several late occasions, was more in quantity,
 and I think also in weight, than formerly.
@@ -339,7 +339,7 @@ whilst the virtues of meekness, temperance, charity,
 exhibited in a life of condescension and forbearance, of contented frugality,
 and the essence of benevolence and humble piety,
 appear to be considered as subjects in which the eloquence of
-our gallaries may indeed be employed with great propriety,
+our galleries may indeed be employed with great propriety,
 but not as indispensable acquirements.
 Ah! how I wish that heads of families should see things in the light of truth,
 and weigh them in the balance of the sanctuary;
@@ -357,13 +357,13 @@ New York; and our Burlington Nathaniel, in whom, perhaps,
 there is nearly as little guile as in the Hebrew whose name he possesses,
 has gone to bear him company.
 I think very well of it for several reasons.
-He, (that is N. Coleman) is by no means an unsuitable companion,
+He, (that is Nathaniel Coleman) is by no means an unsuitable companion,
 and he has had rather a melancholy kind of life latterly.
 Since the war, and the levying of the tax on plate, he has declined business,
 except a little in the mending department,
 which has left him more leisure than one not given to lounging,
 and not particularly fond of reading, can satisfactorily dispose of.
-Add to this the absence of a wife +++[+++E. C. being on a religious visit],
+Add to this the absence of a wife +++[+++Elizabeth Coleman being on a religious visit],
 whose absence he could but ill brook for a day,
 when he had more concerns to occupy his attention,
 and thou canst easily imagine him not very comfortable.
@@ -372,6 +372,6 @@ but they could succeed but in a small degree,
 and had the mortification to be told by him that the attentions of a hundred
 children could not suffice to fill the blank occasioned by the absence of a wife.
 Elizabeth and Margaret are expected home in the course of a few days,
-and A. Barker and company about the same time.
+and Abigail Barker and company about the same time.
 
 --
