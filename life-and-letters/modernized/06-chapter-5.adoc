@@ -6,13 +6,13 @@
 * Death of Anne Mifflin and Sarah Matthews
 * Letters from Stephen Pike.
 
-+++[+++Business calling Thomas Kite to the East in the early part of the summer of 1814,
++++[+++Business calling Thomas Kite to the east in the early part of the summer of 1814,
 from New York, he addressed a letter to his wife, under date of Sixth month 4th,
 from which the following is extracted: "`We had a very agreeable company in the stage;
 one Presbyterian and one Episcopalian clergyman,
 together with other intelligent and well-behaved persons.
 We reached our lodging place, Somerville, about nine in the evening,
-and started at half-past four in the morning.
+and started at half-past four in the morning.`"
 
 Soon after his return from the eastward, Thomas Kite wrote to his wife,
 then at Birmingham,
@@ -42,7 +42,7 @@ One man is stated to have been killed; and if no more, it will be cause of wonde
 passed away; and all classes of the community seemed to rejoice at the return of peace.
 Stephen Pike, writing to Thomas Kite,
 gives a lively picture of the sensation produced in the quiet city of Burlington,
-by the announcement of the treaty of peace.
+by the announcement of the treaty of peace.]
 
 [.embedded-content-document.letter]
 --
@@ -58,7 +58,7 @@ There are few places, perhaps, of the same magnitude,
 in which there are so many genuine lovers of peace as in this.
 What, then, must have been the sensation produced by a sudden,
 and to many an unlooked-for annunciation of the near approach of such a delightful guest.
-Every one seemed inspired with fresh and unusual animation.
+Everyone seemed inspired with fresh and unusual animation.
 A buzz of pleasure circulated from neighbour to neighbour, and from street to street.
 The bells of the town were employed in uttering a more clamorous expression of joy;
 a large proportion of houses--except Friends`'--were illuminated,
@@ -71,7 +71,7 @@ It is customary with me previous to dismissing my scholars, to have a pause of s
 
 At that time the contrast between the profound stillness
 within and the noisy expression of joy without,
-was so strong as to have a great effect on the risibilities of my scholars.
+was so strong that it made my scholars want to laugh.
 I was obliged to double the appearance of gravity on my own countenance,
 to produce a becoming degree of it in theirs.
 My feelings on the occasion were in some degree solemn;
@@ -112,15 +112,15 @@ Dear Nephew:
 Iron sharpens iron.
 So a man sharpens the countenance of his friend.
 This seems, in some measure, the case with a letter.
-I received yours of the 5th instant, and was gratified thereby.
+I received yours of the 5th of this month, and was gratified thereby.
 Your observations, I believe,
 are correct with respect to trials of various kinds awaiting us,
 and that others beside yourself have their besetting sin, there need be no doubt of.
 Quickness of temper you apprehend to be yours.
 May I not say, "`hail fellow, well met!`" for it is mine, also.
 What is the result?
-When we are off our watch, and this predominates, are we not met with?
-and do we not receive chastisement?
+When we are off our watch, and this predominates, are we not met with?--and
+do we not receive chastisement?
 Now, what conclusion shall we draw from this?
 One seems evident, that we are poor weak creatures,
 and stand in need of the care of the great Caretaker.
@@ -177,7 +177,7 @@ are each gathered to that blessed inheritance where the weary are at rest.
 
 This day was our Monthly Meeting, in which sat the first time for many years,
 Joseph Dillworth, having been reinstated to membership at the preceding meeting.
-To day an acknowledgement was received from John James, I hope, made in sincerity.
+Today an acknowledgement was received from John James, I hope, made in sincerity.
 The meeting also accepted it, and he is again a member.
 Samuel Bettle obtained a minute to visit the meetings about Muncy, Roaring Creek, etc,
 but does not expect to set out till after Yearly Meeting.
@@ -198,7 +198,7 @@ Burlington, Third month 19th, 1815.
 
 Our Morning Meeting this day was an unusually solemn one.
 We had sat in silence during perhaps half an hour,
-when our much esteemed Mary R. rose and began an
+when our much esteemed Mary Roscoe rose and began an
 interesting and very instructive address.
 She generally comprises what she has to say among us in a single paragraph or two;
 but at this time she made several pauses.
@@ -231,7 +231,7 @@ veil the face on the women`'s side of the house,
 there were many, as well as myself, enamoured of the beauty of holiness,
 and excited strongly to desire the possession of what appeared so noble,
 and at the same time so lovely.
-Mary was followed by A. Barker, George Dillwyn, Richard Smith,
+Mary was followed by Abigail Barker, George Dillwyn, Richard Smith,
 and by Susan Smith in prayer.
 Richard`'s matter on this, as well as several late occasions, was more in quantity,
 and I think also in weight, than formerly.
@@ -276,7 +276,7 @@ and Samuel quite as much so as common.
 Elizabeth Pierce is better than she was at Concord.
 She seems in a pleasant, innocent state of mind, and if taken hence,
 I doubt not it will be to rest.
-This is the crown of all! and oh! the solicitude I sometimes feel
+This is the crown of all!--and oh! The solicitude I sometimes feel
 that you and I may so bend to the forming hand of the great Potter,
 as to become instruments for his use;
 that we may fill up our measure of usefulness on this stage of action,
@@ -288,7 +288,7 @@ and as this is our engagement, He will be near to help in every trial;
 He will lift up the drooping head, confirm the feeble knees,
 teach our hands to war and our fingers to fight;
 give us the victory over our own corruptions, preserve us from falling,
-and finally (oh! precious hope!) present us faultless
+and finally (oh!--precious hope!) present us faultless
 before the presence of His Glory with exceeding joy.
 What is the world and all its amusements, profits and honours,
 compared with a crown immortal that fades not away,
@@ -339,15 +339,15 @@ while the virtues of meekness, temperance, charity,
 exhibited in a life of condescension and forbearance, of contented frugality,
 and the essence of benevolence and humble piety,
 appear to be considered as subjects in which the eloquence of
-our gallaries may indeed be employed with great propriety,
+our galearies may indeed be employed with great propriety,
 but not as indispensable acquirements.
-Ah! how I wish that heads of families should see things in the light of truth,
+Ah! How I wish that heads of families should see things in the light of truth,
 and weigh them in the balance of the sanctuary;
 that nothing should appear beautiful to them but what accords with simplicity and purity;
 and that nothing should seem possessed of weight
 which has not some degree of eternal importance.
 
-Our meeting, you knew, liberated several couples to travel to the North and to the South,
+Our meeting, you knew, liberated several couples to travel to the north and to the south,
 with a view to preach the knowledge of truth, and persuade men to abandon error.
 Since then,
 John Cox has obtained concurrance in a prospect of attending
@@ -356,14 +356,14 @@ New York; and our Burlington Nathaniel, in whom, perhaps,
 there is nearly as little guile as in the Hebrew whose name he possesses,
 has gone to bear him company.
 I think very well of it for several reasons.
-He, (that is N. Coleman) is by no means an unsuitable companion,
+He, (that is Nathaniel Coleman) is by no means an unsuitable companion,
 and he has had rather a melancholy kind of life latterly.
 Since the war, and the levying of the tax on plate, he has declined business,
 except a little in the mending department,
 which has left him more leisure than one not given to lounging,
 and not particularly fond of reading, can satisfactorily dispose of.
-Add to this the absence of a wife +++[+++E. C. being on a religious visit],
-whose absence he could but ill brook for a day,
+Add to this the absence of a wife +++[+++Elizabeth Coleman being on a religious visit],
+whose absence he could but ill tolerate for a day,
 when he had more concerns to occupy his attention,
 and you can easily imagine him not very comfortable.
 His daughters have not been remiss in endeavouring to console him,
@@ -371,6 +371,6 @@ but they could succeed but in a small degree,
 and had the mortification to be told by him that the attentions of a hundred
 children could not suffice to fill the blank occasioned by the absence of a wife.
 Elizabeth and Margaret are expected home in the course of a few days,
-and A. Barker and company about the same time.
+and Abigail Barker and company about the same time.
 
 --
