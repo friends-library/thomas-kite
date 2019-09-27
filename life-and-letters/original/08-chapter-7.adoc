@@ -66,6 +66,9 @@ and by tomorrow we expect it will bear horses, etc.
 
 --
 
+[.small-break]
+'''
+
 +++[+++Some sound and valuable Friends were uneasy at the open opposition
 manifested by the faithful in Philadelphia to the doctrines of Elias Hicks,
 and Thomas Kite received several letters from those he loved,
@@ -80,13 +83,16 @@ be introduced into the affairs of Society.`"
 In reply to the writer of this, Thomas Kite said,
 he thought the account received by his friend of
 the state of fermentation in Philadelphia,
-and the disposition to disown one another?
+and the disposition to disown one another,
 was exaggerated.
 He declared his belief,
 that the testimonies of the religious Society of
 Friends would never be permitted to fall,
 and concluded with urging the vital importance of knowing, each one for himself,
 a preparation through faithfulness here, for the after scene.]
+
+[.small-break]
+'''
 
 [.embedded-content-document.letter]
 --
@@ -115,7 +121,7 @@ who can have no greater joy than to behold their children walking in the truth.
 --
 
 +++[+++On the 30th of Fifth month, after returning from a journey of business to New York,
-Thomas Kite wrote to his daughter Susanna at West-town:]
+Thomas Kite wrote to his daughter Susanna at Westtown:]
 
 [.embedded-content-document.letter]
 --
@@ -169,7 +175,7 @@ He appears as a cleanser and purifier of the children of men,
 gradually washing away all impurity of thought, all envy, malice, unkindness,
 enabling us to live in love one with another,
 and to love our gracious God with all our heart, and soul, and strength.
-My breathing to my Heavenly Benefactor for my clear child is,
+My breathing to my Heavenly Benefactor for my dear child is,
 that she may experience this,
 and may become one of the adopted children of the heavenly family,
 even while she lives on earth.
@@ -481,7 +487,7 @@ and the support then graciously vouchsafed.
 Though there may not have been an entire devotion in following on to know the Lord,
 yet I trust, desires after spiritual good are not extinguished,
 and I believe the Lord ever merciful, waits to be gracious;
-but then it must be oh his own terms.
+but then it must be on his own terms.
 If we would be reconciled to God through the mediation of his dear Son,
 our Lord and Saviour, we must take up the cross.
 
