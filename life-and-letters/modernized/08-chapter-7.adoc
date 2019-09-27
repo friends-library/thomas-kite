@@ -66,6 +66,9 @@ and by tomorrow we expect it will bear horses, etc.
 
 --
 
+[.small-break]
+'''
+
 +++[+++Some sound and valuable Friends were uneasy at the open opposition
 manifested by the faithful in Philadelphia to the doctrines of Elias Hicks,
 and Thomas Kite received several letters from those he loved,
@@ -80,13 +83,16 @@ be introduced into the affairs of Society.`"
 In reply to the writer of this, Thomas Kite said,
 he thought the account received by his friend of
 the state of fermentation in Philadelphia,
-and the disposition to disown one another?
+and the disposition to disown one another,
 was exaggerated.
 He declared his belief,
 that the testimonies of the religious Society of
 Friends would never be permitted to fall,
 and concluded with urging the vital importance of knowing, each one for himself,
 a preparation through faithfulness here, for the after scene.]
+
+[.small-break]
+'''
 
 [.embedded-content-document.letter]
 --
@@ -115,7 +121,7 @@ who can have no greater joy than to behold their children walking in the truth.
 --
 
 +++[+++On the 30th of Fifth month, after returning from a journey of business to New York,
-Thomas Kite wrote to his daughter Susanna at West-town:]
+Thomas Kite wrote to his daughter Susanna at Westtown:]
 
 [.embedded-content-document.letter]
 --
@@ -163,13 +169,13 @@ There you will find that all have sinned, that all need repentance,
 that our blessed Saviour came into the world to save sinners, to call them to repentance,
 to suffer for them, to die for them!
 What gratitude ought to fill our hearts towards our Divine Redeemer;
-how ought we to open our minds to receive Him spiritually! for He
+how ought we to open our minds to receive Him spiritually!--for He
 does appear in those who are made willing to forsake every evil way.
 He appears as a cleanser and purifier of the children of men,
 gradually washing away all impurity of thought, all envy, malice, unkindness,
 enabling us to live in love one with another,
 and to love our gracious God with all our heart, and soul, and strength.
-My breathing to my Heavenly Benefactor for my clear child is,
+My breathing to my Heavenly Benefactor for my dear child is,
 that she may experience this,
 and may become one of the adopted children of the heavenly family,
 even while she lives on earth.
@@ -207,7 +213,7 @@ I have been present a number of times on these occasions,
 and have had to admire the goodness of the Lord,
 who is waiting to be gracious even to such wretched outcasts.
 
-But oh! my child,
+But oh! My child,
 what misery do those escape who are so wise as
 to choose Him for their portion in early life,
 and dedicate their lives to his service.
@@ -243,7 +249,7 @@ in Susquehanna County by one of their neighbours.
 
 He brought a letter from your uncle John written very cheerfully.
 He keeps school this winter and is paid so many bushels of corn a quarter.
-To fill up time profitably he makes shoes of an evening, his wife sitting by at her work,
+To fill up time profitably he makes shoes in the evening, his wife sitting by at her work,
 and your uncle Nathan reading aloud.
 It would gratify me to pop in on them some evening, and see how they look;
 but the distance renders an excursion there a serious affair.
@@ -464,7 +470,7 @@ that we of the younger ranks may be induced to follow them as they have followed
 +++[+++If such be our experience]
 then,
 whatever clouds may occasionally rest upon our
-views while treading the chequered paths of life,
+views while treading the checkered paths of life,
 they will all, through Divine mercy, be dispelled,
 and "`in the evening time there shall be light;`" and peace, hope and confidence in God,
 will go with us to the last confines of mortality.
@@ -481,7 +487,7 @@ and the support then graciously vouchsafed.
 Though there may not have been an entire devotion in following on to know the Lord,
 yet I trust, desires after spiritual good are not extinguished,
 and I believe the Lord ever merciful, waits to be gracious;
-but then it must be oh his own terms.
+but then it must be on his own terms.
 If we would be reconciled to God through the mediation of his dear Son,
 our Lord and Saviour, we must take up the cross.
 
