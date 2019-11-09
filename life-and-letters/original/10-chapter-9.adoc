@@ -3,9 +3,9 @@
 [.chapter-synopsis]
 * 1828-1834.
 * Elizabeth Robinson`'s last meeting
-* Visit to Virginia yearly meeting
+* Visit to Virginia Yearly Meeting
 * Doctor Godman`'s death
-* Yearly meeting`'s committee
+* Yearly Meeting`'s committee
 * Letters.
 
 [.embedded-content-document.letter]
@@ -52,7 +52,7 @@ and ask of Him to change thy heart and make it better.
 His power alone can do it; and He is as willing now as ever He was to cleanse and purify.
 Though thou may experience thy inward troubles, yet if thou follows on to know the Lord,
 He will in his own time, '`give thee beauty for ashes, the oil of joy for mourning,
-and the garment of praise for the spirit of heaviness.
+and the garment of praise for the spirit of heaviness.`'
 
 --
 
@@ -127,7 +127,7 @@ footnote:[Phebe and Abigail Sharpless.
 They had been on a visit to Western New York and
 intended returning home through Susquehanna Co.]
 I left Philadelphia last Seventh-day for New York; arrived safely in the evening;
-attended at the new meeting-house twice on First-day; and with A. Braithwait, Henry Hull,
+attended at the new meeting-house twice on First-day; and with Anna Braithwait, Henry Hull,
 Samuel Adams, and other Friends.
 On Second-day I went up the River Hudson to Newburg, and was quite unwell on the passage.
 As the stage was to leave Newburg at 2 o`'clock in the morning, I went early to bed,
@@ -256,7 +256,7 @@ Of this journey little account is preserved.
 He left home on the 12th of the Fifth month,
 and having passed rapidly through the Eastern meetings in Cain Quarterly Meeting,
 he passed into the Western, beginning at London Grove,
-Fifth-day the 20th. Daring this journey he was in a low state of mind.
+Fifth-day the 20th. During this journey he was in a low state of mind.
 
 In writing to his wife, he says: "`I have very little to say of our meetings,
 for I think, notwithstanding Friends are very kind,
@@ -496,7 +496,7 @@ To the Same
 [.signed-section-context-open]
 Twelfth month 27th
 
-Citizen, Stephen Girard, died yesterday.
+Our rich citizen, Stephen Girard, died yesterday.
 His wealth could not save him from the common lot.
 Great curiosity, is no doubt, felt, to know how he has left his immense wealth.
 A few days will probably disclose the secret.
@@ -533,7 +533,7 @@ The matter continuing with him, he afterwards believed it right to reduce it to 
 --
 
 [.letter-heading]
-Substance of a Prayer,
+Substance of a Prayer.
 
 [.signed-section-context-open]
 Fifth month 4th, 1832.
@@ -598,8 +598,7 @@ Beside the committee and Hannah C. Backhouse, eight men and thirteen women were 
 Some evidence of a right concern amongst them.
 The mourners were encouraged.
 
-10th. Quarterly.
-Meeting.
+10th. Quarterly Meeting.
 About 90 men and boys.
 The business was harmoniously attended to; and it was thought to be a solid opportunity.
 The young people behaved with great solidity.
@@ -642,7 +641,7 @@ Whitemarsh, Sixth month 1st, 1832.
 My Dear,
 
 We attended +++[+++Frankford]
-Monthly Meeting at Gerroantown on Third-day; dined at Thomas Megargee`'s;
+Monthly Meeting at Germantown on Third-day; dined at Thomas Megargee`'s;
 and had Asa Walmesly for a pilot to Byberry.
 We, that is Joseph Whitall and myself, with the two women Friends +++[+++Hannah Warrington,
 Jr., and Hannah Paul], lodged at his house.
@@ -652,7 +651,7 @@ On Fourth-day we attended Bucks Quarterly Meeting of Ministers and Elders,
 where sister Martha met us;
 with whom we went to Moses Comfort Jr.`'s. The
 next day was the Quarterly Meeting of business.
-Sister M. went home with Mercy Hulme;^
+Sister Martha went home with Mercy Hulme;^
 footnote:[An Elder]
 we went to James Moon`'s to dine and lodge.
 Today we have had a wearisome journey to Ezra Comfort`'s,
@@ -696,9 +695,9 @@ they were ready for a trip to Stroudsburg and Friendsville,
 the most distant meeting of Abington Quarterly Meeting.
 They left Philadelphia on Third-day, the of Seventh month.
 It was a serious parting.
-The Asiatic, or spasmodic cholera had just broken out in New York,
+The Asiatic, or spasmodic cholera, had just broken out in New York,
 and from the rapidity of its progress, no doubt could be reasonably entertained,
-but that it #would reach Philadelphia before their return.
+but that it would reach Philadelphia before their return.
 No account of this visit has been found amongst Thomas Kite`'s papers.
 It was, however, performed to their satisfaction.
 
@@ -779,7 +778,7 @@ Philadelphia, Tenth month 20th, 1832.
 Dear Son:
 
 I expect to go to Baltimore Yearly Meeting.
-Thou, hast heard, I presume, of the death of Edward Bettle.
+Thou hast heard, I presume, of the death of Edward Bettle.
 He had been a dutiful son to his father, and being of good talents,
 well improved by education, he was not only useful in civil and religious society,
 but had become the companion and counsellor of his father,
@@ -861,13 +860,13 @@ An interesting account of this illness will be found in a memoir, published of h
 
 At an adjournment of Philadelphia Monthly Meeting, held Fifth month 8th, 1834,
 Thomas Kite received a minute "`to pay a religious visit to the
-meetings composing Shrewsbury and Eahway Quarterly Meeting,
+meetings composing Shrewsbury and Rahway Quarterly Meeting,
 and also a few meetings within the limits of
 Burlington and Haddonfield Quarterly Meetings,
 particularly those near the sea shore.`"
 Soon after the Monthly Meeting, he started to fulfill this prospect.
 
-His first meeting was at Plainfield, his second at Eahway;
+His first meeting was at Plainfield, his second at Rahway;
 after which he proceeded to Shrewsbury,
 where the Quarterly Meeting for business was held,
 on the 15th. On that day he addressed a letter to his invalid son Joshua,
