@@ -7,9 +7,9 @@
 * Letters
 * Yearly Meeting
 * Last letter of his mother
-* Her death..
+* Her death.
 
-Joseph John Gurney, late of Norwich, England,
++++[+++Joseph John Gurney, late of Norwich, England,
 will long be remembered on account of the extensive distress
 and disunity produced throughout the Society of Friends,
 by his doctrinal writings.
@@ -146,7 +146,7 @@ in a sweetly affectionate and solemn manner.
 He commenced with addressing +++_______+++; said he thought it was a critical time with her,
 and expressed the earnest desire he felt,
 that she might improve by the opportunities which were presented to her.
-Then came something for, encouraging her to persevere.
+Then came something for+++_______+++, encouraging her to persevere.
 Next was a message for John L. Smith, desiring he might seek first the kingdom of heaven,
 then all things necessary would be added;
 impressing the necessity of a complete surrender.
@@ -183,7 +183,7 @@ and grieve not the Holy Spirit of God,
 by which the disciples of the Lord Jesus are sealed unto the day of redemption.
 So shall thy life be happy,
 and the work of preparation be going on for another state of being, where,
-having fulfilled thy coarse of service to thy great Lord and Master on earth,
+having fulfilled thy course of service to thy great Lord and Master on earth,
 thou may forever enjoy the sweet society of pure
 and blessed spirits in the paradise of God.
 
@@ -198,12 +198,11 @@ he said:]
 
 Thou probably heard by cousin James,
 that the two carriage loads of Philadelphians started together on Fourth-day morning.
-Thos.
-Scattergood with his company took the lead, and we quickly lost sight of them in the fog.
+Thomas Scattergood with his company took the lead, and we quickly lost sight of them in the fog.
 It was agreed that we should dine at George Allen`'s at Springfield,
 but when we arrived there we could get no tidings of our friends.
 Charles and I reached home in the evening.
-I have since heard that T. S. missed his way and went from Middletown towards Chester.
+I have since heard that Thomas Scattergood missed his way and went from Middletown towards Chester.
 On discovering his mistake he was about to turn back,
 but the women +++[+++Sarah Hillman and her companion]
 prevented him, finding their minds drawn towards Chester Meeting,
@@ -398,7 +397,7 @@ The patient behaved with great firmness, and is now doing well.
 I believe thou hast heard of thy sister Susan`'s indisposition.
 She continues unwell, and may probably have to lie in bed some weeks.
 
-I suppose some of the family have "`written to thee about our late Yearly Meeting.
+I suppose some of the family have written to thee about our late Yearly Meeting.
 It was large and much valuable counsel was communicated in it.
 We had +++[+++at our house]
 the acceptable company of John Wilbur, also of George F. Reed,
@@ -436,8 +435,8 @@ upwards of one thousand per day are the victims of it; separated from their nati
 a large portion of whom perish in the voyage to the land of bondage.
 
 A memorial concerning our late Friend, Jonathan Evans, was read;
-by which it appeared he was convinced by incidently looking into Penn`'s "`No Cross,
-No Crown`" and seeing there a testimony to the Light of Christ in men.
+by which it appeared he was convinced by incidently looking into Penn`'s [.book-title]#"`No Cross,
+No Crown`"# and seeing there a testimony to the Light of Christ in men.
 The reading the answers to the Queries,
 introduced the meeting into exercise on account of the continued
 neglect of our members in attending religious meetings,
@@ -623,7 +622,7 @@ and indulged therein even after my mind became uneasy with the practice,
 until in one of my solitary evening walks, and when in the act of singing, I heard,
 as it were, a voice distinctly say, '`If thou wilt discontinue that gratification,
 thou shalt be made partaker of a much more perfect harmony.`'
-"`John Churchman says in his Journal:
+John Churchman says in his Journal:
 "`I had taken great delight from a child to play with whistles
 and pipes made of the bark of small branches of trees,
 and of straws of wheat and rye,
@@ -667,7 +666,7 @@ Thy grandmother has gone to Fallowfield, accompanied by thy aunt Mary and little
 By a letter received by W. B. F. from cousin James R. Greeves,
 it appears that he has written to Aaron.
 Of course I suppose you have the particulars of his voyage out.
-+++[+++J. R. G. accompanied Jacob Green to Ireland,
++++[+++James R. Greeves accompanied Jacob Green to Ireland,
 where he paid a visit among his own relations.]
 
 --
@@ -755,7 +754,7 @@ Indeed all are kind, and willing to visit me and make me comfortable.
 --
 
 [.letter-heading]
-Mary Kite to S. Sharpless.
+Mary Kite to Sarah Sharpless.
 
 [.signed-section-context-open]
 Eleventh month 14th.
@@ -796,7 +795,7 @@ Her concern met with the approbation of the meeting,
 and I suppose she commenced her labours this morning.
 Elizabeth Evans is absent on a similar concern for the
 two Monthly Meetings of Haddonfield and Chester,
-(N. J.) William
+(New Jersey). William
 Evans has lately returned from a religious visit to the
 meetings of Purchase and Westberry Quarterly Meetings,
 in the State of New York.
