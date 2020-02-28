@@ -90,7 +90,7 @@ Thomas Kite to his daughter Rebecca.
 First month 17th, 1842.
 
 Cousin Edith +++[+++Jefferis]
-remained with us until Sixth-clay afternoon, when I accompanied her to Woodbury.
+remained with us until Sixth-day afternoon, when I accompanied her to Woodbury.
 We lodged at George Mickle`'s,
 and had Rebecca Pike and her daughter with us in the evening.
 In the morning, after seeing Edith safe in the Greenwich stage,
@@ -141,7 +141,7 @@ yet there is nothing in his present state to forbid the hope
 on the part of his friends that he may see another summer,
 and again sit with them in a religious assembly.
 
-+++[+++After mentioning the death of, the letter continues:]
++++[+++After mentioning the death of +++_______+++, the letter continues:]
 But though the Church is stripped in many places of
 those who have stood as standard bearers in their day,
 I have faith to believe others will be raised up to fill their places,
@@ -248,7 +248,7 @@ Perhaps thy letters of last week informed thee,
 that Elizabeth Robson had a prospect of a similar service
 within the limits of the Southern District Monthly Meeting,
 but way did not open in the meeting to encourage her to proceed.
-'`The subject of a new nomination of elders,
+The subject of a new nomination of elders,
 was weightily before our late Monthly Meeting,
 and a joint committee of men and women separated to attend to the concern.
 I feel very solicitous that a single eye may be
@@ -262,7 +262,7 @@ which is said to have occurred after an illness of only three days.
 But there certainly is a place of quietude under every storm,
 to be attained by the devoted Christian,
 whose confidence is firm in the everlasting truth, "`The Lord reigneth.`"
-'`May my dear children, with myself,
+May my dear children, with myself,
 be increasingly engaged to love and serve Him in our generation,
 and count nothing too dear to be parted with to evidence our
 gratitude to Him who loved us before we loved Him.
