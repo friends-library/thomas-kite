@@ -91,8 +91,8 @@ from the neighbourhood of Lockport, New York, with Benjamin Bowerman for compani
 an Elder from near Rochester.
 
 They seem both worthy and humble-minded men.
-Dost thou remember William Wetherill, the lame lad at West-town?
-He appears to be in the last stage of consumption, and w ill probably die to-night.
+Dost thou remember William Wetherill, the lame lad at Westtown?
+He appears to be in the last stage of consumption, and will probably die to-night.
 His conduct in some respects has been unguarded,
 but there is good ground to hope he has been favoured
 to experience repentance and a change of heart,
@@ -131,7 +131,7 @@ Third month 12th.
 
 Having written so often of late, I seem to have little more to add,
 excepting the expression of the warm desire I feel for thy preservation.
-Many are the clangers, in the most sheltered situations,
+Many are the dangers, in the most sheltered situations,
 which attend our passage through the present world.
 May thy attention be kept close to the heavenly Pilot,
 that so thou may avoid the rocks and quicksands on which so many strike and perish,
@@ -158,7 +158,7 @@ Thomas Stewardson and Jesse Spencer.]
 --
 
 [.letter-heading]
-Thomas Kite to E. S. F
+Thomas Kite to Elizabeth S. Fell
 
 [.signed-section-context-open]
 Fourth month 12th, 1841.
@@ -214,8 +214,8 @@ and she recommended to the Select Quarterly Meeting as a minister;
 and yesterday I was furnished by our Monthly Meeting with a minute to pay a
 little debt of gospel love within the limits of Baltimore Quarterly Meeting.
 
-It has been a comfort to me that cousin Edith +++[+++Jefferis]
-'`s case was resulted in so satisfactory a manner.^
+It has been a comfort to me that cousin Edith +++[+++Jefferis]`'s
+case was resulted in so satisfactory a manner.^
 footnote:[Recommended as a minister.]
 I hope, dear child,
 she will be preserved in an inward attention to the puttings forth of the Good Shepherd,
@@ -307,7 +307,7 @@ the different branches of our still favoured,
 although in the parts I have visited, greatly reduced and scattered Society.
 
 I was not very well whilst absent, nor for some weeks after my return.
-Jesse Spencer has several times invited us to pay his family a visit, so, in hopes it;
+Jesse Spencer has several times invited us to pay his family a visit, so, in hopes it
 would prove beneficial to my health, thy mother, sister Rebecca and I,
 concluded to go to Gwynedd on Fourth-day week.
 On Fifth-day we attended their week-day meeting;
@@ -320,7 +320,7 @@ We returned to Moreland, took tea at Charles Spencer`'s, a cousin of Jesse,
 where we met thy mother and sister,
 and called at Samuel Spencer`'s (a brother of Charles) on our way to George`'s,
 from whence we returned the same evening to Jesse`'s.
-Seventh-clay morning I walked to see Phebe Roberts,
+Seventh-day morning I walked to see Phebe Roberts,
 Hannah Williams`' married daughter, who has, of late,
 appeared at times in the line of the ministry.
 
@@ -341,7 +341,7 @@ Soon after his return he received the following letter from his late host, viz.]
 Dear friend:
 
 Thy little visit to our habitation was so pleasant,
-and '`has left so sweet a feeling upon our minds,
+and has left so sweet a feeling upon our minds,
 that I feel as though I cannot be satisfied without expressing it.
 
 I am thankful thou wast not discouraged from it, as it made our hearts glad,
@@ -529,8 +529,8 @@ Ninth month 28th, 1841.
 
 I do not expect to attend the examination +++[+++at Westtown],
 but have thought of being at the school in time to meet
-the Committee on Instruction on Fifth-day evening,
-"`Smith Upton and Sarah B. Thompson are proposing to
+the Committee on Instruction on Fifth-day evening.
+Smith Upton and Sarah B. Thompson are proposing to
 take each other in marriage on Fifth-day next.
 My wife and I are appointed to attend on that occasion.
 William Evans and Jeremiah Hacker were heard from yesterday;
@@ -604,7 +604,7 @@ Elizabeth Evans ministered to us.^
 footnote:[One of Thomas Kite`'s nieces writing of this meeting to her uncle Nathan, says:
 "`We had a very good meeting indeed the day they were married;
 very much to my satisfaction.
-E+++.+++ Evans gave us one of her very best sermons, commencing with,
+Elizabeth Evans gave us one of her very best sermons, commencing with,
 '`He that loseth his life for my sake shall find it.`'
 It was a very tender and affectionate appeal to the young people present,
 especially to the visited of the Lord,
@@ -666,7 +666,7 @@ Nathan gives an account of Indiana Yearly Meeting.
 Some excitement prevailed on the abolition question,
 arising from a minute introduced by the Meeting for Sufferings
 against opening Friends`' meeting-houses for lectures;
-noticing also Joseph Sturges`' letter, and Arnold Buffing-ton`'s paper, and one other.
+noticing also Joseph Sturges`' letter, and Arnold Buffington`'s paper, and one other.
 The meeting adopted the minute of advice,
 and ordered it to be inserted in the printed minutes.
 Samuel and Nathan are expected home about the time of our Quarterly Meeting.
@@ -766,7 +766,7 @@ Eleventh month 8th, 1841.
 Our aged friend, John Cox, has been paying a visit to his daughter Susan,
 and has attended our meeting divers times, and ministered to us acceptably.
 Considering he is now in his eighty-eighth year, he is remarkably bright and intelligent.
-H+++.+++ Warrington, Jr., has gone to North Carolina Yearly Meeting,
+Hannah Warrington, Jr., has gone to North Carolina Yearly Meeting,
 accompanied by Lydia Stokes and Benjamin Albertson.
 The meeting of business was to commence today.
 Very favourable accounts continue to be received from William Evans and Jeremiah Hacker.
@@ -815,7 +815,7 @@ It is a precious promise, and one that we may lay hold of,
 if conscious that amidst all our weaknesses, we are desiring above everything else,
 to please our Heavenly Father,
 "`All things shall work together for good to them that love God.`"
-I feel towards thee not only the Sowings of paternal affection, but something else,
+I feel towards thee not only the flowings of paternal affection, but something else,
 I humbly trust, of gospel love, and not merely desire thy advancement in the best things,
 but have been enabled to believe that by various dispensations of his love and mercy,
 thy Divine Master is preparing thee to surrender thy own will to his blessed will,
@@ -896,7 +896,7 @@ It is very cordial to receive the
 evidences of the remembrance of our home friends,
 and their affectionate desires for our preservation every way,--among
 which was thy acceptable token of brotherly regard,
-by B. Albertson.
+by Benjamin Albertson.
 We thought and spoke of our own Quarterly Meeting,
 at the time we supposed it was sitting;
 and I felt the trust and persuasion that the Good Shepherd was with you;
@@ -943,7 +943,7 @@ dress and manner of wearing the hair among his people.
 He called out yesterday in the Yearly Meeting, "`What a pity;
 that a child of a Friend should be going up the
 gallery steps with a frock-tailed coat on!`"
-He often, refers to the Prophet Isaiah`'s denunciation of many articles of dress,
+He often refers to the Prophet Isaiah`'s denunciation of many articles of dress,
 and says he believes many of the present day are as opposite to the Divine Will as these.
 I hope a little discrimination will be granted and continued
 amongst us whatever may be said of our standard.
@@ -985,11 +985,11 @@ and that the present meeting will give force to it.
 Jeremiah and I enjoy good health; and tomorrow (Seventh-day),
 expect to pursue our journey to the meetings, commencing with Deep Run.
 
-D+++.+++ and A. Clark have received and treated us with marked kindness;
+Dougan and Asenath Clark have received and treated us with marked kindness;
 assisted us in laying out the route.
 They are Quakers of the original stamp, and are not carried off with mere words.
 Love to thyself,
-wife and to M. and N. Jeremiah desires me to acknowledge the receipt of thy letter,
+wife and to Mary and Nathan. Jeremiah desires me to acknowledge the receipt of thy letter,
 and wishes his love communicated.
 
 --
@@ -1099,7 +1099,7 @@ It is another affecting instance of the uncertainty of life,
 and conveys an admonition to survivors to be in
 a state of readiness to meet the solemn close.
 I regret that the time fixed for the interment is Sixth-day afternoon,
-at the very hoar when the Boarding School Committee are to assemble.
+at the very hour when the Boarding School Committee are to assemble.
 As she was a member of it,
 a number of the Friends belonging to it would
 have felt interested in attending her funeral.
