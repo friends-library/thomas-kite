@@ -142,6 +142,7 @@ after which, our prospect is to attend Exeter Monthly Meeting on the following w
 
 Amongst the families visited is that in which Elizabeth Kately resides,
 who seems green and lively at the advanced age of ninety-five,
+// lint-disable join-words "down stairs"
 going up and down stairs without assistance.
 With love to my dear parents, to thyself and children, I am thy truly attached husband.
 
@@ -293,7 +294,7 @@ Seventh month 31st, 1838.
 
 The funeral of our relative, Mary Phipps, took place yesterday.
 There was less difficulty with the body than was anticipated.
-Notwithstanding its great size and weight, it was removed down stairs,
+Notwithstanding its great size and weight, it was removed downstairs,
 without much trouble, by six men.
 
 On Seventh-day night thy grandfather rose from his bed to look at his watch,
