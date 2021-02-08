@@ -109,10 +109,8 @@ Some parts to be suppressed,
 but containing much that interests and informs
 respecting the manners and customs of nations.
 
-[.small-break]
-'''
-
-[Sarah Sharpless, the wife of Isaac, Edith Kite`'s brother, was now in declining health.
+[.offset]
++++[+++Sarah Sharpless, the wife of Isaac, Edith Kite`'s brother, was now in declining health.
 As she was patiently and hopefully drawing near her close, her mother-in-law,
 Ann Sharpless, who resided under the same roof with her, became much depressed in spirit.
 Joshua Sharpless having written to his son Thomas,
